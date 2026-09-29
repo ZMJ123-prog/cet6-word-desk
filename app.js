@@ -111,6 +111,7 @@
       $("#card-source").textContent = "本轮完成";
       $("#card-position").textContent = `${deck.length} / ${deck.length}`;
       $("#card-word").textContent = "完成";
+      $("#card-ipa").textContent = "";
       $("#card-hint").textContent = "你已经完成本轮复习，可以重新选词或开始测验。";
       $("#reveal-answer").hidden = true;
       $("#session-bar").style.width = "100%";
@@ -119,11 +120,13 @@
     $("#card-source").textContent = `${word.exam} · ${word.letter}`;
     $("#card-position").textContent = `${deckIndex + 1} / ${deck.length}`;
     $("#card-word").textContent = word.word;
+    $("#card-ipa").textContent = word.ipa ? `/${word.ipa}/` : "";
     $("#card-hint").textContent = "先回想含义，再显示答案";
     $("#card-meaning").textContent = word.meaning;
     $("#card-exam").textContent = word.exam;
     $("#card-letter").textContent = `选项 ${word.letter}`;
     $("#session-bar").style.width = `${(deckIndex / deck.length) * 100}%`;
+    speak(word.word, true);
   }
 
   function revealCard() {
@@ -177,12 +180,13 @@
     $("#session-learning").textContent = remaining.filter((word) => wordStatus(word) === "learning").length;
   }
 
-  function speak(word) {
+  function speak(word, automatic = false) {
     if (!word || !window.speechSynthesis) return showToast("当前浏览器不支持朗读");
     speechSynthesis.cancel();
     const utterance = new SpeechSynthesisUtterance(word);
     utterance.lang = "en-US";
     utterance.rate = 0.86;
+    if (automatic) utterance.volume = 0.95;
     speechSynthesis.speak(utterance);
   }
 

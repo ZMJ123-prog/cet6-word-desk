@@ -7,7 +7,8 @@ window.CET6_WORDS = [
     "exam": "2021年6月第1套",
     "letter": "A",
     "word": "alienating",
-    "meaning": "使疏远的；排斥的"
+    "meaning": "使疏远的；排斥的",
+    "ipa": "ˈeɪliəˌneɪtɪŋ"
   },
   {
     "id": 2,
@@ -17,7 +18,8 @@ window.CET6_WORDS = [
     "exam": "2021年6月第1套",
     "letter": "B",
     "word": "appreciation",
-    "meaning": "理解；欣赏；感激"
+    "meaning": "理解；欣赏；感激",
+    "ipa": "əˌpriʃiˈeɪʃən"
   },
   {
     "id": 3,
@@ -27,7 +29,8 @@ window.CET6_WORDS = [
     "exam": "2021年6月第1套",
     "letter": "C",
     "word": "bias",
-    "meaning": "偏见；偏向"
+    "meaning": "偏见；偏向",
+    "ipa": "baɪəs"
   },
   {
     "id": 4,
@@ -37,7 +40,8 @@ window.CET6_WORDS = [
     "exam": "2021年6月第1套",
     "letter": "D",
     "word": "fraud",
-    "meaning": "欺诈；骗子"
+    "meaning": "欺诈；骗子",
+    "ipa": "frɔd"
   },
   {
     "id": 5,
@@ -47,7 +51,8 @@ window.CET6_WORDS = [
     "exam": "2021年6月第1套",
     "letter": "E",
     "word": "housed",
-    "meaning": "安置；容纳"
+    "meaning": "安置；容纳",
+    "ipa": "haʊzd"
   },
   {
     "id": 6,
@@ -57,7 +62,8 @@ window.CET6_WORDS = [
     "exam": "2021年6月第1套",
     "letter": "F",
     "word": "investigated",
-    "meaning": "调查；研究"
+    "meaning": "调查；研究",
+    "ipa": "ˌɪnˈvɛstəˌgeɪtɪd"
   },
   {
     "id": 7,
@@ -67,7 +73,8 @@ window.CET6_WORDS = [
     "exam": "2021年6月第1套",
     "letter": "G",
     "word": "overwhelming",
-    "meaning": "压倒性的；巨大的"
+    "meaning": "压倒性的；巨大的",
+    "ipa": "ˌoʊvərˈwɛlmɪŋ"
   },
   {
     "id": 8,
@@ -77,7 +84,8 @@ window.CET6_WORDS = [
     "exam": "2021年6月第1套",
     "letter": "H",
     "word": "portraying",
-    "meaning": "描绘；表现"
+    "meaning": "描绘；表现",
+    "ipa": "pɔrˈtreɪɪŋ"
   },
   {
     "id": 9,
@@ -87,7 +95,8 @@ window.CET6_WORDS = [
     "exam": "2021年6月第1套",
     "letter": "I",
     "word": "representation",
-    "meaning": "代表；描绘；表现"
+    "meaning": "代表；描绘；表现",
+    "ipa": "ˌrɛprəzɛnˈteɪʃən"
   },
   {
     "id": 10,
@@ -97,7 +106,8 @@ window.CET6_WORDS = [
     "exam": "2021年6月第1套",
     "letter": "J",
     "word": "safeguarded",
-    "meaning": "保护；保障"
+    "meaning": "保护；保障",
+    "ipa": "ˈseɪfˌgɑrdɪd"
   },
   {
     "id": 11,
@@ -107,7 +117,8 @@ window.CET6_WORDS = [
     "exam": "2021年6月第1套",
     "letter": "K",
     "word": "secondary",
-    "meaning": "次要的；中等的"
+    "meaning": "次要的；中等的",
+    "ipa": "ˈsɛkənˌdɛri"
   },
   {
     "id": 12,
@@ -117,7 +128,8 @@ window.CET6_WORDS = [
     "exam": "2021年6月第1套",
     "letter": "L",
     "word": "superiority",
-    "meaning": "优越；优势"
+    "meaning": "优越；优势",
+    "ipa": "ˌsupɪriˈɔrɪti"
   },
   {
     "id": 13,
@@ -127,7 +139,8 @@ window.CET6_WORDS = [
     "exam": "2021年6月第1套",
     "letter": "M",
     "word": "temperament",
-    "meaning": "性情；气质"
+    "meaning": "性情；气质",
+    "ipa": "ˈtɛmpərmənt"
   },
   {
     "id": 14,
@@ -137,7 +150,8 @@ window.CET6_WORDS = [
     "exam": "2021年6月第1套",
     "letter": "N",
     "word": "tentative",
-    "meaning": "试探性的；暂定的"
+    "meaning": "试探性的；暂定的",
+    "ipa": "ˈtɛntətɪv"
   },
   {
     "id": 15,
@@ -147,7 +161,8 @@ window.CET6_WORDS = [
     "exam": "2021年6月第1套",
     "letter": "O",
     "word": "threshold",
-    "meaning": "门槛；界限"
+    "meaning": "门槛；界限",
+    "ipa": "θˈrɛˌʃoʊld"
   },
   {
     "id": 16,
@@ -157,7 +172,8 @@ window.CET6_WORDS = [
     "exam": "2021年6月第2套",
     "letter": "A",
     "word": "abundance",
-    "meaning": "大量；充足"
+    "meaning": "大量；充足",
+    "ipa": "əˈbəndəns"
   },
   {
     "id": 17,
@@ -167,7 +183,8 @@ window.CET6_WORDS = [
     "exam": "2021年6月第2套",
     "letter": "B",
     "word": "astonishment",
-    "meaning": "惊讶"
+    "meaning": "惊讶",
+    "ipa": "əˈstɑnɪʃmənt"
   },
   {
     "id": 18,
@@ -177,7 +194,8 @@ window.CET6_WORDS = [
     "exam": "2021年6月第2套",
     "letter": "C",
     "word": "entailed",
-    "meaning": "需要；必然导致"
+    "meaning": "需要；必然导致",
+    "ipa": "ɪnˈteɪld"
   },
   {
     "id": 19,
@@ -187,7 +205,8 @@ window.CET6_WORDS = [
     "exam": "2021年6月第2套",
     "letter": "D",
     "word": "envisaged",
-    "meaning": "设想；预见"
+    "meaning": "设想；预见",
+    "ipa": "ɛnˈvɪzɪʤd"
   },
   {
     "id": 20,
@@ -197,7 +216,8 @@ window.CET6_WORDS = [
     "exam": "2021年6月第2套",
     "letter": "E",
     "word": "equation",
-    "meaning": "方程式；平衡关系"
+    "meaning": "方程式；平衡关系",
+    "ipa": "ɪkˈweɪʒən"
   },
   {
     "id": 21,
@@ -207,7 +227,8 @@ window.CET6_WORDS = [
     "exam": "2021年6月第2套",
     "letter": "F",
     "word": "expended",
-    "meaning": "花费；消耗"
+    "meaning": "花费；消耗",
+    "ipa": "ɪkˈspɛndɪd"
   },
   {
     "id": 22,
@@ -217,7 +238,8 @@ window.CET6_WORDS = [
     "exam": "2021年6月第2套",
     "letter": "G",
     "word": "feat",
-    "meaning": "壮举；技艺"
+    "meaning": "壮举；技艺",
+    "ipa": "fit"
   },
   {
     "id": 23,
@@ -227,7 +249,8 @@ window.CET6_WORDS = [
     "exam": "2021年6月第2套",
     "letter": "H",
     "word": "fiscally",
-    "meaning": "在财政上"
+    "meaning": "在财政上",
+    "ipa": "ˈfɪskəli"
   },
   {
     "id": 24,
@@ -237,7 +260,8 @@ window.CET6_WORDS = [
     "exam": "2021年6月第2套",
     "letter": "I",
     "word": "impetus",
-    "meaning": "推动力；动力"
+    "meaning": "推动力；动力",
+    "ipa": "ˈɪmpətəs"
   },
   {
     "id": 25,
@@ -247,7 +271,8 @@ window.CET6_WORDS = [
     "exam": "2021年6月第2套",
     "letter": "J",
     "word": "overhaul",
-    "meaning": "彻底检修；全面改革"
+    "meaning": "彻底检修；全面改革",
+    "ipa": "ˈoʊvərˌhɔl"
   },
   {
     "id": 26,
@@ -257,7 +282,8 @@ window.CET6_WORDS = [
     "exam": "2021年6月第2套",
     "letter": "K",
     "word": "permanently",
-    "meaning": "永久地"
+    "meaning": "永久地",
+    "ipa": "ˈpərmɑˌnɛnˌtli"
   },
   {
     "id": 27,
@@ -267,7 +293,8 @@ window.CET6_WORDS = [
     "exam": "2021年6月第2套",
     "letter": "L",
     "word": "plight",
-    "meaning": "困境"
+    "meaning": "困境",
+    "ipa": "plaɪt"
   },
   {
     "id": 28,
@@ -277,7 +304,8 @@ window.CET6_WORDS = [
     "exam": "2021年6月第2套",
     "letter": "M",
     "word": "prosper",
-    "meaning": "繁荣；兴旺"
+    "meaning": "繁荣；兴旺",
+    "ipa": "ˈprɑspər"
   },
   {
     "id": 29,
@@ -287,7 +315,8 @@ window.CET6_WORDS = [
     "exam": "2021年6月第2套",
     "letter": "N",
     "word": "shatter",
-    "meaning": "粉碎；使破灭"
+    "meaning": "粉碎；使破灭",
+    "ipa": "ˈʃætər"
   },
   {
     "id": 30,
@@ -297,7 +326,8 @@ window.CET6_WORDS = [
     "exam": "2021年6月第2套",
     "letter": "O",
     "word": "ultimately",
-    "meaning": "最终"
+    "meaning": "最终",
+    "ipa": "ˈəltəmətli"
   },
   {
     "id": 31,
@@ -307,7 +337,8 @@ window.CET6_WORDS = [
     "exam": "2021年6月第3套",
     "letter": "A",
     "word": "adversity",
-    "meaning": "逆境；不幸"
+    "meaning": "逆境；不幸",
+    "ipa": "ædˈvərsɪˌti"
   },
   {
     "id": 32,
@@ -317,7 +348,8 @@ window.CET6_WORDS = [
     "exam": "2021年6月第3套",
     "letter": "B",
     "word": "authentic",
-    "meaning": "真实的；真正的"
+    "meaning": "真实的；真正的",
+    "ipa": "əˈθɛnɪk"
   },
   {
     "id": 33,
@@ -327,7 +359,8 @@ window.CET6_WORDS = [
     "exam": "2021年6月第3套",
     "letter": "C",
     "word": "convey",
-    "meaning": "传达；输送"
+    "meaning": "传达；输送",
+    "ipa": "kənˈveɪ"
   },
   {
     "id": 34,
@@ -337,7 +370,8 @@ window.CET6_WORDS = [
     "exam": "2021年6月第3套",
     "letter": "D",
     "word": "depictions",
-    "meaning": "描绘；形象"
+    "meaning": "描绘；形象",
+    "ipa": "dɪˈpɪkʃənz"
   },
   {
     "id": 35,
@@ -347,7 +381,8 @@ window.CET6_WORDS = [
     "exam": "2021年6月第3套",
     "letter": "E",
     "word": "diminished",
-    "meaning": "减少的；被削弱的"
+    "meaning": "减少的；被削弱的",
+    "ipa": "dɪˈmɪnɪʃt"
   },
   {
     "id": 36,
@@ -357,7 +392,8 @@ window.CET6_WORDS = [
     "exam": "2021年6月第3套",
     "letter": "F",
     "word": "drowned",
-    "meaning": "淹没；压过声音"
+    "meaning": "淹没；压过声音",
+    "ipa": "draʊnd"
   },
   {
     "id": 37,
@@ -367,7 +403,8 @@ window.CET6_WORDS = [
     "exam": "2021年6月第3套",
     "letter": "G",
     "word": "embark",
-    "meaning": "开始从事；登船"
+    "meaning": "开始从事；登船",
+    "ipa": "ɪmˈbɑrk"
   },
   {
     "id": 38,
@@ -377,7 +414,8 @@ window.CET6_WORDS = [
     "exam": "2021年6月第3套",
     "letter": "H",
     "word": "fragility",
-    "meaning": "脆弱；易碎性"
+    "meaning": "脆弱；易碎性",
+    "ipa": "frəˈʤɪləti"
   },
   {
     "id": 39,
@@ -387,7 +425,8 @@ window.CET6_WORDS = [
     "exam": "2021年6月第3套",
     "letter": "I",
     "word": "neglected",
-    "meaning": "被忽视的；未受照顾的"
+    "meaning": "被忽视的；未受照顾的",
+    "ipa": "nɪˈglɛktɪd"
   },
   {
     "id": 40,
@@ -397,7 +436,8 @@ window.CET6_WORDS = [
     "exam": "2021年6月第3套",
     "letter": "J",
     "word": "obscurity",
-    "meaning": "默默无闻；模糊"
+    "meaning": "默默无闻；模糊",
+    "ipa": "əbˈskjʊrəti"
   },
   {
     "id": 41,
@@ -407,7 +447,8 @@ window.CET6_WORDS = [
     "exam": "2021年6月第3套",
     "letter": "K",
     "word": "outlines",
-    "meaning": "概述；轮廓"
+    "meaning": "概述；轮廓",
+    "ipa": "ˈaʊˌtlaɪnz"
   },
   {
     "id": 42,
@@ -417,7 +458,8 @@ window.CET6_WORDS = [
     "exam": "2021年6月第3套",
     "letter": "L",
     "word": "prevalent",
-    "meaning": "流行的；普遍的"
+    "meaning": "流行的；普遍的",
+    "ipa": "ˈprɛvələnt"
   },
   {
     "id": 43,
@@ -427,7 +469,8 @@ window.CET6_WORDS = [
     "exam": "2021年6月第3套",
     "letter": "M",
     "word": "purchasable",
-    "meaning": "可购买的"
+    "meaning": "可购买的",
+    "ipa": "ˈpɝtʃəsəbəl"
   },
   {
     "id": 44,
@@ -437,7 +480,8 @@ window.CET6_WORDS = [
     "exam": "2021年6月第3套",
     "letter": "N",
     "word": "submit",
-    "meaning": "提交；屈服"
+    "meaning": "提交；屈服",
+    "ipa": "səbˈmɪt"
   },
   {
     "id": 45,
@@ -447,7 +491,8 @@ window.CET6_WORDS = [
     "exam": "2021年6月第3套",
     "letter": "O",
     "word": "suppress",
-    "meaning": "抑制；压制"
+    "meaning": "抑制；压制",
+    "ipa": "səˈprɛs"
   },
   {
     "id": 46,
@@ -457,7 +502,8 @@ window.CET6_WORDS = [
     "exam": "2021年12月第1套",
     "letter": "A",
     "word": "affect",
-    "meaning": "影响"
+    "meaning": "影响",
+    "ipa": "əˈfɛkt"
   },
   {
     "id": 47,
@@ -467,7 +513,8 @@ window.CET6_WORDS = [
     "exam": "2021年12月第1套",
     "letter": "B",
     "word": "beyond",
-    "meaning": "超过；超出"
+    "meaning": "超过；超出",
+    "ipa": "bɪɔnd"
   },
   {
     "id": 48,
@@ -477,7 +524,8 @@ window.CET6_WORDS = [
     "exam": "2021年12月第1套",
     "letter": "C",
     "word": "conceded",
-    "meaning": "承认了；让步了"
+    "meaning": "承认了；让步了",
+    "ipa": "kənˈsidɪd"
   },
   {
     "id": 49,
@@ -487,7 +535,8 @@ window.CET6_WORDS = [
     "exam": "2021年12月第1套",
     "letter": "D",
     "word": "correlation",
-    "meaning": "相关性；关联"
+    "meaning": "相关性；关联",
+    "ipa": "ˌkɔrəˈleɪʃən"
   },
   {
     "id": 50,
@@ -497,7 +546,8 @@ window.CET6_WORDS = [
     "exam": "2021年12月第1套",
     "letter": "E",
     "word": "foster",
-    "meaning": "促进；培养"
+    "meaning": "促进；培养",
+    "ipa": "ˈfɑstər"
   },
   {
     "id": 51,
@@ -507,7 +557,8 @@ window.CET6_WORDS = [
     "exam": "2021年12月第1套",
     "letter": "F",
     "word": "henceforth",
-    "meaning": "从此以后"
+    "meaning": "从此以后",
+    "ipa": "ˈhɛnsˈfɔrθ"
   },
   {
     "id": 52,
@@ -517,7 +568,8 @@ window.CET6_WORDS = [
     "exam": "2021年12月第1套",
     "letter": "G",
     "word": "lofty",
-    "meaning": "崇高的；高耸的"
+    "meaning": "崇高的；高耸的",
+    "ipa": "ˈlɔfti"
   },
   {
     "id": 53,
@@ -527,7 +579,8 @@ window.CET6_WORDS = [
     "exam": "2021年12月第1套",
     "letter": "H",
     "word": "noteworthy",
-    "meaning": "值得注意的"
+    "meaning": "值得注意的",
+    "ipa": "ˈnoʊtˌwərði"
   },
   {
     "id": 54,
@@ -537,7 +590,8 @@ window.CET6_WORDS = [
     "exam": "2021年12月第1套",
     "letter": "I",
     "word": "plausibly",
-    "meaning": "言之成理地；似乎可能地"
+    "meaning": "言之成理地；似乎可能地",
+    "ipa": "ˈplɔzəbli"
   },
   {
     "id": 55,
@@ -547,7 +601,8 @@ window.CET6_WORDS = [
     "exam": "2021年12月第1套",
     "letter": "J",
     "word": "premature",
-    "meaning": "过早的；不成熟的"
+    "meaning": "过早的；不成熟的",
+    "ipa": "ˌpriməˈʧʊr"
   },
   {
     "id": 56,
@@ -557,7 +612,8 @@ window.CET6_WORDS = [
     "exam": "2021年12月第1套",
     "letter": "K",
     "word": "reconciled",
-    "meaning": "使和解；使协调"
+    "meaning": "使和解；使协调",
+    "ipa": "ˈrɛkənˌsaɪld"
   },
   {
     "id": 57,
@@ -567,7 +623,8 @@ window.CET6_WORDS = [
     "exam": "2021年12月第1套",
     "letter": "L",
     "word": "span",
-    "meaning": "持续时间；跨度"
+    "meaning": "持续时间；跨度",
+    "ipa": "spæn"
   },
   {
     "id": 58,
@@ -577,7 +634,8 @@ window.CET6_WORDS = [
     "exam": "2021年12月第1套",
     "letter": "M",
     "word": "specifically",
-    "meaning": "具体地；特别是"
+    "meaning": "具体地；特别是",
+    "ipa": "spəˈsɪfɪkli"
   },
   {
     "id": 59,
@@ -587,7 +645,8 @@ window.CET6_WORDS = [
     "exam": "2021年12月第1套",
     "letter": "N",
     "word": "spiral",
-    "meaning": "螺旋；急剧恶化"
+    "meaning": "螺旋；急剧恶化",
+    "ipa": "ˈspaɪrəl"
   },
   {
     "id": 60,
@@ -597,7 +656,8 @@ window.CET6_WORDS = [
     "exam": "2021年12月第1套",
     "letter": "O",
     "word": "trait",
-    "meaning": "特征；品质"
+    "meaning": "特征；品质",
+    "ipa": "treɪt"
   },
   {
     "id": 61,
@@ -607,7 +667,8 @@ window.CET6_WORDS = [
     "exam": "2021年12月第2套",
     "letter": "A",
     "word": "accessories",
-    "meaning": "配饰；附件"
+    "meaning": "配饰；附件",
+    "ipa": "ækˈsɛsəriz"
   },
   {
     "id": 62,
@@ -617,7 +678,8 @@ window.CET6_WORDS = [
     "exam": "2021年12月第2套",
     "letter": "B",
     "word": "align",
-    "meaning": "使一致；对齐"
+    "meaning": "使一致；对齐",
+    "ipa": "əˈlaɪn"
   },
   {
     "id": 63,
@@ -627,7 +689,8 @@ window.CET6_WORDS = [
     "exam": "2021年12月第2套",
     "letter": "C",
     "word": "concurrently",
-    "meaning": "同时地"
+    "meaning": "同时地",
+    "ipa": "kənˈkərəntli"
   },
   {
     "id": 64,
@@ -637,7 +700,8 @@ window.CET6_WORDS = [
     "exam": "2021年12月第2套",
     "letter": "D",
     "word": "current",
-    "meaning": "当前的；潮流"
+    "meaning": "当前的；潮流",
+    "ipa": "ˈkɑrənt"
   },
   {
     "id": 65,
@@ -647,7 +711,8 @@ window.CET6_WORDS = [
     "exam": "2021年12月第2套",
     "letter": "E",
     "word": "engaging",
-    "meaning": "吸引人的；参与的"
+    "meaning": "吸引人的；参与的",
+    "ipa": "ɪnˈgeɪʤɪŋ"
   },
   {
     "id": 66,
@@ -657,7 +722,8 @@ window.CET6_WORDS = [
     "exam": "2021年12月第2套",
     "letter": "F",
     "word": "fond",
-    "meaning": "喜爱的"
+    "meaning": "喜爱的",
+    "ipa": "fɑnd"
   },
   {
     "id": 67,
@@ -667,7 +733,8 @@ window.CET6_WORDS = [
     "exam": "2021年12月第2套",
     "letter": "G",
     "word": "frame",
-    "meaning": "框架；构建表述"
+    "meaning": "框架；构建表述",
+    "ipa": "freɪm"
   },
   {
     "id": 68,
@@ -677,7 +744,8 @@ window.CET6_WORDS = [
     "exam": "2021年12月第2套",
     "letter": "H",
     "word": "locations",
-    "meaning": "地点；位置"
+    "meaning": "地点；位置",
+    "ipa": "loʊˈkeɪʃənz"
   },
   {
     "id": 69,
@@ -687,7 +755,8 @@ window.CET6_WORDS = [
     "exam": "2021年12月第2套",
     "letter": "I",
     "word": "perceive",
-    "meaning": "感知；认为"
+    "meaning": "感知；认为",
+    "ipa": "pərˈsiv"
   },
   {
     "id": 70,
@@ -697,7 +766,8 @@ window.CET6_WORDS = [
     "exam": "2021年12月第2套",
     "letter": "J",
     "word": "positively",
-    "meaning": "积极地；肯定地"
+    "meaning": "积极地；肯定地",
+    "ipa": "ˈpɑzətɪvli"
   },
   {
     "id": 71,
@@ -707,7 +777,8 @@ window.CET6_WORDS = [
     "exam": "2021年12月第2套",
     "letter": "K",
     "word": "profile",
-    "meaning": "概况；轮廓；形象"
+    "meaning": "概况；轮廓；形象",
+    "ipa": "ˈproʊˌfaɪl"
   },
   {
     "id": 72,
@@ -717,7 +788,8 @@ window.CET6_WORDS = [
     "exam": "2021年12月第2套",
     "letter": "L",
     "word": "prospering",
-    "meaning": "繁荣的；兴旺的"
+    "meaning": "繁荣的；兴旺的",
+    "ipa": "ˈprɑspərɪŋ"
   },
   {
     "id": 73,
@@ -727,7 +799,8 @@ window.CET6_WORDS = [
     "exam": "2021年12月第2套",
     "letter": "M",
     "word": "reluctant",
-    "meaning": "不情愿的；勉强的"
+    "meaning": "不情愿的；勉强的",
+    "ipa": "rɪˈləktənt"
   },
   {
     "id": 74,
@@ -737,7 +810,8 @@ window.CET6_WORDS = [
     "exam": "2021年12月第2套",
     "letter": "N",
     "word": "showcase",
-    "meaning": "展示；展示平台"
+    "meaning": "展示；展示平台",
+    "ipa": "ˈʃoʊˌkeɪs"
   },
   {
     "id": 75,
@@ -747,7 +821,8 @@ window.CET6_WORDS = [
     "exam": "2021年12月第2套",
     "letter": "O",
     "word": "wardrobe",
-    "meaning": "衣橱；全部衣物"
+    "meaning": "衣橱；全部衣物",
+    "ipa": "ˈwɔrˌdroʊb"
   },
   {
     "id": 76,
@@ -757,7 +832,8 @@ window.CET6_WORDS = [
     "exam": "2022年6月第1套",
     "letter": "A",
     "word": "aesthetically",
-    "meaning": "在审美上"
+    "meaning": "在审美上",
+    "ipa": "ɛsˈθɛtɪkli"
   },
   {
     "id": 77,
@@ -767,7 +843,8 @@ window.CET6_WORDS = [
     "exam": "2022年6月第1套",
     "letter": "B",
     "word": "constructed",
-    "meaning": "建造的；构建的"
+    "meaning": "建造的；构建的",
+    "ipa": "kənˈstrəktɪd"
   },
   {
     "id": 78,
@@ -777,7 +854,8 @@ window.CET6_WORDS = [
     "exam": "2022年6月第1套",
     "letter": "C",
     "word": "designates",
-    "meaning": "指定；表示"
+    "meaning": "指定；表示",
+    "ipa": "ˈdɛzɪgˌneɪts"
   },
   {
     "id": 79,
@@ -787,7 +865,8 @@ window.CET6_WORDS = [
     "exam": "2022年6月第1套",
     "letter": "D",
     "word": "extract",
-    "meaning": "提取；摘录"
+    "meaning": "提取；摘录",
+    "ipa": "ˈɛkˌstrækt"
   },
   {
     "id": 80,
@@ -797,7 +876,8 @@ window.CET6_WORDS = [
     "exam": "2022年6月第1套",
     "letter": "E",
     "word": "flocked",
-    "meaning": "成群涌向"
+    "meaning": "成群涌向",
+    "ipa": "flɑkt"
   },
   {
     "id": 81,
@@ -807,7 +887,8 @@ window.CET6_WORDS = [
     "exam": "2022年6月第1套",
     "letter": "F",
     "word": "incorporates",
-    "meaning": "包含；纳入"
+    "meaning": "包含；纳入",
+    "ipa": "ˌɪnˈkɔrpərˌeɪts"
   },
   {
     "id": 82,
@@ -817,7 +898,8 @@ window.CET6_WORDS = [
     "exam": "2022年6月第1套",
     "letter": "G",
     "word": "legitimate",
-    "meaning": "合法的；合理的"
+    "meaning": "合法的；合理的",
+    "ipa": "ləˈʤɪtəmət"
   },
   {
     "id": 83,
@@ -827,7 +909,8 @@ window.CET6_WORDS = [
     "exam": "2022年6月第1套",
     "letter": "H",
     "word": "natural",
-    "meaning": "自然的；天然的"
+    "meaning": "自然的；天然的",
+    "ipa": "ˈnæʧərəl"
   },
   {
     "id": 84,
@@ -837,7 +920,8 @@ window.CET6_WORDS = [
     "exam": "2022年6月第1套",
     "letter": "I",
     "word": "offspring",
-    "meaning": "后代；子女"
+    "meaning": "后代；子女",
+    "ipa": "ˈɔfˌsprɪŋ"
   },
   {
     "id": 85,
@@ -847,7 +931,8 @@ window.CET6_WORDS = [
     "exam": "2022年6月第1套",
     "letter": "J",
     "word": "previous",
-    "meaning": "先前的"
+    "meaning": "先前的",
+    "ipa": "ˈpriviəs"
   },
   {
     "id": 86,
@@ -857,7 +942,8 @@ window.CET6_WORDS = [
     "exam": "2022年6月第1套",
     "letter": "K",
     "word": "principally",
-    "meaning": "主要地"
+    "meaning": "主要地",
+    "ipa": "ˈprɪnsɪpli"
   },
   {
     "id": 87,
@@ -867,7 +953,8 @@ window.CET6_WORDS = [
     "exam": "2022年6月第1套",
     "letter": "L",
     "word": "remedy",
-    "meaning": "补救；治疗方法"
+    "meaning": "补救；治疗方法",
+    "ipa": "ˈrɛmədi"
   },
   {
     "id": 88,
@@ -877,7 +964,8 @@ window.CET6_WORDS = [
     "exam": "2022年6月第1套",
     "letter": "M",
     "word": "rhetorically",
-    "meaning": "在修辞上；反问地"
+    "meaning": "在修辞上；反问地",
+    "ipa": "rəˈtɔrɪkli"
   },
   {
     "id": 89,
@@ -887,7 +975,8 @@ window.CET6_WORDS = [
     "exam": "2022年6月第1套",
     "letter": "N",
     "word": "sneaked",
-    "meaning": "潜入；偷偷地做"
+    "meaning": "潜入；偷偷地做",
+    "ipa": "snikt"
   },
   {
     "id": 90,
@@ -897,7 +986,8 @@ window.CET6_WORDS = [
     "exam": "2022年6月第1套",
     "letter": "O",
     "word": "versatile",
-    "meaning": "多功能的；多才多艺的"
+    "meaning": "多功能的；多才多艺的",
+    "ipa": "ˈvərsətəl"
   },
   {
     "id": 91,
@@ -907,7 +997,8 @@ window.CET6_WORDS = [
     "exam": "2022年6月第2套",
     "letter": "A",
     "word": "adversely",
-    "meaning": "不利地；负面地"
+    "meaning": "不利地；负面地",
+    "ipa": "ædˈvərsli"
   },
   {
     "id": 92,
@@ -917,7 +1008,8 @@ window.CET6_WORDS = [
     "exam": "2022年6月第2套",
     "letter": "B",
     "word": "amiably",
-    "meaning": "友善地；和蔼地"
+    "meaning": "友善地；和蔼地",
+    "ipa": "ˈeɪmiəbli"
   },
   {
     "id": 93,
@@ -927,7 +1019,8 @@ window.CET6_WORDS = [
     "exam": "2022年6月第2套",
     "letter": "C",
     "word": "boost",
-    "meaning": "促进；提高"
+    "meaning": "促进；提高",
+    "ipa": "bust"
   },
   {
     "id": 94,
@@ -937,7 +1030,8 @@ window.CET6_WORDS = [
     "exam": "2022年6月第2套",
     "letter": "D",
     "word": "cognitive",
-    "meaning": "认知的"
+    "meaning": "认知的",
+    "ipa": "ˈkɑgnɪtɪv"
   },
   {
     "id": 95,
@@ -947,7 +1041,8 @@ window.CET6_WORDS = [
     "exam": "2022年6月第2套",
     "letter": "E",
     "word": "compassion",
-    "meaning": "同情；怜悯"
+    "meaning": "同情；怜悯",
+    "ipa": "kəmˈpæʃən"
   },
   {
     "id": 96,
@@ -957,7 +1052,8 @@ window.CET6_WORDS = [
     "exam": "2022年6月第2套",
     "letter": "F",
     "word": "connected",
-    "meaning": "有联系的；连接的"
+    "meaning": "有联系的；连接的",
+    "ipa": "kəˈnɛktɪd"
   },
   {
     "id": 97,
@@ -967,7 +1063,8 @@ window.CET6_WORDS = [
     "exam": "2022年6月第2套",
     "letter": "G",
     "word": "correlation",
-    "meaning": "相关性；关联"
+    "meaning": "相关性；关联",
+    "ipa": "ˌkɔrəˈleɪʃən"
   },
   {
     "id": 98,
@@ -977,7 +1074,8 @@ window.CET6_WORDS = [
     "exam": "2022年6月第2套",
     "letter": "H",
     "word": "fascinated",
-    "meaning": "着迷的；被深深吸引的"
+    "meaning": "着迷的；被深深吸引的",
+    "ipa": "ˈfæsəˌneɪtɪd"
   },
   {
     "id": 99,
@@ -987,7 +1085,8 @@ window.CET6_WORDS = [
     "exam": "2022年6月第2套",
     "letter": "I",
     "word": "indignantly",
-    "meaning": "愤慨地"
+    "meaning": "愤慨地",
+    "ipa": "ˌɪnˈdɪgnənˌtli"
   },
   {
     "id": 100,
@@ -997,7 +1096,8 @@ window.CET6_WORDS = [
     "exam": "2022年6月第2套",
     "letter": "J",
     "word": "insulation",
-    "meaning": "隔绝；绝缘；保温"
+    "meaning": "隔绝；绝缘；保温",
+    "ipa": "ˌɪnsəˈleɪʃən"
   },
   {
     "id": 101,
@@ -1007,7 +1107,8 @@ window.CET6_WORDS = [
     "exam": "2022年6月第2套",
     "letter": "K",
     "word": "lavish",
-    "meaning": "奢华的；慷慨给予"
+    "meaning": "奢华的；慷慨给予",
+    "ipa": "ˈlævɪʃ"
   },
   {
     "id": 102,
@@ -1017,7 +1118,8 @@ window.CET6_WORDS = [
     "exam": "2022年6月第2套",
     "letter": "L",
     "word": "prone",
-    "meaning": "易于…的；有…倾向的"
+    "meaning": "易于…的；有…倾向的",
+    "ipa": "proʊn"
   },
   {
     "id": 103,
@@ -1027,7 +1129,8 @@ window.CET6_WORDS = [
     "exam": "2022年6月第2套",
     "letter": "M",
     "word": "recurrent",
-    "meaning": "反复发生的；复发的"
+    "meaning": "反复发生的；复发的",
+    "ipa": "rɪˈkərənt"
   },
   {
     "id": 104,
@@ -1037,7 +1140,8 @@ window.CET6_WORDS = [
     "exam": "2022年6月第2套",
     "letter": "N",
     "word": "signify",
-    "meaning": "表示；意味着"
+    "meaning": "表示；意味着",
+    "ipa": "ˈsɪgnəˌfaɪ"
   },
   {
     "id": 105,
@@ -1047,7 +1151,8 @@ window.CET6_WORDS = [
     "exam": "2022年6月第2套",
     "letter": "O",
     "word": "surpass",
-    "meaning": "超过；胜过"
+    "meaning": "超过；胜过",
+    "ipa": "sərˈpæs"
   },
   {
     "id": 106,
@@ -1057,7 +1162,8 @@ window.CET6_WORDS = [
     "exam": "2022年9月第1套",
     "letter": "A",
     "word": "vulnerable",
-    "meaning": "易受伤害的；脆弱的"
+    "meaning": "易受伤害的；脆弱的",
+    "ipa": "ˈvəlnərəbəl"
   },
   {
     "id": 107,
@@ -1067,7 +1173,8 @@ window.CET6_WORDS = [
     "exam": "2022年9月第1套",
     "letter": "B",
     "word": "unprecedented",
-    "meaning": "前所未有的"
+    "meaning": "前所未有的",
+    "ipa": "ənˈprɛsɪˌdɛntɪd"
   },
   {
     "id": 108,
@@ -1077,7 +1184,8 @@ window.CET6_WORDS = [
     "exam": "2022年9月第1套",
     "letter": "C",
     "word": "tracts",
-    "meaning": "大片土地；管道"
+    "meaning": "大片土地；管道",
+    "ipa": "trækts"
   },
   {
     "id": 109,
@@ -1087,7 +1195,8 @@ window.CET6_WORDS = [
     "exam": "2022年9月第1套",
     "letter": "D",
     "word": "specimen",
-    "meaning": "标本；样品"
+    "meaning": "标本；样品",
+    "ipa": "ˈspɛsəmən"
   },
   {
     "id": 110,
@@ -1097,7 +1206,8 @@ window.CET6_WORDS = [
     "exam": "2022年9月第1套",
     "letter": "E",
     "word": "robust",
-    "meaning": "强健的；稳健的"
+    "meaning": "强健的；稳健的",
+    "ipa": "roʊˈbəst"
   },
   {
     "id": 111,
@@ -1107,7 +1217,8 @@ window.CET6_WORDS = [
     "exam": "2022年9月第1套",
     "letter": "F",
     "word": "refuge",
-    "meaning": "避难所；庇护"
+    "meaning": "避难所；庇护",
+    "ipa": "ˈrɛfjuʤ"
   },
   {
     "id": 112,
@@ -1117,7 +1228,8 @@ window.CET6_WORDS = [
     "exam": "2022年9月第1套",
     "letter": "G",
     "word": "plazas",
-    "meaning": "广场"
+    "meaning": "广场",
+    "ipa": "ˈplɑzəz"
   },
   {
     "id": 113,
@@ -1127,7 +1239,8 @@ window.CET6_WORDS = [
     "exam": "2022年9月第1套",
     "letter": "H",
     "word": "infinite",
-    "meaning": "无限的"
+    "meaning": "无限的",
+    "ipa": "ˈɪnfənət"
   },
   {
     "id": 114,
@@ -1137,7 +1250,8 @@ window.CET6_WORDS = [
     "exam": "2022年9月第1套",
     "letter": "I",
     "word": "hatched",
-    "meaning": "孵化；策划"
+    "meaning": "孵化；策划",
+    "ipa": "hæʧt"
   },
   {
     "id": 115,
@@ -1147,7 +1261,8 @@ window.CET6_WORDS = [
     "exam": "2022年9月第1套",
     "letter": "J",
     "word": "expired",
-    "meaning": "到期的；死亡的"
+    "meaning": "到期的；死亡的",
+    "ipa": "ɪkˈspaɪrd"
   },
   {
     "id": 116,
@@ -1157,7 +1272,8 @@ window.CET6_WORDS = [
     "exam": "2022年9月第1套",
     "letter": "K",
     "word": "excerpts",
-    "meaning": "摘录；节选"
+    "meaning": "摘录；节选",
+    "ipa": "ˈɛksərpts"
   },
   {
     "id": 117,
@@ -1167,7 +1283,8 @@ window.CET6_WORDS = [
     "exam": "2022年9月第1套",
     "letter": "L",
     "word": "estimates",
-    "meaning": "估计；估算值"
+    "meaning": "估计；估算值",
+    "ipa": "ˈɛstəˌmeɪts"
   },
   {
     "id": 118,
@@ -1177,7 +1294,8 @@ window.CET6_WORDS = [
     "exam": "2022年9月第1套",
     "letter": "M",
     "word": "edible",
-    "meaning": "可食用的"
+    "meaning": "可食用的",
+    "ipa": "ˈɛdəbəl"
   },
   {
     "id": 119,
@@ -1187,7 +1305,8 @@ window.CET6_WORDS = [
     "exam": "2022年9月第1套",
     "letter": "N",
     "word": "depleted",
-    "meaning": "被耗尽的；大幅减少的"
+    "meaning": "被耗尽的；大幅减少的",
+    "ipa": "dɪˈplitɪd"
   },
   {
     "id": 120,
@@ -1197,7 +1316,8 @@ window.CET6_WORDS = [
     "exam": "2022年9月第1套",
     "letter": "O",
     "word": "delicacy",
-    "meaning": "美味；精致；微妙"
+    "meaning": "美味；精致；微妙",
+    "ipa": "ˈdɛlɪkəsi"
   },
   {
     "id": 121,
@@ -1207,7 +1327,8 @@ window.CET6_WORDS = [
     "exam": "2022年12月第1套",
     "letter": "A",
     "word": "access",
-    "meaning": "通道；获取机会"
+    "meaning": "通道；获取机会",
+    "ipa": "ˈækˌsɛs"
   },
   {
     "id": 122,
@@ -1217,7 +1338,8 @@ window.CET6_WORDS = [
     "exam": "2022年12月第1套",
     "letter": "B",
     "word": "apparent",
-    "meaning": "明显的；表面的"
+    "meaning": "明显的；表面的",
+    "ipa": "əˈpɛrənt"
   },
   {
     "id": 123,
@@ -1227,7 +1349,8 @@ window.CET6_WORDS = [
     "exam": "2022年12月第1套",
     "letter": "C",
     "word": "barely",
-    "meaning": "几乎不；勉强"
+    "meaning": "几乎不；勉强",
+    "ipa": "ˈbɛrli"
   },
   {
     "id": 124,
@@ -1237,7 +1360,8 @@ window.CET6_WORDS = [
     "exam": "2022年12月第1套",
     "letter": "D",
     "word": "dedication",
-    "meaning": "奉献；投入"
+    "meaning": "奉献；投入",
+    "ipa": "ˌdɛdəˈkeɪʃən"
   },
   {
     "id": 125,
@@ -1247,7 +1371,8 @@ window.CET6_WORDS = [
     "exam": "2022年12月第1套",
     "letter": "E",
     "word": "escorted",
-    "meaning": "护送；陪同"
+    "meaning": "护送；陪同",
+    "ipa": "ɛˈskɔrtɪd"
   },
   {
     "id": 126,
@@ -1257,7 +1382,8 @@ window.CET6_WORDS = [
     "exam": "2022年12月第1套",
     "letter": "F",
     "word": "froze",
-    "meaning": "冻结；僵住"
+    "meaning": "冻结；僵住",
+    "ipa": "froʊz"
   },
   {
     "id": 127,
@@ -1267,7 +1393,8 @@ window.CET6_WORDS = [
     "exam": "2022年12月第1套",
     "letter": "G",
     "word": "incredible",
-    "meaning": "难以置信的；极好的"
+    "meaning": "难以置信的；极好的",
+    "ipa": "ˌɪnˈkrɛdəbəl"
   },
   {
     "id": 128,
@@ -1277,7 +1404,8 @@ window.CET6_WORDS = [
     "exam": "2022年12月第1套",
     "letter": "H",
     "word": "indignant",
-    "meaning": "愤怒的；义愤的"
+    "meaning": "愤怒的；义愤的",
+    "ipa": "ˌɪnˈdɪgnənt"
   },
   {
     "id": 129,
@@ -1287,7 +1415,8 @@ window.CET6_WORDS = [
     "exam": "2022年12月第1套",
     "letter": "I",
     "word": "network",
-    "meaning": "网络；建立人脉"
+    "meaning": "网络；建立人脉",
+    "ipa": "ˈnɛtˌwərk"
   },
   {
     "id": 130,
@@ -1297,7 +1426,8 @@ window.CET6_WORDS = [
     "exam": "2022年12月第1套",
     "letter": "J",
     "word": "overriding",
-    "meaning": "首要的；压倒一切的"
+    "meaning": "首要的；压倒一切的",
+    "ipa": "ˈoʊvərˌraɪdɪŋ"
   },
   {
     "id": 131,
@@ -1307,7 +1437,8 @@ window.CET6_WORDS = [
     "exam": "2022年12月第1套",
     "letter": "K",
     "word": "peacefully",
-    "meaning": "平静地；和平地"
+    "meaning": "平静地；和平地",
+    "ipa": "ˈpisfəli"
   },
   {
     "id": 132,
@@ -1317,7 +1448,8 @@ window.CET6_WORDS = [
     "exam": "2022年12月第1套",
     "letter": "L",
     "word": "presumably",
-    "meaning": "大概；推测起来"
+    "meaning": "大概；推测起来",
+    "ipa": "prɪˈzuməbli"
   },
   {
     "id": 133,
@@ -1327,7 +1459,8 @@ window.CET6_WORDS = [
     "exam": "2022年12月第1套",
     "letter": "M",
     "word": "stifled",
-    "meaning": "抑制的；令人窒息的"
+    "meaning": "抑制的；令人窒息的",
+    "ipa": "ˈstaɪfəld"
   },
   {
     "id": 134,
@@ -1337,7 +1470,8 @@ window.CET6_WORDS = [
     "exam": "2022年12月第1套",
     "letter": "N",
     "word": "struck",
-    "meaning": "击打；突然想到；给…印象"
+    "meaning": "击打；突然想到；给…印象",
+    "ipa": "strək"
   },
   {
     "id": 135,
@@ -1347,7 +1481,8 @@ window.CET6_WORDS = [
     "exam": "2022年12月第1套",
     "letter": "O",
     "word": "terrifying",
-    "meaning": "令人恐惧的"
+    "meaning": "令人恐惧的",
+    "ipa": "ˈtɛrəˌfaɪɪŋ"
   },
   {
     "id": 136,
@@ -1357,7 +1492,8 @@ window.CET6_WORDS = [
     "exam": "2022年12月第2套",
     "letter": "A",
     "word": "aesthetic",
-    "meaning": "审美的；美感"
+    "meaning": "审美的；美感",
+    "ipa": "ɛsˈθɛtɪk"
   },
   {
     "id": 137,
@@ -1367,7 +1503,8 @@ window.CET6_WORDS = [
     "exam": "2022年12月第2套",
     "letter": "B",
     "word": "appropriate",
-    "meaning": "合适的；恰当的"
+    "meaning": "合适的；恰当的",
+    "ipa": "əˈproʊpriˌeɪt"
   },
   {
     "id": 138,
@@ -1377,7 +1514,8 @@ window.CET6_WORDS = [
     "exam": "2022年12月第2套",
     "letter": "C",
     "word": "clusters",
-    "meaning": "群；簇"
+    "meaning": "群；簇",
+    "ipa": "ˈkləstərz"
   },
   {
     "id": 139,
@@ -1387,7 +1525,8 @@ window.CET6_WORDS = [
     "exam": "2022年12月第2套",
     "letter": "D",
     "word": "competitive",
-    "meaning": "有竞争力的；竞争的"
+    "meaning": "有竞争力的；竞争的",
+    "ipa": "kəmˈpɛtɪtɪv"
   },
   {
     "id": 140,
@@ -1397,7 +1536,8 @@ window.CET6_WORDS = [
     "exam": "2022年12月第2套",
     "letter": "E",
     "word": "exploiting",
-    "meaning": "利用；开发；剥削"
+    "meaning": "利用；开发；剥削",
+    "ipa": "ˈɛkˌsplɔɪtɪŋ"
   },
   {
     "id": 141,
@@ -1407,7 +1547,8 @@ window.CET6_WORDS = [
     "exam": "2022年12月第2套",
     "letter": "F",
     "word": "fiscal",
-    "meaning": "财政的"
+    "meaning": "财政的",
+    "ipa": "ˈfɪskəl"
   },
   {
     "id": 142,
@@ -1417,7 +1558,8 @@ window.CET6_WORDS = [
     "exam": "2022年12月第2套",
     "letter": "G",
     "word": "instances",
-    "meaning": "例子；情况"
+    "meaning": "例子；情况",
+    "ipa": "ˈɪnstənsɪz"
   },
   {
     "id": 143,
@@ -1427,7 +1569,8 @@ window.CET6_WORDS = [
     "exam": "2022年12月第2套",
     "letter": "H",
     "word": "rehabilitated",
-    "meaning": "康复的；修复的"
+    "meaning": "康复的；修复的",
+    "ipa": "ˌriəˈbɪləˌteɪtɪd"
   },
   {
     "id": 144,
@@ -1437,7 +1580,8 @@ window.CET6_WORDS = [
     "exam": "2022年12月第2套",
     "letter": "I",
     "word": "reproduced",
-    "meaning": "复制；繁殖；再现"
+    "meaning": "复制；繁殖；再现",
+    "ipa": "ˌriprəˈdust"
   },
   {
     "id": 145,
@@ -1447,7 +1591,8 @@ window.CET6_WORDS = [
     "exam": "2022年12月第2套",
     "letter": "J",
     "word": "revenues",
-    "meaning": "收入；税收"
+    "meaning": "收入；税收",
+    "ipa": "ˈrɛvəˌnuz"
   },
   {
     "id": 146,
@@ -1457,7 +1602,8 @@ window.CET6_WORDS = [
     "exam": "2022年12月第2套",
     "letter": "K",
     "word": "safeguarding",
-    "meaning": "保护；保障"
+    "meaning": "保护；保障",
+    "ipa": "ˈseɪfˌgɑrdɪŋ"
   },
   {
     "id": 147,
@@ -1467,7 +1613,8 @@ window.CET6_WORDS = [
     "exam": "2022年12月第2套",
     "letter": "L",
     "word": "ship",
-    "meaning": "运送；船"
+    "meaning": "运送；船",
+    "ipa": "ʃɪp"
   },
   {
     "id": 148,
@@ -1477,7 +1624,8 @@ window.CET6_WORDS = [
     "exam": "2022年12月第2套",
     "letter": "M",
     "word": "strategic",
-    "meaning": "战略的"
+    "meaning": "战略的",
+    "ipa": "strəˈtiʤɪk"
   },
   {
     "id": 149,
@@ -1487,7 +1635,8 @@ window.CET6_WORDS = [
     "exam": "2022年12月第2套",
     "letter": "N",
     "word": "transcend",
-    "meaning": "超越"
+    "meaning": "超越",
+    "ipa": "trænˈsɛnd"
   },
   {
     "id": 150,
@@ -1497,7 +1646,8 @@ window.CET6_WORDS = [
     "exam": "2022年12月第2套",
     "letter": "O",
     "word": "undergoing",
-    "meaning": "正在经历"
+    "meaning": "正在经历",
+    "ipa": "ˌəndərˈgoʊɪŋ"
   },
   {
     "id": 151,
@@ -1507,7 +1657,8 @@ window.CET6_WORDS = [
     "exam": "2022年12月第3套",
     "letter": "A",
     "word": "abandoned",
-    "meaning": "被遗弃的；放弃的"
+    "meaning": "被遗弃的；放弃的",
+    "ipa": "əˈbændənd"
   },
   {
     "id": 152,
@@ -1517,7 +1668,8 @@ window.CET6_WORDS = [
     "exam": "2022年12月第3套",
     "letter": "B",
     "word": "access",
-    "meaning": "通道；获取机会"
+    "meaning": "通道；获取机会",
+    "ipa": "ˈækˌsɛs"
   },
   {
     "id": 153,
@@ -1527,7 +1679,8 @@ window.CET6_WORDS = [
     "exam": "2022年12月第3套",
     "letter": "C",
     "word": "consumption",
-    "meaning": "消费；消耗"
+    "meaning": "消费；消耗",
+    "ipa": "kənˈsəmʃən"
   },
   {
     "id": 154,
@@ -1537,7 +1690,8 @@ window.CET6_WORDS = [
     "exam": "2022年12月第3套",
     "letter": "D",
     "word": "contrive",
-    "meaning": "设法做到；设计"
+    "meaning": "设法做到；设计",
+    "ipa": "kənˈtraɪv"
   },
   {
     "id": 155,
@@ -1547,7 +1701,8 @@ window.CET6_WORDS = [
     "exam": "2022年12月第3套",
     "letter": "E",
     "word": "duplications",
-    "meaning": "重复；复制品"
+    "meaning": "重复；复制品",
+    "ipa": "ˌduplɪˈkeɪʃənz"
   },
   {
     "id": 156,
@@ -1557,7 +1712,8 @@ window.CET6_WORDS = [
     "exam": "2022年12月第3套",
     "letter": "F",
     "word": "investments",
-    "meaning": "投资"
+    "meaning": "投资",
+    "ipa": "ˌɪnˈvɛstmənts"
   },
   {
     "id": 157,
@@ -1567,7 +1723,8 @@ window.CET6_WORDS = [
     "exam": "2022年12月第3套",
     "letter": "G",
     "word": "mobilized",
-    "meaning": "动员；调动"
+    "meaning": "动员；调动",
+    "ipa": "ˈmoʊbəˌlaɪzd"
   },
   {
     "id": 158,
@@ -1577,7 +1734,8 @@ window.CET6_WORDS = [
     "exam": "2022年12月第3套",
     "letter": "H",
     "word": "negligent",
-    "meaning": "疏忽的；玩忽职守的"
+    "meaning": "疏忽的；玩忽职守的",
+    "ipa": "ˈnɛglɪʤənt"
   },
   {
     "id": 159,
@@ -1587,7 +1745,8 @@ window.CET6_WORDS = [
     "exam": "2022年12月第3套",
     "letter": "I",
     "word": "neutral",
-    "meaning": "中立的；中性的"
+    "meaning": "中立的；中性的",
+    "ipa": "ˈnutrəl"
   },
   {
     "id": 160,
@@ -1597,7 +1756,8 @@ window.CET6_WORDS = [
     "exam": "2022年12月第3套",
     "letter": "J",
     "word": "reductions",
-    "meaning": "减少；降低"
+    "meaning": "减少；降低",
+    "ipa": "rɪˈdəkʃənz"
   },
   {
     "id": 161,
@@ -1607,7 +1767,8 @@ window.CET6_WORDS = [
     "exam": "2022年12月第3套",
     "letter": "K",
     "word": "released",
-    "meaning": "释放；发布"
+    "meaning": "释放；发布",
+    "ipa": "riˈlist"
   },
   {
     "id": 162,
@@ -1617,7 +1778,8 @@ window.CET6_WORDS = [
     "exam": "2022年12月第3套",
     "letter": "L",
     "word": "replacement",
-    "meaning": "替代；替代品"
+    "meaning": "替代；替代品",
+    "ipa": "rɪˈpleɪsmənt"
   },
   {
     "id": 163,
@@ -1627,7 +1789,8 @@ window.CET6_WORDS = [
     "exam": "2022年12月第3套",
     "letter": "M",
     "word": "slash",
-    "meaning": "大幅削减；破伤"
+    "meaning": "大幅削减；破伤",
+    "ipa": "slæʃ"
   },
   {
     "id": 164,
@@ -1637,7 +1800,8 @@ window.CET6_WORDS = [
     "exam": "2022年12月第3套",
     "letter": "N",
     "word": "surplus",
-    "meaning": "剩余；过剩"
+    "meaning": "剩余；过剩",
+    "ipa": "ˈsərpləs"
   },
   {
     "id": 165,
@@ -1647,7 +1811,8 @@ window.CET6_WORDS = [
     "exam": "2022年12月第3套",
     "letter": "O",
     "word": "void",
-    "meaning": "空缺；无效的"
+    "meaning": "空缺；无效的",
+    "ipa": "vɔɪd"
   },
   {
     "id": 166,
@@ -1657,7 +1822,8 @@ window.CET6_WORDS = [
     "exam": "2023年3月第1套",
     "letter": "A",
     "word": "advocate",
-    "meaning": "提倡；支持者"
+    "meaning": "提倡；支持者",
+    "ipa": "ˈædvəˌkeɪt"
   },
   {
     "id": 167,
@@ -1667,7 +1833,8 @@ window.CET6_WORDS = [
     "exam": "2023年3月第1套",
     "letter": "B",
     "word": "arise",
-    "meaning": "出现；产生"
+    "meaning": "出现；产生",
+    "ipa": "əraɪz"
   },
   {
     "id": 168,
@@ -1677,7 +1844,8 @@ window.CET6_WORDS = [
     "exam": "2023年3月第1套",
     "letter": "C",
     "word": "emphasized",
-    "meaning": "强调；着重"
+    "meaning": "强调；着重",
+    "ipa": "ˈɛmfəˌsaɪzd"
   },
   {
     "id": 169,
@@ -1687,7 +1855,8 @@ window.CET6_WORDS = [
     "exam": "2023年3月第1套",
     "letter": "D",
     "word": "encounter",
-    "meaning": "遇到；遭遇"
+    "meaning": "遇到；遭遇",
+    "ipa": "ɪnˈkaʊnər"
   },
   {
     "id": 170,
@@ -1697,7 +1866,8 @@ window.CET6_WORDS = [
     "exam": "2023年3月第1套",
     "letter": "E",
     "word": "essential",
-    "meaning": "必要的；核心要素"
+    "meaning": "必要的；核心要素",
+    "ipa": "ɛˈsɛnʃəl"
   },
   {
     "id": 171,
@@ -1707,7 +1877,8 @@ window.CET6_WORDS = [
     "exam": "2023年3月第1套",
     "letter": "F",
     "word": "evaporation",
-    "meaning": "蒸发"
+    "meaning": "蒸发",
+    "ipa": "ɪˌvæpərˈeɪʃən"
   },
   {
     "id": 172,
@@ -1717,7 +1888,8 @@ window.CET6_WORDS = [
     "exam": "2023年3月第1套",
     "letter": "G",
     "word": "extinction",
-    "meaning": "灭绝；消亡"
+    "meaning": "灭绝；消亡",
+    "ipa": "ɪkˈstɪŋʃən"
   },
   {
     "id": 173,
@@ -1727,7 +1899,8 @@ window.CET6_WORDS = [
     "exam": "2023年3月第1套",
     "letter": "H",
     "word": "obscure",
-    "meaning": "鲜为人知的；使模糊"
+    "meaning": "鲜为人知的；使模糊",
+    "ipa": "əbˈskjʊr"
   },
   {
     "id": 174,
@@ -1737,7 +1910,8 @@ window.CET6_WORDS = [
     "exam": "2023年3月第1套",
     "letter": "I",
     "word": "particular",
-    "meaning": "特定的；特别的"
+    "meaning": "特定的；特别的",
+    "ipa": "ˌpɑˈtɪkjələr"
   },
   {
     "id": 175,
@@ -1747,7 +1921,8 @@ window.CET6_WORDS = [
     "exam": "2023年3月第1套",
     "letter": "J",
     "word": "posed",
-    "meaning": "造成；提出；摆姿势"
+    "meaning": "造成；提出；摆姿势",
+    "ipa": "poʊzd"
   },
   {
     "id": 176,
@@ -1757,7 +1932,8 @@ window.CET6_WORDS = [
     "exam": "2023年3月第1套",
     "letter": "K",
     "word": "scenario",
-    "meaning": "情形；设想"
+    "meaning": "情形；设想",
+    "ipa": "sɪˈnɛrioʊ"
   },
   {
     "id": 177,
@@ -1767,7 +1943,8 @@ window.CET6_WORDS = [
     "exam": "2023年3月第1套",
     "letter": "L",
     "word": "severely",
-    "meaning": "严重地；严厉地"
+    "meaning": "严重地；严厉地",
+    "ipa": "səˈvɪrli"
   },
   {
     "id": 178,
@@ -1777,7 +1954,8 @@ window.CET6_WORDS = [
     "exam": "2023年3月第1套",
     "letter": "M",
     "word": "shrewdly",
-    "meaning": "精明地；敏锐地"
+    "meaning": "精明地；敏锐地",
+    "ipa": "ʃˈrudli"
   },
   {
     "id": 179,
@@ -1787,7 +1965,8 @@ window.CET6_WORDS = [
     "exam": "2023年3月第1套",
     "letter": "N",
     "word": "species",
-    "meaning": "物种；种类"
+    "meaning": "物种；种类",
+    "ipa": "ˈspiʃiz"
   },
   {
     "id": 180,
@@ -1797,7 +1976,8 @@ window.CET6_WORDS = [
     "exam": "2023年3月第1套",
     "letter": "O",
     "word": "variety",
-    "meaning": "多样性；种类"
+    "meaning": "多样性；种类",
+    "ipa": "vərˈaɪəti"
   },
   {
     "id": 181,
@@ -1807,7 +1987,8 @@ window.CET6_WORDS = [
     "exam": "2023年6月第1套",
     "letter": "A",
     "word": "affirmed",
-    "meaning": "肯定；证实"
+    "meaning": "肯定；证实",
+    "ipa": "əˈfərmd"
   },
   {
     "id": 182,
@@ -1817,7 +1998,8 @@ window.CET6_WORDS = [
     "exam": "2023年6月第1套",
     "letter": "B",
     "word": "approximately",
-    "meaning": "大约"
+    "meaning": "大约",
+    "ipa": "əˈprɑksəmətli"
   },
   {
     "id": 183,
@@ -1827,7 +2009,8 @@ window.CET6_WORDS = [
     "exam": "2023年6月第1套",
     "letter": "C",
     "word": "completely",
-    "meaning": "完全地"
+    "meaning": "完全地",
+    "ipa": "kəmˈplitli"
   },
   {
     "id": 184,
@@ -1837,7 +2020,8 @@ window.CET6_WORDS = [
     "exam": "2023年6月第1套",
     "letter": "D",
     "word": "differentiate",
-    "meaning": "区分；使不同"
+    "meaning": "区分；使不同",
+    "ipa": "ˌdɪfərˈɛnʧiˌeɪt"
   },
   {
     "id": 185,
@@ -1847,7 +2031,8 @@ window.CET6_WORDS = [
     "exam": "2023年6月第1套",
     "letter": "E",
     "word": "distinct",
-    "meaning": "明显不同的；清晰的"
+    "meaning": "明显不同的；清晰的",
+    "ipa": "dɪˈstɪŋkt"
   },
   {
     "id": 186,
@@ -1857,7 +2042,8 @@ window.CET6_WORDS = [
     "exam": "2023年6月第1套",
     "letter": "F",
     "word": "domain",
-    "meaning": "领域"
+    "meaning": "领域",
+    "ipa": "doʊˈmeɪn"
   },
   {
     "id": 187,
@@ -1867,7 +2053,8 @@ window.CET6_WORDS = [
     "exam": "2023年6月第1套",
     "letter": "G",
     "word": "formidable",
-    "meaning": "强大的；令人生畏的"
+    "meaning": "强大的；令人生畏的",
+    "ipa": "ˌfɔrˈmɪdəbəl"
   },
   {
     "id": 188,
@@ -1877,7 +2064,8 @@ window.CET6_WORDS = [
     "exam": "2023年6月第1套",
     "letter": "H",
     "word": "outperformed",
-    "meaning": "表现胜过"
+    "meaning": "表现胜过",
+    "ipa": "ˈaʊtpərˌfɔrmd"
   },
   {
     "id": 189,
@@ -1887,7 +2075,8 @@ window.CET6_WORDS = [
     "exam": "2023年6月第1套",
     "letter": "I",
     "word": "overstated",
-    "meaning": "夸大的；言过其实的"
+    "meaning": "夸大的；言过其实的",
+    "ipa": "ˈoʊvərˌsteɪtɪd"
   },
   {
     "id": 190,
@@ -1897,7 +2086,8 @@ window.CET6_WORDS = [
     "exam": "2023年6月第1套",
     "letter": "J",
     "word": "pledge",
-    "meaning": "保证；誓言"
+    "meaning": "保证；誓言",
+    "ipa": "plɛʤ"
   },
   {
     "id": 191,
@@ -1907,7 +2097,8 @@ window.CET6_WORDS = [
     "exam": "2023年6月第1套",
     "letter": "K",
     "word": "previously",
-    "meaning": "先前；以前"
+    "meaning": "先前；以前",
+    "ipa": "ˈpriviəsli"
   },
   {
     "id": 192,
@@ -1917,7 +2108,8 @@ window.CET6_WORDS = [
     "exam": "2023年6月第1套",
     "letter": "L",
     "word": "prospective",
-    "meaning": "未来的；潜在的"
+    "meaning": "未来的；潜在的",
+    "ipa": "prəˈspɛktɪv"
   },
   {
     "id": 193,
@@ -1927,7 +2119,8 @@ window.CET6_WORDS = [
     "exam": "2023年6月第1套",
     "letter": "M",
     "word": "prove",
-    "meaning": "证明；证实"
+    "meaning": "证明；证实",
+    "ipa": "pruv"
   },
   {
     "id": 194,
@@ -1937,7 +2130,8 @@ window.CET6_WORDS = [
     "exam": "2023年6月第1套",
     "letter": "N",
     "word": "surpass",
-    "meaning": "超过；胜过"
+    "meaning": "超过；胜过",
+    "ipa": "sərˈpæs"
   },
   {
     "id": 195,
@@ -1947,7 +2141,8 @@ window.CET6_WORDS = [
     "exam": "2023年6月第1套",
     "letter": "O",
     "word": "volume",
-    "meaning": "量；容积；卷"
+    "meaning": "量；容积；卷",
+    "ipa": "ˈvɑljum"
   },
   {
     "id": 196,
@@ -1957,7 +2152,8 @@ window.CET6_WORDS = [
     "exam": "2023年6月第2套",
     "letter": "A",
     "word": "attributes",
-    "meaning": "属性；特征；归因于"
+    "meaning": "属性；特征；归因于",
+    "ipa": "əˈtrɪˌbjuts"
   },
   {
     "id": 197,
@@ -1967,7 +2163,8 @@ window.CET6_WORDS = [
     "exam": "2023年6月第2套",
     "letter": "B",
     "word": "comprised",
-    "meaning": "由…组成"
+    "meaning": "由…组成",
+    "ipa": "kəmˈpraɪzd"
   },
   {
     "id": 198,
@@ -1977,7 +2174,8 @@ window.CET6_WORDS = [
     "exam": "2023年6月第2套",
     "letter": "C",
     "word": "conceded",
-    "meaning": "承认了；让步了"
+    "meaning": "承认了；让步了",
+    "ipa": "kənˈsidɪd"
   },
   {
     "id": 199,
@@ -1987,7 +2185,8 @@ window.CET6_WORDS = [
     "exam": "2023年6月第2套",
     "letter": "D",
     "word": "conservation",
-    "meaning": "保护；节约"
+    "meaning": "保护；节约",
+    "ipa": "ˌkɑnsərˈveɪʃən"
   },
   {
     "id": 200,
@@ -1997,7 +2196,8 @@ window.CET6_WORDS = [
     "exam": "2023年6月第2套",
     "letter": "E",
     "word": "diminishing",
-    "meaning": "逐渐减少的"
+    "meaning": "逐渐减少的",
+    "ipa": "dɪˈmɪnɪʃɪŋ"
   },
   {
     "id": 201,
@@ -2007,7 +2207,8 @@ window.CET6_WORDS = [
     "exam": "2023年6月第2套",
     "letter": "F",
     "word": "far",
-    "meaning": "很；遥远地"
+    "meaning": "很；遥远地",
+    "ipa": "fɑr"
   },
   {
     "id": 202,
@@ -2017,7 +2218,8 @@ window.CET6_WORDS = [
     "exam": "2023年6月第2套",
     "letter": "G",
     "word": "inclined",
-    "meaning": "倾向于…的"
+    "meaning": "倾向于…的",
+    "ipa": "ˌɪnˈklaɪnd"
   },
   {
     "id": 203,
@@ -2027,7 +2229,8 @@ window.CET6_WORDS = [
     "exam": "2023年6月第2套",
     "letter": "H",
     "word": "indulging",
-    "meaning": "沉溺于；纵容"
+    "meaning": "沉溺于；纵容",
+    "ipa": "ˌɪnˈdəlʤɪŋ"
   },
   {
     "id": 204,
@@ -2037,7 +2240,8 @@ window.CET6_WORDS = [
     "exam": "2023年6月第2套",
     "letter": "I",
     "word": "innumerable",
-    "meaning": "无数的"
+    "meaning": "无数的",
+    "ipa": "ˌɪˈnumərəbəl"
   },
   {
     "id": 205,
@@ -2047,7 +2251,8 @@ window.CET6_WORDS = [
     "exam": "2023年6月第2套",
     "letter": "J",
     "word": "mortality",
-    "meaning": "死亡率；死亡"
+    "meaning": "死亡率；死亡",
+    "ipa": "mɔrˈtæləti"
   },
   {
     "id": 206,
@@ -2057,7 +2262,8 @@ window.CET6_WORDS = [
     "exam": "2023年6月第2套",
     "letter": "K",
     "word": "odds",
-    "meaning": "可能性；几率；不利条件"
+    "meaning": "可能性；几率；不利条件",
+    "ipa": "ɑdz"
   },
   {
     "id": 207,
@@ -2067,7 +2273,8 @@ window.CET6_WORDS = [
     "exam": "2023年6月第2套",
     "letter": "L",
     "word": "plights",
-    "meaning": "困境（复数）"
+    "meaning": "困境（复数）",
+    "ipa": "plaɪts"
   },
   {
     "id": 208,
@@ -2077,7 +2284,8 @@ window.CET6_WORDS = [
     "exam": "2023年6月第2套",
     "letter": "M",
     "word": "regulatory",
-    "meaning": "监管的；规制的"
+    "meaning": "监管的；规制的",
+    "ipa": "ˈrɛgjələˌtɔri"
   },
   {
     "id": 209,
@@ -2087,7 +2295,8 @@ window.CET6_WORDS = [
     "exam": "2023年6月第2套",
     "letter": "N",
     "word": "still",
-    "meaning": "仍然；更加"
+    "meaning": "仍然；更加",
+    "ipa": "stɪl"
   },
   {
     "id": 210,
@@ -2097,7 +2306,8 @@ window.CET6_WORDS = [
     "exam": "2023年6月第2套",
     "letter": "O",
     "word": "unmatchable",
-    "meaning": "无可匹敌的"
+    "meaning": "无可匹敌的",
+    "ipa": "ʌnˈmætʃəbəl"
   },
   {
     "id": 211,
@@ -2107,7 +2317,8 @@ window.CET6_WORDS = [
     "exam": "2023年6月第3套",
     "letter": "A",
     "word": "activated",
-    "meaning": "激活的；启动的"
+    "meaning": "激活的；启动的",
+    "ipa": "ˈæktɪˌveɪtɪd"
   },
   {
     "id": 212,
@@ -2117,7 +2328,8 @@ window.CET6_WORDS = [
     "exam": "2023年6月第3套",
     "letter": "B",
     "word": "articulates",
-    "meaning": "清楚表达"
+    "meaning": "清楚表达",
+    "ipa": "ɑrˈtɪkjələts"
   },
   {
     "id": 213,
@@ -2127,7 +2339,8 @@ window.CET6_WORDS = [
     "exam": "2023年6月第3套",
     "letter": "C",
     "word": "assessment",
-    "meaning": "评估"
+    "meaning": "评估",
+    "ipa": "əˈsɛsmənt"
   },
   {
     "id": 214,
@@ -2137,7 +2350,8 @@ window.CET6_WORDS = [
     "exam": "2023年6月第3套",
     "letter": "D",
     "word": "consecutive",
-    "meaning": "连续的"
+    "meaning": "连续的",
+    "ipa": "kənˈsɛkjətɪv"
   },
   {
     "id": 215,
@@ -2147,7 +2361,8 @@ window.CET6_WORDS = [
     "exam": "2023年6月第3套",
     "letter": "E",
     "word": "cues",
-    "meaning": "提示；线索"
+    "meaning": "提示；线索",
+    "ipa": "kjuz"
   },
   {
     "id": 216,
@@ -2157,7 +2372,8 @@ window.CET6_WORDS = [
     "exam": "2023年6月第3套",
     "letter": "F",
     "word": "deny",
-    "meaning": "否认；拒绝给予"
+    "meaning": "否认；拒绝给予",
+    "ipa": "dɪˈnaɪ"
   },
   {
     "id": 217,
@@ -2167,7 +2383,8 @@ window.CET6_WORDS = [
     "exam": "2023年6月第3套",
     "letter": "G",
     "word": "discrepancy",
-    "meaning": "差异；不一致"
+    "meaning": "差异；不一致",
+    "ipa": "dɪˈskrɛpənsi"
   },
   {
     "id": 218,
@@ -2177,7 +2394,8 @@ window.CET6_WORDS = [
     "exam": "2023年6月第3套",
     "letter": "H",
     "word": "probably",
-    "meaning": "可能；大概"
+    "meaning": "可能；大概",
+    "ipa": "ˈprɑbəˌbli"
   },
   {
     "id": 219,
@@ -2187,7 +2405,8 @@ window.CET6_WORDS = [
     "exam": "2023年6月第3套",
     "letter": "I",
     "word": "probes",
-    "meaning": "探查；探针"
+    "meaning": "探查；探针",
+    "ipa": "proʊbz"
   },
   {
     "id": 220,
@@ -2197,7 +2416,8 @@ window.CET6_WORDS = [
     "exam": "2023年6月第3套",
     "letter": "J",
     "word": "random",
-    "meaning": "随机的；任意的"
+    "meaning": "随机的；任意的",
+    "ipa": "ˈrændəm"
   },
   {
     "id": 221,
@@ -2207,7 +2427,8 @@ window.CET6_WORDS = [
     "exam": "2023年6月第3套",
     "letter": "K",
     "word": "recall",
-    "meaning": "回忆；召回"
+    "meaning": "回忆；召回",
+    "ipa": "ˈriˌkɔl"
   },
   {
     "id": 222,
@@ -2217,7 +2438,8 @@ window.CET6_WORDS = [
     "exam": "2023年6月第3套",
     "letter": "L",
     "word": "relatively",
-    "meaning": "相对地"
+    "meaning": "相对地",
+    "ipa": "ˈrɛlətɪvli"
   },
   {
     "id": 223,
@@ -2227,7 +2449,8 @@ window.CET6_WORDS = [
     "exam": "2023年6月第3套",
     "letter": "M",
     "word": "saturated",
-    "meaning": "饱和的；浸透的"
+    "meaning": "饱和的；浸透的",
+    "ipa": "ˈsæʧərˌeɪtɪd"
   },
   {
     "id": 224,
@@ -2237,7 +2460,8 @@ window.CET6_WORDS = [
     "exam": "2023年6月第3套",
     "letter": "N",
     "word": "symptoms",
-    "meaning": "症状"
+    "meaning": "症状",
+    "ipa": "ˈsɪmptəmz"
   },
   {
     "id": 225,
@@ -2247,7 +2471,8 @@ window.CET6_WORDS = [
     "exam": "2023年6月第3套",
     "letter": "O",
     "word": "terminate",
-    "meaning": "终止；结束"
+    "meaning": "终止；结束",
+    "ipa": "ˈtərməˌneɪt"
   },
   {
     "id": 226,
@@ -2257,7 +2482,8 @@ window.CET6_WORDS = [
     "exam": "2023年12月第1套",
     "letter": "A",
     "word": "apt",
-    "meaning": "易于…的；恰当的"
+    "meaning": "易于…的；恰当的",
+    "ipa": "æpt"
   },
   {
     "id": 227,
@@ -2267,7 +2493,8 @@ window.CET6_WORDS = [
     "exam": "2023年12月第1套",
     "letter": "B",
     "word": "burning",
-    "meaning": "燃烧的；迫切的"
+    "meaning": "燃烧的；迫切的",
+    "ipa": "ˈbərnɪŋ"
   },
   {
     "id": 228,
@@ -2277,7 +2504,8 @@ window.CET6_WORDS = [
     "exam": "2023年12月第1套",
     "letter": "C",
     "word": "extremes",
-    "meaning": "极端；极度状态"
+    "meaning": "极端；极度状态",
+    "ipa": "ɪkˈstrimz"
   },
   {
     "id": 229,
@@ -2287,7 +2515,8 @@ window.CET6_WORDS = [
     "exam": "2023年12月第1套",
     "letter": "D",
     "word": "flat",
-    "meaning": "平的；乏味的"
+    "meaning": "平的；乏味的",
+    "ipa": "flæt"
   },
   {
     "id": 230,
@@ -2297,7 +2526,8 @@ window.CET6_WORDS = [
     "exam": "2023年12月第1套",
     "letter": "E",
     "word": "fractions",
-    "meaning": "小部分；分数"
+    "meaning": "小部分；分数",
+    "ipa": "ˈfrækʃənz"
   },
   {
     "id": 231,
@@ -2307,7 +2537,8 @@ window.CET6_WORDS = [
     "exam": "2023年12月第1套",
     "letter": "F",
     "word": "overflowing",
-    "meaning": "溢出的；充满的"
+    "meaning": "溢出的；充满的",
+    "ipa": "ˈoʊvərˌfloʊɪŋ"
   },
   {
     "id": 232,
@@ -2317,7 +2548,8 @@ window.CET6_WORDS = [
     "exam": "2023年12月第1套",
     "letter": "G",
     "word": "parasites",
-    "meaning": "寄生虫；寄生生物"
+    "meaning": "寄生虫；寄生生物",
+    "ipa": "ˈpɛrəˌsaɪts"
   },
   {
     "id": 233,
@@ -2327,7 +2559,8 @@ window.CET6_WORDS = [
     "exam": "2023年12月第1套",
     "letter": "H",
     "word": "probably",
-    "meaning": "可能；大概"
+    "meaning": "可能；大概",
+    "ipa": "ˈprɑbəˌbli"
   },
   {
     "id": 234,
@@ -2337,7 +2570,8 @@ window.CET6_WORDS = [
     "exam": "2023年12月第1套",
     "letter": "I",
     "word": "sparingly",
-    "meaning": "节俭地；少量地"
+    "meaning": "节俭地；少量地",
+    "ipa": "ˈspɛrɪŋli"
   },
   {
     "id": 235,
@@ -2347,7 +2581,8 @@ window.CET6_WORDS = [
     "exam": "2023年12月第1套",
     "letter": "J",
     "word": "sprinkle",
-    "meaning": "撒；洒；少量点缀"
+    "meaning": "撒；洒；少量点缀",
+    "ipa": "ˈsprɪŋkəl"
   },
   {
     "id": 236,
@@ -2357,7 +2592,8 @@ window.CET6_WORDS = [
     "exam": "2023年12月第1套",
     "letter": "K",
     "word": "steer",
-    "meaning": "引导；驾驶"
+    "meaning": "引导；驾驶",
+    "ipa": "stɪr"
   },
   {
     "id": 237,
@@ -2367,7 +2603,8 @@ window.CET6_WORDS = [
     "exam": "2023年12月第1套",
     "letter": "L",
     "word": "stimulate",
-    "meaning": "刺激；促进"
+    "meaning": "刺激；促进",
+    "ipa": "ˈstɪmjəˌleɪt"
   },
   {
     "id": 238,
@@ -2377,7 +2614,8 @@ window.CET6_WORDS = [
     "exam": "2023年12月第1套",
     "letter": "M",
     "word": "sturdy",
-    "meaning": "结实的；坚固的"
+    "meaning": "结实的；坚固的",
+    "ipa": "ˈstərdi"
   },
   {
     "id": 239,
@@ -2387,7 +2625,8 @@ window.CET6_WORDS = [
     "exam": "2023年12月第1套",
     "letter": "N",
     "word": "synonymous",
-    "meaning": "同义的；等同于…的"
+    "meaning": "同义的；等同于…的",
+    "ipa": "səˈnɑnəməs"
   },
   {
     "id": 240,
@@ -2397,7 +2636,8 @@ window.CET6_WORDS = [
     "exam": "2023年12月第1套",
     "letter": "O",
     "word": "unique",
-    "meaning": "独特的；唯一的"
+    "meaning": "独特的；唯一的",
+    "ipa": "juˈnik"
   },
   {
     "id": 241,
@@ -2407,7 +2647,8 @@ window.CET6_WORDS = [
     "exam": "2023年12月第2套",
     "letter": "A",
     "word": "activated",
-    "meaning": "激活的；启动的"
+    "meaning": "激活的；启动的",
+    "ipa": "ˈæktɪˌveɪtɪd"
   },
   {
     "id": 242,
@@ -2417,7 +2658,8 @@ window.CET6_WORDS = [
     "exam": "2023年12月第2套",
     "letter": "B",
     "word": "aggravated",
-    "meaning": "加剧的；恶化的"
+    "meaning": "加剧的；恶化的",
+    "ipa": "ˈægrəˌveɪtɪd"
   },
   {
     "id": 243,
@@ -2427,7 +2669,8 @@ window.CET6_WORDS = [
     "exam": "2023年12月第2套",
     "letter": "C",
     "word": "ascertain",
-    "meaning": "查明；确定"
+    "meaning": "查明；确定",
+    "ipa": "ˌæsərˈteɪn"
   },
   {
     "id": 244,
@@ -2437,7 +2680,8 @@ window.CET6_WORDS = [
     "exam": "2023年12月第2套",
     "letter": "D",
     "word": "deliberate",
-    "meaning": "故意的；深思熟虑的"
+    "meaning": "故意的；深思熟虑的",
+    "ipa": "dɪˈlɪbərˌeɪt"
   },
   {
     "id": 245,
@@ -2447,7 +2691,8 @@ window.CET6_WORDS = [
     "exam": "2023年12月第2套",
     "letter": "E",
     "word": "differentiate",
-    "meaning": "区分；使不同"
+    "meaning": "区分；使不同",
+    "ipa": "ˌdɪfərˈɛnʧiˌeɪt"
   },
   {
     "id": 246,
@@ -2457,7 +2702,8 @@ window.CET6_WORDS = [
     "exam": "2023年12月第2套",
     "letter": "F",
     "word": "discourse",
-    "meaning": "论述；话语"
+    "meaning": "论述；话语",
+    "ipa": "ˈdɪskɔrs"
   },
   {
     "id": 247,
@@ -2467,7 +2713,8 @@ window.CET6_WORDS = [
     "exam": "2023年12月第2套",
     "letter": "G",
     "word": "evokes",
-    "meaning": "唤起；引发"
+    "meaning": "唤起；引发",
+    "ipa": "ɪˈvoʊks"
   },
   {
     "id": 248,
@@ -2477,7 +2724,8 @@ window.CET6_WORDS = [
     "exam": "2023年12月第2套",
     "letter": "H",
     "word": "inhibit",
-    "meaning": "抑制；阻碍"
+    "meaning": "抑制；阻碍",
+    "ipa": "ˌɪnˈhɪbət"
   },
   {
     "id": 249,
@@ -2487,7 +2735,8 @@ window.CET6_WORDS = [
     "exam": "2023年12月第2套",
     "letter": "I",
     "word": "manuscript",
-    "meaning": "手稿；原稿"
+    "meaning": "手稿；原稿",
+    "ipa": "ˈmænjəˌskrɪpt"
   },
   {
     "id": 250,
@@ -2497,7 +2746,8 @@ window.CET6_WORDS = [
     "exam": "2023年12月第2套",
     "letter": "J",
     "word": "marvels",
-    "meaning": "奇迹；惊叹"
+    "meaning": "奇迹；惊叹",
+    "ipa": "ˈmɑrvəlz"
   },
   {
     "id": 251,
@@ -2507,7 +2757,8 @@ window.CET6_WORDS = [
     "exam": "2023年12月第2套",
     "letter": "K",
     "word": "remnants",
-    "meaning": "遗迹；剩余物"
+    "meaning": "遗迹；剩余物",
+    "ipa": "ˈrɛmnənts"
   },
   {
     "id": 252,
@@ -2517,7 +2768,8 @@ window.CET6_WORDS = [
     "exam": "2023年12月第2套",
     "letter": "L",
     "word": "scenarios",
-    "meaning": "情形；设想（复数）"
+    "meaning": "情形；设想（复数）",
+    "ipa": "sɪˈnɛrioʊz"
   },
   {
     "id": 253,
@@ -2527,7 +2779,8 @@ window.CET6_WORDS = [
     "exam": "2023年12月第2套",
     "letter": "M",
     "word": "speculative",
-    "meaning": "推测的；投机的"
+    "meaning": "推测的；投机的",
+    "ipa": "ˈspɛkjələtɪv"
   },
   {
     "id": 254,
@@ -2537,7 +2790,8 @@ window.CET6_WORDS = [
     "exam": "2023年12月第2套",
     "letter": "N",
     "word": "unanimous",
-    "meaning": "一致同意的"
+    "meaning": "一致同意的",
+    "ipa": "juˈnænəməs"
   },
   {
     "id": 255,
@@ -2547,7 +2801,8 @@ window.CET6_WORDS = [
     "exam": "2023年12月第2套",
     "letter": "O",
     "word": "uncertainty",
-    "meaning": "不确定性"
+    "meaning": "不确定性",
+    "ipa": "ənˈsərtənti"
   },
   {
     "id": 256,
@@ -2557,7 +2812,8 @@ window.CET6_WORDS = [
     "exam": "2023年12月第3套",
     "letter": "A",
     "word": "correlation",
-    "meaning": "相关性；关联"
+    "meaning": "相关性；关联",
+    "ipa": "ˌkɔrəˈleɪʃən"
   },
   {
     "id": 257,
@@ -2567,7 +2823,8 @@ window.CET6_WORDS = [
     "exam": "2023年12月第3套",
     "letter": "B",
     "word": "dense",
-    "meaning": "稠密的；密集的"
+    "meaning": "稠密的；密集的",
+    "ipa": "dɛns"
   },
   {
     "id": 258,
@@ -2577,7 +2834,8 @@ window.CET6_WORDS = [
     "exam": "2023年12月第3套",
     "letter": "C",
     "word": "deter",
-    "meaning": "阻止；威慑"
+    "meaning": "阻止；威慑",
+    "ipa": "dɪˈtər"
   },
   {
     "id": 259,
@@ -2587,7 +2845,8 @@ window.CET6_WORDS = [
     "exam": "2023年12月第3套",
     "letter": "D",
     "word": "equity",
-    "meaning": "公平；股本"
+    "meaning": "公平；股本",
+    "ipa": "ˈɛkwəti"
   },
   {
     "id": 260,
@@ -2597,7 +2856,8 @@ window.CET6_WORDS = [
     "exam": "2023年12月第3套",
     "letter": "E",
     "word": "foster",
-    "meaning": "促进；培养"
+    "meaning": "促进；培养",
+    "ipa": "ˈfɑstər"
   },
   {
     "id": 261,
@@ -2607,7 +2867,8 @@ window.CET6_WORDS = [
     "exam": "2023年12月第3套",
     "letter": "F",
     "word": "imperative",
-    "meaning": "必要的；迫切的"
+    "meaning": "必要的；迫切的",
+    "ipa": "ˌɪmˈpɛrətɪv"
   },
   {
     "id": 262,
@@ -2617,7 +2878,8 @@ window.CET6_WORDS = [
     "exam": "2023年12月第3套",
     "letter": "G",
     "word": "impose",
-    "meaning": "强加；征收"
+    "meaning": "强加；征收",
+    "ipa": "ˌɪmˈpoʊz"
   },
   {
     "id": 263,
@@ -2627,7 +2889,8 @@ window.CET6_WORDS = [
     "exam": "2023年12月第3套",
     "letter": "H",
     "word": "irrespective",
-    "meaning": "不考虑的；不管"
+    "meaning": "不考虑的；不管",
+    "ipa": "ˌɪrəˈspɛktɪv"
   },
   {
     "id": 264,
@@ -2637,7 +2900,8 @@ window.CET6_WORDS = [
     "exam": "2023年12月第3套",
     "letter": "I",
     "word": "longevity",
-    "meaning": "长寿；持久"
+    "meaning": "长寿；持久",
+    "ipa": "lɔnˈʤɛvəti"
   },
   {
     "id": 265,
@@ -2647,7 +2911,8 @@ window.CET6_WORDS = [
     "exam": "2023年12月第3套",
     "letter": "J",
     "word": "navigate",
-    "meaning": "导航；设法应对"
+    "meaning": "导航；设法应对",
+    "ipa": "ˈnævəˌgeɪt"
   },
   {
     "id": 266,
@@ -2657,7 +2922,8 @@ window.CET6_WORDS = [
     "exam": "2023年12月第3套",
     "letter": "K",
     "word": "recreational",
-    "meaning": "娱乐的；休闲的"
+    "meaning": "娱乐的；休闲的",
+    "ipa": "ˌrɛkriˈeɪʃənəl"
   },
   {
     "id": 267,
@@ -2667,7 +2933,8 @@ window.CET6_WORDS = [
     "exam": "2023年12月第3套",
     "letter": "L",
     "word": "rotten",
-    "meaning": "腐烂的；糟糕的"
+    "meaning": "腐烂的；糟糕的",
+    "ipa": "ˈrɑtən"
   },
   {
     "id": 268,
@@ -2677,7 +2944,8 @@ window.CET6_WORDS = [
     "exam": "2023年12月第3套",
     "letter": "M",
     "word": "sprawl",
-    "meaning": "无序扩张；蔓延"
+    "meaning": "无序扩张；蔓延",
+    "ipa": "sprɔl"
   },
   {
     "id": 269,
@@ -2687,7 +2955,8 @@ window.CET6_WORDS = [
     "exam": "2023年12月第3套",
     "letter": "N",
     "word": "vibrate",
-    "meaning": "振动；颤动"
+    "meaning": "振动；颤动",
+    "ipa": "ˈvaɪbreɪt"
   },
   {
     "id": 270,
@@ -2697,7 +2966,8 @@ window.CET6_WORDS = [
     "exam": "2023年12月第3套",
     "letter": "O",
     "word": "vicinity",
-    "meaning": "附近；周边地区"
+    "meaning": "附近；周边地区",
+    "ipa": "vɪˈsɪnɪti"
   },
   {
     "id": 271,
@@ -2707,7 +2977,8 @@ window.CET6_WORDS = [
     "exam": "2024年6月第1套",
     "letter": "A",
     "word": "alleviate",
-    "meaning": "减轻；缓解"
+    "meaning": "减轻；缓解",
+    "ipa": "əˈliviˌeɪt"
   },
   {
     "id": 272,
@@ -2717,7 +2988,8 @@ window.CET6_WORDS = [
     "exam": "2024年6月第1套",
     "letter": "B",
     "word": "clarity",
-    "meaning": "清晰；明确"
+    "meaning": "清晰；明确",
+    "ipa": "ˈklɛrɪti"
   },
   {
     "id": 273,
@@ -2727,7 +2999,8 @@ window.CET6_WORDS = [
     "exam": "2024年6月第1套",
     "letter": "C",
     "word": "cognitive",
-    "meaning": "认知的"
+    "meaning": "认知的",
+    "ipa": "ˈkɑgnɪtɪv"
   },
   {
     "id": 274,
@@ -2737,7 +3010,8 @@ window.CET6_WORDS = [
     "exam": "2024年6月第1套",
     "letter": "D",
     "word": "composers",
-    "meaning": "作曲家"
+    "meaning": "作曲家",
+    "ipa": "kəmˈpoʊzərz"
   },
   {
     "id": 275,
@@ -2747,7 +3021,8 @@ window.CET6_WORDS = [
     "exam": "2024年6月第1套",
     "letter": "E",
     "word": "hurt",
-    "meaning": "伤害；受伤"
+    "meaning": "伤害；受伤",
+    "ipa": "hərt"
   },
   {
     "id": 276,
@@ -2757,7 +3032,8 @@ window.CET6_WORDS = [
     "exam": "2024年6月第1套",
     "letter": "F",
     "word": "inhibiting",
-    "meaning": "抑制的；阻碍的"
+    "meaning": "抑制的；阻碍的",
+    "ipa": "ˌɪnˈhɪbətɪŋ"
   },
   {
     "id": 277,
@@ -2767,7 +3043,8 @@ window.CET6_WORDS = [
     "exam": "2024年6月第1套",
     "letter": "G",
     "word": "interrogation",
-    "meaning": "审问；询问"
+    "meaning": "审问；询问",
+    "ipa": "ˌɪnˌtɛrəˈgeɪʃən"
   },
   {
     "id": 278,
@@ -2777,7 +3054,8 @@ window.CET6_WORDS = [
     "exam": "2024年6月第1套",
     "letter": "H",
     "word": "intrinsically",
-    "meaning": "本质上；内在地"
+    "meaning": "本质上；内在地",
+    "ipa": "ˌɪnˈtrɪnsɪkəli"
   },
   {
     "id": 279,
@@ -2787,7 +3065,8 @@ window.CET6_WORDS = [
     "exam": "2024年6月第1套",
     "letter": "I",
     "word": "loose",
-    "meaning": "松的；宽松的"
+    "meaning": "松的；宽松的",
+    "ipa": "lus"
   },
   {
     "id": 280,
@@ -2797,7 +3076,8 @@ window.CET6_WORDS = [
     "exam": "2024年6月第1套",
     "letter": "J",
     "word": "majestic",
-    "meaning": "雄伟的；庄严的"
+    "meaning": "雄伟的；庄严的",
+    "ipa": "məˈʤɛstɪk"
   },
   {
     "id": 281,
@@ -2807,7 +3087,8 @@ window.CET6_WORDS = [
     "exam": "2024年6月第1套",
     "letter": "K",
     "word": "mandatory",
-    "meaning": "强制的；必须的"
+    "meaning": "强制的；必须的",
+    "ipa": "ˈmændəˌtɔri"
   },
   {
     "id": 282,
@@ -2817,7 +3098,8 @@ window.CET6_WORDS = [
     "exam": "2024年6月第1套",
     "letter": "L",
     "word": "recover",
-    "meaning": "恢复；康复"
+    "meaning": "恢复；康复",
+    "ipa": "rɪˈkəvər"
   },
   {
     "id": 283,
@@ -2827,7 +3109,8 @@ window.CET6_WORDS = [
     "exam": "2024年6月第1套",
     "letter": "M",
     "word": "significantly",
-    "meaning": "显著地；重要地"
+    "meaning": "显著地；重要地",
+    "ipa": "sɪgˈnɪfɪkəntli"
   },
   {
     "id": 284,
@@ -2837,7 +3120,8 @@ window.CET6_WORDS = [
     "exam": "2024年6月第1套",
     "letter": "N",
     "word": "soothing",
-    "meaning": "舒缓的；安抚的"
+    "meaning": "舒缓的；安抚的",
+    "ipa": "ˈsuðɪŋ"
   },
   {
     "id": 285,
@@ -2847,7 +3131,8 @@ window.CET6_WORDS = [
     "exam": "2024年6月第1套",
     "letter": "O",
     "word": "wards",
-    "meaning": "病房；病区"
+    "meaning": "病房；病区",
+    "ipa": "wɔrdz"
   },
   {
     "id": 286,
@@ -2857,7 +3142,8 @@ window.CET6_WORDS = [
     "exam": "2024年6月第2套",
     "letter": "A",
     "word": "adore",
-    "meaning": "热爱；爱慕"
+    "meaning": "热爱；爱慕",
+    "ipa": "əˈdɔr"
   },
   {
     "id": 287,
@@ -2867,7 +3153,8 @@ window.CET6_WORDS = [
     "exam": "2024年6月第2套",
     "letter": "B",
     "word": "appraise",
-    "meaning": "评估；估价"
+    "meaning": "评估；估价",
+    "ipa": "əˈpreɪz"
   },
   {
     "id": 288,
@@ -2877,7 +3164,8 @@ window.CET6_WORDS = [
     "exam": "2024年6月第2套",
     "letter": "C",
     "word": "assaults",
-    "meaning": "攻击；袭击"
+    "meaning": "攻击；袭击",
+    "ipa": "əˈsɔlts"
   },
   {
     "id": 289,
@@ -2887,7 +3175,8 @@ window.CET6_WORDS = [
     "exam": "2024年6月第2套",
     "letter": "D",
     "word": "chemistry",
-    "meaning": "化学；默契"
+    "meaning": "化学；默契",
+    "ipa": "ˈkɛmɪstri"
   },
   {
     "id": 290,
@@ -2897,7 +3186,8 @@ window.CET6_WORDS = [
     "exam": "2024年6月第2套",
     "letter": "E",
     "word": "coincidence",
-    "meaning": "巧合；同时发生"
+    "meaning": "巧合；同时发生",
+    "ipa": "koʊˈɪnsɪdəns"
   },
   {
     "id": 291,
@@ -2907,7 +3197,8 @@ window.CET6_WORDS = [
     "exam": "2024年6月第2套",
     "letter": "F",
     "word": "cracks",
-    "meaning": "裂缝；破裂"
+    "meaning": "裂缝；破裂",
+    "ipa": "kræks"
   },
   {
     "id": 292,
@@ -2917,7 +3208,8 @@ window.CET6_WORDS = [
     "exam": "2024年6月第2套",
     "letter": "G",
     "word": "deported",
-    "meaning": "被驱逐出境的"
+    "meaning": "被驱逐出境的",
+    "ipa": "dɪˈpɔrtəd"
   },
   {
     "id": 293,
@@ -2927,7 +3219,8 @@ window.CET6_WORDS = [
     "exam": "2024年6月第2套",
     "letter": "H",
     "word": "dismisses",
-    "meaning": "不理会；解雇；否定"
+    "meaning": "不理会；解雇；否定",
+    "ipa": "dɪsˈmɪsɪz"
   },
   {
     "id": 294,
@@ -2937,7 +3230,8 @@ window.CET6_WORDS = [
     "exam": "2024年6月第2套",
     "letter": "I",
     "word": "illegally",
-    "meaning": "非法地"
+    "meaning": "非法地",
+    "ipa": "ˌɪˈligəli"
   },
   {
     "id": 295,
@@ -2947,7 +3241,8 @@ window.CET6_WORDS = [
     "exam": "2024年6月第2套",
     "letter": "J",
     "word": "lost",
-    "meaning": "丢失的；迷失的"
+    "meaning": "丢失的；迷失的",
+    "ipa": "lɔst"
   },
   {
     "id": 296,
@@ -2957,7 +3252,8 @@ window.CET6_WORDS = [
     "exam": "2024年6月第2套",
     "letter": "K",
     "word": "perpetually",
-    "meaning": "持续地；永不停止地"
+    "meaning": "持续地；永不停止地",
+    "ipa": "pərˈpɛʧuəli"
   },
   {
     "id": 297,
@@ -2967,7 +3263,8 @@ window.CET6_WORDS = [
     "exam": "2024年6月第2套",
     "letter": "L",
     "word": "prescribed",
-    "meaning": "规定的；开处方的"
+    "meaning": "规定的；开处方的",
+    "ipa": "priˈskraɪbd"
   },
   {
     "id": 298,
@@ -2977,7 +3274,8 @@ window.CET6_WORDS = [
     "exam": "2024年6月第2套",
     "letter": "M",
     "word": "shrewd",
-    "meaning": "精明的；敏锐的"
+    "meaning": "精明的；敏锐的",
+    "ipa": "ʃrud"
   },
   {
     "id": 299,
@@ -2987,7 +3285,8 @@ window.CET6_WORDS = [
     "exam": "2024年6月第2套",
     "letter": "N",
     "word": "skeptical",
-    "meaning": "怀疑的"
+    "meaning": "怀疑的",
+    "ipa": "ˈskɛptɪkəl"
   },
   {
     "id": 300,
@@ -2997,7 +3296,8 @@ window.CET6_WORDS = [
     "exam": "2024年6月第2套",
     "letter": "O",
     "word": "strives",
-    "meaning": "努力；奋斗"
+    "meaning": "努力；奋斗",
+    "ipa": "straɪvz"
   },
   {
     "id": 301,
@@ -3007,7 +3307,8 @@ window.CET6_WORDS = [
     "exam": "2024年6月第3套",
     "letter": "A",
     "word": "bounces",
-    "meaning": "弹起；反射"
+    "meaning": "弹起；反射",
+    "ipa": "ˈbaʊnsɪz"
   },
   {
     "id": 302,
@@ -3017,7 +3318,8 @@ window.CET6_WORDS = [
     "exam": "2024年6月第3套",
     "letter": "B",
     "word": "completely",
-    "meaning": "完全地"
+    "meaning": "完全地",
+    "ipa": "kəmˈplitli"
   },
   {
     "id": 303,
@@ -3027,7 +3329,8 @@ window.CET6_WORDS = [
     "exam": "2024年6月第3套",
     "letter": "C",
     "word": "dispersion",
-    "meaning": "扩散；分散"
+    "meaning": "扩散；分散",
+    "ipa": "dɪˈspərʒən"
   },
   {
     "id": 304,
@@ -3037,7 +3340,8 @@ window.CET6_WORDS = [
     "exam": "2024年6月第3套",
     "letter": "D",
     "word": "eccentric",
-    "meaning": "古怪的；偏心的"
+    "meaning": "古怪的；偏心的",
+    "ipa": "ˌɛkˈsɛntrɪk"
   },
   {
     "id": 305,
@@ -3047,7 +3351,8 @@ window.CET6_WORDS = [
     "exam": "2024年6月第3套",
     "letter": "E",
     "word": "hanging",
-    "meaning": "悬挂的；悬而未决的"
+    "meaning": "悬挂的；悬而未决的",
+    "ipa": "ˈhæŋɪŋ"
   },
   {
     "id": 306,
@@ -3057,7 +3362,8 @@ window.CET6_WORDS = [
     "exam": "2024年6月第3套",
     "letter": "F",
     "word": "optical",
-    "meaning": "光学的；视觉的"
+    "meaning": "光学的；视觉的",
+    "ipa": "ˈɑptɪkəl"
   },
   {
     "id": 307,
@@ -3067,7 +3373,8 @@ window.CET6_WORDS = [
     "exam": "2024年6月第3套",
     "letter": "G",
     "word": "originates",
-    "meaning": "起源于；产生"
+    "meaning": "起源于；产生",
+    "ipa": "ərˈɪʤəˌneɪts"
   },
   {
     "id": 308,
@@ -3077,7 +3384,8 @@ window.CET6_WORDS = [
     "exam": "2024年6月第3套",
     "letter": "H",
     "word": "perceive",
-    "meaning": "感知；认为"
+    "meaning": "感知；认为",
+    "ipa": "pərˈsiv"
   },
   {
     "id": 309,
@@ -3087,7 +3395,8 @@ window.CET6_WORDS = [
     "exam": "2024年6月第3套",
     "letter": "I",
     "word": "permeates",
-    "meaning": "渗透；弥漫"
+    "meaning": "渗透；弥漫",
+    "ipa": "ˈpərmiˌeɪts"
   },
   {
     "id": 310,
@@ -3097,7 +3406,8 @@ window.CET6_WORDS = [
     "exam": "2024年6月第3套",
     "letter": "J",
     "word": "ponder",
-    "meaning": "仔细考虑"
+    "meaning": "仔细考虑",
+    "ipa": "ˈpɑndər"
   },
   {
     "id": 311,
@@ -3107,7 +3417,8 @@ window.CET6_WORDS = [
     "exam": "2024年6月第3套",
     "letter": "K",
     "word": "preceding",
-    "meaning": "在前的；先前的"
+    "meaning": "在前的；先前的",
+    "ipa": "priˈsidɪŋ"
   },
   {
     "id": 312,
@@ -3117,7 +3428,8 @@ window.CET6_WORDS = [
     "exam": "2024年6月第3套",
     "letter": "L",
     "word": "recklessly",
-    "meaning": "鲁莽地；不顾后果地"
+    "meaning": "鲁莽地；不顾后果地",
+    "ipa": "ˈrɛkləsli"
   },
   {
     "id": 313,
@@ -3127,7 +3439,8 @@ window.CET6_WORDS = [
     "exam": "2024年6月第3套",
     "letter": "M",
     "word": "relation",
-    "meaning": "关系；联系"
+    "meaning": "关系；联系",
+    "ipa": "riˈleɪʃən"
   },
   {
     "id": 314,
@@ -3137,7 +3450,8 @@ window.CET6_WORDS = [
     "exam": "2024年6月第3套",
     "letter": "N",
     "word": "spectrum",
-    "meaning": "范围；光谱"
+    "meaning": "范围；光谱",
+    "ipa": "ˈspɛktrəm"
   },
   {
     "id": 315,
@@ -3147,7 +3461,8 @@ window.CET6_WORDS = [
     "exam": "2024年6月第3套",
     "letter": "O",
     "word": "stands",
-    "meaning": "站立；代表；处于"
+    "meaning": "站立；代表；处于",
+    "ipa": "stændz"
   },
   {
     "id": 316,
@@ -3157,7 +3472,8 @@ window.CET6_WORDS = [
     "exam": "2024年12月第1套",
     "letter": "A",
     "word": "appeal",
-    "meaning": "吸引力；呼吁"
+    "meaning": "吸引力；呼吁",
+    "ipa": "əˈpil"
   },
   {
     "id": 317,
@@ -3167,7 +3483,8 @@ window.CET6_WORDS = [
     "exam": "2024年12月第1套",
     "letter": "B",
     "word": "extravagantly",
-    "meaning": "奢侈地；挥霍地"
+    "meaning": "奢侈地；挥霍地",
+    "ipa": "ˌɛkˈstrævəgəntli"
   },
   {
     "id": 318,
@@ -3177,7 +3494,8 @@ window.CET6_WORDS = [
     "exam": "2024年12月第1套",
     "letter": "C",
     "word": "intrinsically",
-    "meaning": "本质上；内在地"
+    "meaning": "本质上；内在地",
+    "ipa": "ˌɪnˈtrɪnsɪkəli"
   },
   {
     "id": 319,
@@ -3187,7 +3505,8 @@ window.CET6_WORDS = [
     "exam": "2024年12月第1套",
     "letter": "D",
     "word": "irony",
-    "meaning": "反讽；出人意料的结果"
+    "meaning": "反讽；出人意料的结果",
+    "ipa": "ˈaɪrəni"
   },
   {
     "id": 320,
@@ -3197,7 +3516,8 @@ window.CET6_WORDS = [
     "exam": "2024年12月第1套",
     "letter": "E",
     "word": "layman",
-    "meaning": "外行；非专业人士"
+    "meaning": "外行；非专业人士",
+    "ipa": "ˈleɪmən"
   },
   {
     "id": 321,
@@ -3207,7 +3527,8 @@ window.CET6_WORDS = [
     "exam": "2024年12月第1套",
     "letter": "F",
     "word": "literally",
-    "meaning": "按字面地；确实"
+    "meaning": "按字面地；确实",
+    "ipa": "ˈlɪtərəli"
   },
   {
     "id": 322,
@@ -3217,7 +3538,8 @@ window.CET6_WORDS = [
     "exam": "2024年12月第1套",
     "letter": "G",
     "word": "majestic",
-    "meaning": "雄伟的；庄严的"
+    "meaning": "雄伟的；庄严的",
+    "ipa": "məˈʤɛstɪk"
   },
   {
     "id": 323,
@@ -3227,7 +3549,8 @@ window.CET6_WORDS = [
     "exam": "2024年12月第1套",
     "letter": "H",
     "word": "malicious",
-    "meaning": "恶意的"
+    "meaning": "恶意的",
+    "ipa": "məˈlɪʃəs"
   },
   {
     "id": 324,
@@ -3237,7 +3560,8 @@ window.CET6_WORDS = [
     "exam": "2024年12月第1套",
     "letter": "I",
     "word": "meadow",
-    "meaning": "草地；牧场"
+    "meaning": "草地；牧场",
+    "ipa": "ˈmɛˌdoʊ"
   },
   {
     "id": 325,
@@ -3247,7 +3571,8 @@ window.CET6_WORDS = [
     "exam": "2024年12月第1套",
     "letter": "J",
     "word": "mingle",
-    "meaning": "混合；交往"
+    "meaning": "混合；交往",
+    "ipa": "ˈmɪŋgəl"
   },
   {
     "id": 326,
@@ -3257,7 +3582,8 @@ window.CET6_WORDS = [
     "exam": "2024年12月第1套",
     "letter": "K",
     "word": "predator",
-    "meaning": "捕食者；掠夺者"
+    "meaning": "捕食者；掠夺者",
+    "ipa": "ˈprɛdətər"
   },
   {
     "id": 327,
@@ -3267,7 +3593,8 @@ window.CET6_WORDS = [
     "exam": "2024年12月第1套",
     "letter": "L",
     "word": "rage",
-    "meaning": "狂怒；盛行"
+    "meaning": "狂怒；盛行",
+    "ipa": "reɪʤ"
   },
   {
     "id": 328,
@@ -3277,7 +3604,8 @@ window.CET6_WORDS = [
     "exam": "2024年12月第1套",
     "letter": "M",
     "word": "scrape",
-    "meaning": "刮；擦伤；勉强通过"
+    "meaning": "刮；擦伤；勉强通过",
+    "ipa": "skreɪp"
   },
   {
     "id": 329,
@@ -3287,7 +3615,8 @@ window.CET6_WORDS = [
     "exam": "2024年12月第1套",
     "letter": "N",
     "word": "shrewd",
-    "meaning": "精明的；敏锐的"
+    "meaning": "精明的；敏锐的",
+    "ipa": "ʃrud"
   },
   {
     "id": 330,
@@ -3297,7 +3626,8 @@ window.CET6_WORDS = [
     "exam": "2024年12月第1套",
     "letter": "O",
     "word": "thrifty",
-    "meaning": "节俭的"
+    "meaning": "节俭的",
+    "ipa": "θˈrɪfti"
   },
   {
     "id": 331,
@@ -3307,7 +3637,8 @@ window.CET6_WORDS = [
     "exam": "2024年12月第2套",
     "letter": "A",
     "word": "affectionate",
-    "meaning": "充满爱意的"
+    "meaning": "充满爱意的",
+    "ipa": "əˈfɛkʃənət"
   },
   {
     "id": 332,
@@ -3317,7 +3648,8 @@ window.CET6_WORDS = [
     "exam": "2024年12月第2套",
     "letter": "B",
     "word": "approximately",
-    "meaning": "大约"
+    "meaning": "大约",
+    "ipa": "əˈprɑksəmətli"
   },
   {
     "id": 333,
@@ -3327,7 +3659,8 @@ window.CET6_WORDS = [
     "exam": "2024年12月第2套",
     "letter": "C",
     "word": "elapses",
-    "meaning": "（时间）流逝"
+    "meaning": "（时间）流逝",
+    "ipa": "ɪˈlæpsɪz"
   },
   {
     "id": 334,
@@ -3337,7 +3670,8 @@ window.CET6_WORDS = [
     "exam": "2024年12月第2套",
     "letter": "D",
     "word": "erode",
-    "meaning": "侵蚀；逐渐削弱"
+    "meaning": "侵蚀；逐渐削弱",
+    "ipa": "ˈiroʊd"
   },
   {
     "id": 335,
@@ -3347,7 +3681,8 @@ window.CET6_WORDS = [
     "exam": "2024年12月第2套",
     "letter": "E",
     "word": "flattered",
-    "meaning": "感到荣幸的；被奉承的"
+    "meaning": "感到荣幸的；被奉承的",
+    "ipa": "ˈflætərd"
   },
   {
     "id": 336,
@@ -3357,7 +3692,8 @@ window.CET6_WORDS = [
     "exam": "2024年12月第2套",
     "letter": "F",
     "word": "flips",
-    "meaning": "翻转；突然转变"
+    "meaning": "翻转；突然转变",
+    "ipa": "flɪps"
   },
   {
     "id": 337,
@@ -3367,7 +3703,8 @@ window.CET6_WORDS = [
     "exam": "2024年12月第2套",
     "letter": "G",
     "word": "halt",
-    "meaning": "停止；中止"
+    "meaning": "停止；中止",
+    "ipa": "hɔlt"
   },
   {
     "id": 338,
@@ -3377,7 +3714,8 @@ window.CET6_WORDS = [
     "exam": "2024年12月第2套",
     "letter": "H",
     "word": "overburdened",
-    "meaning": "负担过重的"
+    "meaning": "负担过重的",
+    "ipa": "ˈoʊvərˈbərdənd"
   },
   {
     "id": 339,
@@ -3387,7 +3725,8 @@ window.CET6_WORDS = [
     "exam": "2024年12月第2套",
     "letter": "I",
     "word": "predominates",
-    "meaning": "占主导地位"
+    "meaning": "占主导地位",
+    "ipa": "prɪˈdɑməˌneɪts"
   },
   {
     "id": 340,
@@ -3397,7 +3736,8 @@ window.CET6_WORDS = [
     "exam": "2024年12月第2套",
     "letter": "J",
     "word": "propagate",
-    "meaning": "传播；繁殖"
+    "meaning": "传播；繁殖",
+    "ipa": "ˈprɑpəˌgeɪt"
   },
   {
     "id": 341,
@@ -3407,7 +3747,8 @@ window.CET6_WORDS = [
     "exam": "2024年12月第2套",
     "letter": "K",
     "word": "scenario",
-    "meaning": "情形；设想"
+    "meaning": "情形；设想",
+    "ipa": "sɪˈnɛrioʊ"
   },
   {
     "id": 342,
@@ -3417,7 +3758,8 @@ window.CET6_WORDS = [
     "exam": "2024年12月第2套",
     "letter": "L",
     "word": "shadow",
-    "meaning": "阴影；紧跟"
+    "meaning": "阴影；紧跟",
+    "ipa": "ˈʃæˌdoʊ"
   },
   {
     "id": 343,
@@ -3427,7 +3769,8 @@ window.CET6_WORDS = [
     "exam": "2024年12月第2套",
     "letter": "M",
     "word": "tentatively",
-    "meaning": "试探性地；暂定地"
+    "meaning": "试探性地；暂定地",
+    "ipa": "ˈtɛntətɪvli"
   },
   {
     "id": 344,
@@ -3437,7 +3780,8 @@ window.CET6_WORDS = [
     "exam": "2024年12月第2套",
     "letter": "N",
     "word": "typically",
-    "meaning": "通常；典型地"
+    "meaning": "通常；典型地",
+    "ipa": "ˈtɪpɪkəli"
   },
   {
     "id": 345,
@@ -3447,7 +3791,8 @@ window.CET6_WORDS = [
     "exam": "2024年12月第2套",
     "letter": "O",
     "word": "vigorous",
-    "meaning": "充满活力的；强有力的"
+    "meaning": "充满活力的；强有力的",
+    "ipa": "ˈvɪgərəs"
   },
   {
     "id": 346,
@@ -3457,7 +3802,8 @@ window.CET6_WORDS = [
     "exam": "2024年12月第3套",
     "letter": "A",
     "word": "applaud",
-    "meaning": "称赞；鼓掌"
+    "meaning": "称赞；鼓掌",
+    "ipa": "əˈplɔd"
   },
   {
     "id": 347,
@@ -3467,7 +3813,8 @@ window.CET6_WORDS = [
     "exam": "2024年12月第3套",
     "letter": "B",
     "word": "casualty",
-    "meaning": "伤亡者；受害者"
+    "meaning": "伤亡者；受害者",
+    "ipa": "ˈkæʒəwəlti"
   },
   {
     "id": 348,
@@ -3477,7 +3824,8 @@ window.CET6_WORDS = [
     "exam": "2024年12月第3套",
     "letter": "C",
     "word": "exclude",
-    "meaning": "排除；不包括"
+    "meaning": "排除；不包括",
+    "ipa": "ɪkˈsklud"
   },
   {
     "id": 349,
@@ -3487,7 +3835,8 @@ window.CET6_WORDS = [
     "exam": "2024年12月第3套",
     "letter": "D",
     "word": "extent",
-    "meaning": "程度；范围"
+    "meaning": "程度；范围",
+    "ipa": "ɪkˈstɛnt"
   },
   {
     "id": 350,
@@ -3497,7 +3846,8 @@ window.CET6_WORDS = [
     "exam": "2024年12月第3套",
     "letter": "E",
     "word": "group",
-    "meaning": "群体；将…分组"
+    "meaning": "群体；将…分组",
+    "ipa": "grup"
   },
   {
     "id": 351,
@@ -3507,7 +3857,8 @@ window.CET6_WORDS = [
     "exam": "2024年12月第3套",
     "letter": "F",
     "word": "hierarchical",
-    "meaning": "等级制的；分层的"
+    "meaning": "等级制的；分层的",
+    "ipa": "ˌhaɪˈrɑrkəkəl"
   },
   {
     "id": 352,
@@ -3517,7 +3868,8 @@ window.CET6_WORDS = [
     "exam": "2024年12月第3套",
     "letter": "G",
     "word": "immediate",
-    "meaning": "立即的；直接的"
+    "meaning": "立即的；直接的",
+    "ipa": "ˌɪˈmiˌdiət"
   },
   {
     "id": 353,
@@ -3527,7 +3879,8 @@ window.CET6_WORDS = [
     "exam": "2024年12月第3套",
     "letter": "H",
     "word": "incredibly",
-    "meaning": "难以置信地；非常"
+    "meaning": "难以置信地；非常",
+    "ipa": "ˌɪnˈkrɛdəbli"
   },
   {
     "id": 354,
@@ -3537,7 +3890,8 @@ window.CET6_WORDS = [
     "exam": "2024年12月第3套",
     "letter": "I",
     "word": "moderate",
-    "meaning": "适度的；缓和"
+    "meaning": "适度的；缓和",
+    "ipa": "ˈmɑdərˌeɪt"
   },
   {
     "id": 355,
@@ -3547,7 +3901,8 @@ window.CET6_WORDS = [
     "exam": "2024年12月第3套",
     "letter": "J",
     "word": "mortality",
-    "meaning": "死亡率；死亡"
+    "meaning": "死亡率；死亡",
+    "ipa": "mɔrˈtæləti"
   },
   {
     "id": 356,
@@ -3557,7 +3912,8 @@ window.CET6_WORDS = [
     "exam": "2024年12月第3套",
     "letter": "K",
     "word": "overt",
-    "meaning": "公开的；明显的"
+    "meaning": "公开的；明显的",
+    "ipa": "ˈoʊvərt"
   },
   {
     "id": 357,
@@ -3567,7 +3923,8 @@ window.CET6_WORDS = [
     "exam": "2024年12月第3套",
     "letter": "L",
     "word": "praiseworthy",
-    "meaning": "值得称赞的"
+    "meaning": "值得称赞的",
+    "ipa": "ˈpreɪzˌwərði"
   },
   {
     "id": 358,
@@ -3577,7 +3934,8 @@ window.CET6_WORDS = [
     "exam": "2024年12月第3套",
     "letter": "M",
     "word": "probe",
-    "meaning": "探查；探究"
+    "meaning": "探查；探究",
+    "ipa": "proʊb"
   },
   {
     "id": 359,
@@ -3587,7 +3945,8 @@ window.CET6_WORDS = [
     "exam": "2024年12月第3套",
     "letter": "N",
     "word": "sceptically",
-    "meaning": "怀疑地"
+    "meaning": "怀疑地",
+    "ipa": "ˈskɛptɪkəli"
   },
   {
     "id": 360,
@@ -3597,7 +3956,8 @@ window.CET6_WORDS = [
     "exam": "2024年12月第3套",
     "letter": "O",
     "word": "unequal",
-    "meaning": "不平等的；不相等的"
+    "meaning": "不平等的；不相等的",
+    "ipa": "əˈnikwəl"
   },
   {
     "id": 361,
@@ -3607,7 +3967,8 @@ window.CET6_WORDS = [
     "exam": "2025年6月第1套",
     "letter": "A",
     "word": "aesthetic",
-    "meaning": "审美的；美感"
+    "meaning": "审美的；美感",
+    "ipa": "ɛsˈθɛtɪk"
   },
   {
     "id": 362,
@@ -3617,7 +3978,8 @@ window.CET6_WORDS = [
     "exam": "2025年6月第1套",
     "letter": "B",
     "word": "chronic",
-    "meaning": "慢性的；长期的"
+    "meaning": "慢性的；长期的",
+    "ipa": "ˈkrɑnɪk"
   },
   {
     "id": 363,
@@ -3627,7 +3989,8 @@ window.CET6_WORDS = [
     "exam": "2025年6月第1套",
     "letter": "C",
     "word": "contaminated",
-    "meaning": "被污染的"
+    "meaning": "被污染的",
+    "ipa": "kənˈtæməˌneɪtɪd"
   },
   {
     "id": 364,
@@ -3637,7 +4000,8 @@ window.CET6_WORDS = [
     "exam": "2025年6月第1套",
     "letter": "D",
     "word": "conventionally",
-    "meaning": "按照惯例；传统上"
+    "meaning": "按照惯例；传统上",
+    "ipa": "kənˈvɛnʃənəli"
   },
   {
     "id": 365,
@@ -3647,7 +4011,8 @@ window.CET6_WORDS = [
     "exam": "2025年6月第1套",
     "letter": "E",
     "word": "emissions",
-    "meaning": "排放物；排放"
+    "meaning": "排放物；排放",
+    "ipa": "ɪˈmɪʃənz"
   },
   {
     "id": 366,
@@ -3657,7 +4022,8 @@ window.CET6_WORDS = [
     "exam": "2025年6月第1套",
     "letter": "F",
     "word": "environment",
-    "meaning": "环境"
+    "meaning": "环境",
+    "ipa": "ɪnˈvaɪrənmənt"
   },
   {
     "id": 367,
@@ -3667,7 +4033,8 @@ window.CET6_WORDS = [
     "exam": "2025年6月第1套",
     "letter": "G",
     "word": "hampering",
-    "meaning": "妨碍；阻碍"
+    "meaning": "妨碍；阻碍",
+    "ipa": "ˈhæmpərɪŋ"
   },
   {
     "id": 368,
@@ -3677,7 +4044,8 @@ window.CET6_WORDS = [
     "exam": "2025年6月第1套",
     "letter": "H",
     "word": "incidentally",
-    "meaning": "顺便地；偶然地"
+    "meaning": "顺便地；偶然地",
+    "ipa": "ˌɪnsɪˈdɛntəli"
   },
   {
     "id": 369,
@@ -3687,7 +4055,8 @@ window.CET6_WORDS = [
     "exam": "2025年6月第1套",
     "letter": "I",
     "word": "infringement",
-    "meaning": "侵犯；违反"
+    "meaning": "侵犯；违反",
+    "ipa": "ˌɪnˈfrɪnʤmənt"
   },
   {
     "id": 370,
@@ -3697,7 +4066,8 @@ window.CET6_WORDS = [
     "exam": "2025年6月第1套",
     "letter": "J",
     "word": "intrigued",
-    "meaning": "很感兴趣的；好奇的"
+    "meaning": "很感兴趣的；好奇的",
+    "ipa": "ˌɪnˈtrigd"
   },
   {
     "id": 371,
@@ -3707,7 +4077,8 @@ window.CET6_WORDS = [
     "exam": "2025年6月第1套",
     "letter": "K",
     "word": "juvenile",
-    "meaning": "青少年的；幼年的"
+    "meaning": "青少年的；幼年的",
+    "ipa": "ˈʤuvəˌnaɪl"
   },
   {
     "id": 372,
@@ -3717,7 +4088,8 @@ window.CET6_WORDS = [
     "exam": "2025年6月第1套",
     "letter": "L",
     "word": "outlet",
-    "meaning": "出口；渠道；销售点"
+    "meaning": "出口；渠道；销售点",
+    "ipa": "ˈaʊˌtlɛt"
   },
   {
     "id": 373,
@@ -3727,7 +4099,8 @@ window.CET6_WORDS = [
     "exam": "2025年6月第1套",
     "letter": "M",
     "word": "rotating",
-    "meaning": "旋转的；轮换的"
+    "meaning": "旋转的；轮换的",
+    "ipa": "ˈroʊˌteɪtɪŋ"
   },
   {
     "id": 374,
@@ -3737,7 +4110,8 @@ window.CET6_WORDS = [
     "exam": "2025年6月第1套",
     "letter": "N",
     "word": "vibrations",
-    "meaning": "振动；波动"
+    "meaning": "振动；波动",
+    "ipa": "vaɪˈbreɪʃənz"
   },
   {
     "id": 375,
@@ -3747,7 +4121,8 @@ window.CET6_WORDS = [
     "exam": "2025年6月第1套",
     "letter": "O",
     "word": "weeding",
-    "meaning": "除草；剔除"
+    "meaning": "除草；剔除",
+    "ipa": "ˈwidɪŋ"
   },
   {
     "id": 376,
@@ -3757,7 +4132,8 @@ window.CET6_WORDS = [
     "exam": "2025年6月第2套",
     "letter": "A",
     "word": "adaptations",
-    "meaning": "适应；改编"
+    "meaning": "适应；改编",
+    "ipa": "ˌædəpˈteɪʃənz"
   },
   {
     "id": 377,
@@ -3767,7 +4143,8 @@ window.CET6_WORDS = [
     "exam": "2025年6月第2套",
     "letter": "B",
     "word": "blasted",
-    "meaning": "爆破的；受强烈冲击的"
+    "meaning": "爆破的；受强烈冲击的",
+    "ipa": "ˈblæstɪd"
   },
   {
     "id": 378,
@@ -3777,7 +4154,8 @@ window.CET6_WORDS = [
     "exam": "2025年6月第2套",
     "letter": "C",
     "word": "catastrophic",
-    "meaning": "灾难性的"
+    "meaning": "灾难性的",
+    "ipa": "ˌkætəˈstrɑfɪk"
   },
   {
     "id": 379,
@@ -3787,7 +4165,8 @@ window.CET6_WORDS = [
     "exam": "2025年6月第2套",
     "letter": "D",
     "word": "evolved",
-    "meaning": "演化的；逐步发展的"
+    "meaning": "演化的；逐步发展的",
+    "ipa": "ɪˈvɑlvd"
   },
   {
     "id": 380,
@@ -3797,7 +4176,8 @@ window.CET6_WORDS = [
     "exam": "2025年6月第2套",
     "letter": "E",
     "word": "feat",
-    "meaning": "壮举；技艺"
+    "meaning": "壮举；技艺",
+    "ipa": "fit"
   },
   {
     "id": 381,
@@ -3807,7 +4187,8 @@ window.CET6_WORDS = [
     "exam": "2025年6月第2套",
     "letter": "F",
     "word": "interior",
-    "meaning": "内部；内陆的"
+    "meaning": "内部；内陆的",
+    "ipa": "ˌɪnˈtɪriər"
   },
   {
     "id": 382,
@@ -3817,7 +4198,8 @@ window.CET6_WORDS = [
     "exam": "2025年6月第2套",
     "letter": "G",
     "word": "probing",
-    "meaning": "深入探究的；探查"
+    "meaning": "深入探究的；探查",
+    "ipa": "ˈproʊbɪŋ"
   },
   {
     "id": 383,
@@ -3827,7 +4209,8 @@ window.CET6_WORDS = [
     "exam": "2025年6月第2套",
     "letter": "H",
     "word": "recurrence",
-    "meaning": "再次发生；复发"
+    "meaning": "再次发生；复发",
+    "ipa": "rɪˈkərəns"
   },
   {
     "id": 384,
@@ -3837,7 +4220,8 @@ window.CET6_WORDS = [
     "exam": "2025年6月第2套",
     "letter": "I",
     "word": "rigors",
-    "meaning": "严酷；艰苦"
+    "meaning": "严酷；艰苦",
+    "ipa": "ˈrɪgərz"
   },
   {
     "id": 385,
@@ -3847,7 +4231,8 @@ window.CET6_WORDS = [
     "exam": "2025年6月第2套",
     "letter": "J",
     "word": "seemingly",
-    "meaning": "看似；表面上"
+    "meaning": "看似；表面上",
+    "ipa": "ˈsimɪŋli"
   },
   {
     "id": 386,
@@ -3857,7 +4242,8 @@ window.CET6_WORDS = [
     "exam": "2025年6月第2套",
     "letter": "K",
     "word": "survive",
-    "meaning": "生存；幸存"
+    "meaning": "生存；幸存",
+    "ipa": "sərˈvaɪv"
   },
   {
     "id": 387,
@@ -3867,7 +4253,8 @@ window.CET6_WORDS = [
     "exam": "2025年6月第2套",
     "letter": "L",
     "word": "tempt",
-    "meaning": "诱惑；吸引"
+    "meaning": "诱惑；吸引",
+    "ipa": "tɛmpt"
   },
   {
     "id": 388,
@@ -3877,7 +4264,8 @@ window.CET6_WORDS = [
     "exam": "2025年6月第2套",
     "letter": "M",
     "word": "thrill",
-    "meaning": "兴奋；使激动"
+    "meaning": "兴奋；使激动",
+    "ipa": "θrɪl"
   },
   {
     "id": 389,
@@ -3887,7 +4275,8 @@ window.CET6_WORDS = [
     "exam": "2025年6月第2套",
     "letter": "N",
     "word": "unanimously",
-    "meaning": "一致地"
+    "meaning": "一致地",
+    "ipa": "juˈnænəməsli"
   },
   {
     "id": 390,
@@ -3897,7 +4286,8 @@ window.CET6_WORDS = [
     "exam": "2025年6月第2套",
     "letter": "O",
     "word": "unfolding",
-    "meaning": "正在展开的；显露"
+    "meaning": "正在展开的；显露",
+    "ipa": "ənˈfoʊldɪŋ"
   },
   {
     "id": 391,
@@ -3907,7 +4297,8 @@ window.CET6_WORDS = [
     "exam": "2025年6月第3套",
     "letter": "A",
     "word": "bolsters",
-    "meaning": "增强；支持"
+    "meaning": "增强；支持",
+    "ipa": "ˈboʊlstərz"
   },
   {
     "id": 392,
@@ -3917,7 +4308,8 @@ window.CET6_WORDS = [
     "exam": "2025年6月第3套",
     "letter": "B",
     "word": "consequences",
-    "meaning": "后果"
+    "meaning": "后果",
+    "ipa": "ˈkɑnsəkˌwɛnsəz"
   },
   {
     "id": 393,
@@ -3927,7 +4319,8 @@ window.CET6_WORDS = [
     "exam": "2025年6月第3套",
     "letter": "C",
     "word": "credentials",
-    "meaning": "资历；资格证明"
+    "meaning": "资历；资格证明",
+    "ipa": "krəˈdɛnʃəlz"
   },
   {
     "id": 394,
@@ -3937,7 +4330,8 @@ window.CET6_WORDS = [
     "exam": "2025年6月第3套",
     "letter": "D",
     "word": "dramatically",
-    "meaning": "显著地；剧烈地"
+    "meaning": "显著地；剧烈地",
+    "ipa": "drəˈmætɪkəli"
   },
   {
     "id": 395,
@@ -3947,7 +4341,8 @@ window.CET6_WORDS = [
     "exam": "2025年6月第3套",
     "letter": "E",
     "word": "enact",
-    "meaning": "制定（法律）；实施"
+    "meaning": "制定（法律）；实施",
+    "ipa": "ɪˈnækt"
   },
   {
     "id": 396,
@@ -3957,7 +4352,8 @@ window.CET6_WORDS = [
     "exam": "2025年6月第3套",
     "letter": "F",
     "word": "equity",
-    "meaning": "公平；股本"
+    "meaning": "公平；股本",
+    "ipa": "ˈɛkwəti"
   },
   {
     "id": 397,
@@ -3967,7 +4363,8 @@ window.CET6_WORDS = [
     "exam": "2025年6月第3套",
     "letter": "G",
     "word": "especially",
-    "meaning": "尤其"
+    "meaning": "尤其",
+    "ipa": "əˈspɛʃəli"
   },
   {
     "id": 398,
@@ -3977,7 +4374,8 @@ window.CET6_WORDS = [
     "exam": "2025年6月第3套",
     "letter": "H",
     "word": "evasively",
-    "meaning": "含糊其辞地；逃避地"
+    "meaning": "含糊其辞地；逃避地",
+    "ipa": "ɪˈveɪsɪvli"
   },
   {
     "id": 399,
@@ -3987,7 +4385,8 @@ window.CET6_WORDS = [
     "exam": "2025年6月第3套",
     "letter": "I",
     "word": "formidable",
-    "meaning": "强大的；令人生畏的"
+    "meaning": "强大的；令人生畏的",
+    "ipa": "ˌfɔrˈmɪdəbəl"
   },
   {
     "id": 400,
@@ -3997,7 +4396,8 @@ window.CET6_WORDS = [
     "exam": "2025年6月第3套",
     "letter": "J",
     "word": "impetus",
-    "meaning": "推动力；动力"
+    "meaning": "推动力；动力",
+    "ipa": "ˈɪmpətəs"
   },
   {
     "id": 401,
@@ -4007,7 +4407,8 @@ window.CET6_WORDS = [
     "exam": "2025年6月第3套",
     "letter": "K",
     "word": "lavish",
-    "meaning": "奢华的；慷慨给予"
+    "meaning": "奢华的；慷慨给予",
+    "ipa": "ˈlævɪʃ"
   },
   {
     "id": 402,
@@ -4017,7 +4418,8 @@ window.CET6_WORDS = [
     "exam": "2025年6月第3套",
     "letter": "L",
     "word": "prioritize",
-    "meaning": "优先处理"
+    "meaning": "优先处理",
+    "ipa": "praɪˈɔrəˌtaɪz"
   },
   {
     "id": 403,
@@ -4027,7 +4429,8 @@ window.CET6_WORDS = [
     "exam": "2025年6月第3套",
     "letter": "M",
     "word": "suffices",
-    "meaning": "足够；满足需要"
+    "meaning": "足够；满足需要",
+    "ipa": "səˈfaɪsɪz"
   },
   {
     "id": 404,
@@ -4037,7 +4440,8 @@ window.CET6_WORDS = [
     "exam": "2025年6月第3套",
     "letter": "N",
     "word": "sustained",
-    "meaning": "持续的；维持的"
+    "meaning": "持续的；维持的",
+    "ipa": "səˈsteɪnd"
   },
   {
     "id": 405,
@@ -4047,7 +4451,8 @@ window.CET6_WORDS = [
     "exam": "2025年6月第3套",
     "letter": "O",
     "word": "tenured",
-    "meaning": "获得终身职位的"
+    "meaning": "获得终身职位的",
+    "ipa": "ˈtɛnjərd"
   },
   {
     "id": 406,
@@ -4057,7 +4462,8 @@ window.CET6_WORDS = [
     "exam": "2025年12月第1套",
     "letter": "A",
     "word": "adolescents",
-    "meaning": "青少年"
+    "meaning": "青少年",
+    "ipa": "ˌædəˈlɛsənts"
   },
   {
     "id": 407,
@@ -4067,7 +4473,8 @@ window.CET6_WORDS = [
     "exam": "2025年12月第1套",
     "letter": "B",
     "word": "arbitrarily",
-    "meaning": "任意地；武断地"
+    "meaning": "任意地；武断地",
+    "ipa": "ˈɑrbɪˌtrɛrəli"
   },
   {
     "id": 408,
@@ -4077,7 +4484,8 @@ window.CET6_WORDS = [
     "exam": "2025年12月第1套",
     "letter": "C",
     "word": "chronic",
-    "meaning": "慢性的；长期的"
+    "meaning": "慢性的；长期的",
+    "ipa": "ˈkrɑnɪk"
   },
   {
     "id": 409,
@@ -4087,7 +4495,8 @@ window.CET6_WORDS = [
     "exam": "2025年12月第1套",
     "letter": "D",
     "word": "cognitive",
-    "meaning": "认知的"
+    "meaning": "认知的",
+    "ipa": "ˈkɑgnɪtɪv"
   },
   {
     "id": 410,
@@ -4097,7 +4506,8 @@ window.CET6_WORDS = [
     "exam": "2025年12月第1套",
     "letter": "E",
     "word": "concede",
-    "meaning": "承认；让步"
+    "meaning": "承认；让步",
+    "ipa": "kənˈsid"
   },
   {
     "id": 411,
@@ -4107,7 +4517,8 @@ window.CET6_WORDS = [
     "exam": "2025年12月第1套",
     "letter": "F",
     "word": "disregard",
-    "meaning": "忽视；不顾"
+    "meaning": "忽视；不顾",
+    "ipa": "ˌdɪsrɪˈgɑrd"
   },
   {
     "id": 412,
@@ -4117,7 +4528,8 @@ window.CET6_WORDS = [
     "exam": "2025年12月第1套",
     "letter": "G",
     "word": "drop",
-    "meaning": "下降；放弃"
+    "meaning": "下降；放弃",
+    "ipa": "drɔp"
   },
   {
     "id": 413,
@@ -4127,7 +4539,8 @@ window.CET6_WORDS = [
     "exam": "2025年12月第1套",
     "letter": "H",
     "word": "ever",
-    "meaning": "曾经；始终"
+    "meaning": "曾经；始终",
+    "ipa": "ˈɛvər"
   },
   {
     "id": 414,
@@ -4137,7 +4550,8 @@ window.CET6_WORDS = [
     "exam": "2025年12月第1套",
     "letter": "I",
     "word": "maneuver",
-    "meaning": "操纵；机动；策略"
+    "meaning": "操纵；机动；策略",
+    "ipa": "məˈnuvər"
   },
   {
     "id": 415,
@@ -4147,7 +4561,8 @@ window.CET6_WORDS = [
     "exam": "2025年12月第1套",
     "letter": "J",
     "word": "mortality",
-    "meaning": "死亡率；死亡"
+    "meaning": "死亡率；死亡",
+    "ipa": "mɔrˈtæləti"
   },
   {
     "id": 416,
@@ -4157,7 +4572,8 @@ window.CET6_WORDS = [
     "exam": "2025年12月第1套",
     "letter": "K",
     "word": "particularly",
-    "meaning": "尤其；特别"
+    "meaning": "尤其；特别",
+    "ipa": "ˌpɑrˈtɪkjələrli"
   },
   {
     "id": 417,
@@ -4167,7 +4583,8 @@ window.CET6_WORDS = [
     "exam": "2025年12月第1套",
     "letter": "L",
     "word": "patterns",
-    "meaning": "模式；规律"
+    "meaning": "模式；规律",
+    "ipa": "ˈpætərnz"
   },
   {
     "id": 418,
@@ -4177,7 +4594,8 @@ window.CET6_WORDS = [
     "exam": "2025年12月第1套",
     "letter": "M",
     "word": "refute",
-    "meaning": "反驳；驳斥"
+    "meaning": "反驳；驳斥",
+    "ipa": "rɪfˈjut"
   },
   {
     "id": 419,
@@ -4187,7 +4605,8 @@ window.CET6_WORDS = [
     "exam": "2025年12月第1套",
     "letter": "N",
     "word": "stereotype",
-    "meaning": "刻板印象；使模式化"
+    "meaning": "刻板印象；使模式化",
+    "ipa": "ˈstɛrioʊˌtaɪp"
   },
   {
     "id": 420,
@@ -4197,7 +4616,8 @@ window.CET6_WORDS = [
     "exam": "2025年12月第1套",
     "letter": "O",
     "word": "vocal",
-    "meaning": "直言不讳的；声音的"
+    "meaning": "直言不讳的；声音的",
+    "ipa": "ˈvoʊkəl"
   },
   {
     "id": 421,
@@ -4207,7 +4627,8 @@ window.CET6_WORDS = [
     "exam": "2025年12月第2套",
     "letter": "A",
     "word": "accompanying",
-    "meaning": "伴随的"
+    "meaning": "伴随的",
+    "ipa": "əˈkəmpəniɪŋ"
   },
   {
     "id": 422,
@@ -4217,7 +4638,8 @@ window.CET6_WORDS = [
     "exam": "2025年12月第2套",
     "letter": "B",
     "word": "cognitive",
-    "meaning": "认知的"
+    "meaning": "认知的",
+    "ipa": "ˈkɑgnɪtɪv"
   },
   {
     "id": 423,
@@ -4227,7 +4649,8 @@ window.CET6_WORDS = [
     "exam": "2025年12月第2套",
     "letter": "C",
     "word": "domains",
-    "meaning": "领域"
+    "meaning": "领域",
+    "ipa": "doʊˈmeɪnz"
   },
   {
     "id": 424,
@@ -4237,7 +4660,8 @@ window.CET6_WORDS = [
     "exam": "2025年12月第2套",
     "letter": "D",
     "word": "entertaining",
-    "meaning": "有趣的；娱乐性的"
+    "meaning": "有趣的；娱乐性的",
+    "ipa": "ˌɛnərˈteɪnɪŋ"
   },
   {
     "id": 425,
@@ -4247,7 +4671,8 @@ window.CET6_WORDS = [
     "exam": "2025年12月第2套",
     "letter": "E",
     "word": "evoking",
-    "meaning": "唤起的；引发的"
+    "meaning": "唤起的；引发的",
+    "ipa": "ɪˈvoʊkɪŋ"
   },
   {
     "id": 426,
@@ -4257,7 +4682,8 @@ window.CET6_WORDS = [
     "exam": "2025年12月第2套",
     "letter": "F",
     "word": "hybrid",
-    "meaning": "混合的；混合体"
+    "meaning": "混合的；混合体",
+    "ipa": "ˈhaɪbrɪd"
   },
   {
     "id": 427,
@@ -4267,7 +4693,8 @@ window.CET6_WORDS = [
     "exam": "2025年12月第2套",
     "letter": "G",
     "word": "impetus",
-    "meaning": "推动力；动力"
+    "meaning": "推动力；动力",
+    "ipa": "ˈɪmpətəs"
   },
   {
     "id": 428,
@@ -4277,7 +4704,8 @@ window.CET6_WORDS = [
     "exam": "2025年12月第2套",
     "letter": "H",
     "word": "intuitive",
-    "meaning": "直觉的；易懂的"
+    "meaning": "直觉的；易懂的",
+    "ipa": "ˌɪnˈtuətɪv"
   },
   {
     "id": 429,
@@ -4287,7 +4715,8 @@ window.CET6_WORDS = [
     "exam": "2025年12月第2套",
     "letter": "I",
     "word": "once",
-    "meaning": "曾经；一旦"
+    "meaning": "曾经；一旦",
+    "ipa": "wəns"
   },
   {
     "id": 430,
@@ -4297,7 +4726,8 @@ window.CET6_WORDS = [
     "exam": "2025年12月第2套",
     "letter": "J",
     "word": "oversee",
-    "meaning": "监督；监管"
+    "meaning": "监督；监管",
+    "ipa": "ˈoʊvərˌsi"
   },
   {
     "id": 431,
@@ -4307,7 +4737,8 @@ window.CET6_WORDS = [
     "exam": "2025年12月第2套",
     "letter": "K",
     "word": "redundant",
-    "meaning": "多余的；被裁员的"
+    "meaning": "多余的；被裁员的",
+    "ipa": "rɪˈdəndənt"
   },
   {
     "id": 432,
@@ -4317,7 +4748,8 @@ window.CET6_WORDS = [
     "exam": "2025年12月第2套",
     "letter": "L",
     "word": "stances",
-    "meaning": "立场；姿态"
+    "meaning": "立场；姿态",
+    "ipa": "ˈstænsɪz"
   },
   {
     "id": 433,
@@ -4327,7 +4759,8 @@ window.CET6_WORDS = [
     "exam": "2025年12月第2套",
     "letter": "M",
     "word": "surpass",
-    "meaning": "超过；胜过"
+    "meaning": "超过；胜过",
+    "ipa": "sərˈpæs"
   },
   {
     "id": 434,
@@ -4337,7 +4770,8 @@ window.CET6_WORDS = [
     "exam": "2025年12月第2套",
     "letter": "N",
     "word": "tentatively",
-    "meaning": "试探性地；暂定地"
+    "meaning": "试探性地；暂定地",
+    "ipa": "ˈtɛntətɪvli"
   },
   {
     "id": 435,
@@ -4347,7 +4781,8 @@ window.CET6_WORDS = [
     "exam": "2025年12月第2套",
     "letter": "O",
     "word": "vanish",
-    "meaning": "消失"
+    "meaning": "消失",
+    "ipa": "ˈvænɪʃ"
   },
   {
     "id": 436,
@@ -4357,7 +4792,8 @@ window.CET6_WORDS = [
     "exam": "2025年12月第3套",
     "letter": "A",
     "word": "affix",
-    "meaning": "粘上；附加"
+    "meaning": "粘上；附加",
+    "ipa": "ˈæfɪks"
   },
   {
     "id": 437,
@@ -4367,7 +4803,8 @@ window.CET6_WORDS = [
     "exam": "2025年12月第3套",
     "letter": "B",
     "word": "correlate",
-    "meaning": "相关；使相互联系"
+    "meaning": "相关；使相互联系",
+    "ipa": "ˈkɔrəˌleɪt"
   },
   {
     "id": 438,
@@ -4377,7 +4814,8 @@ window.CET6_WORDS = [
     "exam": "2025年12月第3套",
     "letter": "C",
     "word": "deviate",
-    "meaning": "偏离；背离"
+    "meaning": "偏离；背离",
+    "ipa": "ˈdiviˌeɪt"
   },
   {
     "id": 439,
@@ -4387,7 +4825,8 @@ window.CET6_WORDS = [
     "exam": "2025年12月第3套",
     "letter": "D",
     "word": "domains",
-    "meaning": "领域"
+    "meaning": "领域",
+    "ipa": "doʊˈmeɪnz"
   },
   {
     "id": 440,
@@ -4397,7 +4836,8 @@ window.CET6_WORDS = [
     "exam": "2025年12月第3套",
     "letter": "E",
     "word": "influential",
-    "meaning": "有影响力的"
+    "meaning": "有影响力的",
+    "ipa": "ˌɪnfluˈɛnʃəl"
   },
   {
     "id": 441,
@@ -4407,7 +4847,8 @@ window.CET6_WORDS = [
     "exam": "2025年12月第3套",
     "letter": "F",
     "word": "inherently",
-    "meaning": "内在地；本质上"
+    "meaning": "内在地；本质上",
+    "ipa": "ˌɪnˈhɛrəntli"
   },
   {
     "id": 442,
@@ -4417,7 +4858,8 @@ window.CET6_WORDS = [
     "exam": "2025年12月第3套",
     "letter": "G",
     "word": "laymen",
-    "meaning": "外行；非专业人士（复数）"
+    "meaning": "外行；非专业人士（复数）",
+    "ipa": "ˈleɪmən"
   },
   {
     "id": 443,
@@ -4427,7 +4869,8 @@ window.CET6_WORDS = [
     "exam": "2025年12月第3套",
     "letter": "H",
     "word": "multiple",
-    "meaning": "多个的；多重的"
+    "meaning": "多个的；多重的",
+    "ipa": "ˈməltəpəl"
   },
   {
     "id": 444,
@@ -4437,7 +4880,8 @@ window.CET6_WORDS = [
     "exam": "2025年12月第3套",
     "letter": "I",
     "word": "properties",
-    "meaning": "特性；财产"
+    "meaning": "特性；财产",
+    "ipa": "ˈprɑpərtiz"
   },
   {
     "id": 445,
@@ -4447,7 +4891,8 @@ window.CET6_WORDS = [
     "exam": "2025年12月第3套",
     "letter": "J",
     "word": "reality",
-    "meaning": "现实"
+    "meaning": "现实",
+    "ipa": "ˌriˈæləˌti"
   },
   {
     "id": 446,
@@ -4457,7 +4902,8 @@ window.CET6_WORDS = [
     "exam": "2025年12月第3套",
     "letter": "K",
     "word": "reciprocally",
-    "meaning": "相互地；互惠地"
+    "meaning": "相互地；互惠地",
+    "ipa": "rɪˈsɪprəkəli"
   },
   {
     "id": 447,
@@ -4467,7 +4913,8 @@ window.CET6_WORDS = [
     "exam": "2025年12月第3套",
     "letter": "L",
     "word": "specimen",
-    "meaning": "标本；样品"
+    "meaning": "标本；样品",
+    "ipa": "ˈspɛsəmən"
   },
   {
     "id": 448,
@@ -4477,7 +4924,8 @@ window.CET6_WORDS = [
     "exam": "2025年12月第3套",
     "letter": "M",
     "word": "spectrum",
-    "meaning": "范围；光谱"
+    "meaning": "范围；光谱",
+    "ipa": "ˈspɛktrəm"
   },
   {
     "id": 449,
@@ -4487,7 +4935,8 @@ window.CET6_WORDS = [
     "exam": "2025年12月第3套",
     "letter": "N",
     "word": "synonym",
-    "meaning": "同义词"
+    "meaning": "同义词",
+    "ipa": "ˈsɪnəˌnɪm"
   },
   {
     "id": 450,
@@ -4497,6 +4946,7 @@ window.CET6_WORDS = [
     "exam": "2025年12月第3套",
     "letter": "O",
     "word": "unanimous",
-    "meaning": "一致同意的"
+    "meaning": "一致同意的",
+    "ipa": "juˈnænəməs"
   }
 ];
