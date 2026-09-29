@@ -1,0 +1,193 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#182c3b">
+  <title>CET6 Word Desk</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar">
+      <div class="brand">
+        <span class="brand-mark">A6</span>
+        <div>
+          <strong>CET6 Word Desk</strong>
+          <small>Section A 词汇工作台</small>
+        </div>
+      </div>
+
+      <nav class="nav" aria-label="主导航">
+        <button class="nav-item active" data-view="study"><span class="nav-icon">Aa</span><span>今日学习</span></button>
+        <button class="nav-item" data-view="quiz"><span class="nav-icon">?</span><span>拼写测验</span></button>
+        <button class="nav-item" data-view="library"><span class="nav-icon">≡</span><span>全部词库</span></button>
+        <button class="nav-item" data-view="progress"><span class="nav-icon">↗</span><span>学习进度</span></button>
+      </nav>
+
+      <div class="sidebar-footer">
+        <div class="mini-progress">
+          <div class="mini-progress-label"><span>总掌握度</span><strong id="sidebar-progress">0%</strong></div>
+          <div class="progress-track"><span id="sidebar-progress-bar"></span></div>
+        </div>
+        <button class="text-button" id="reset-data">重置学习记录</button>
+      </div>
+    </aside>
+
+    <main class="main">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow" id="view-eyebrow">今日学习</p>
+          <h1 id="view-title">继续完成今天的词汇</h1>
+        </div>
+        <div class="top-actions">
+          <label class="select-wrap">
+            <span>学习范围</span>
+            <select id="exam-filter" aria-label="学习范围"></select>
+          </label>
+          <button class="icon-button" id="shuffle-deck" title="重新洗牌" aria-label="重新洗牌">↻</button>
+        </div>
+      </header>
+
+      <section class="view active" id="study-view">
+        <div class="metric-strip">
+          <div><span>今日已学</span><strong id="today-count">0</strong></div>
+          <div><span>待复习</span><strong id="due-count">0</strong></div>
+          <div><span>已掌握</span><strong id="mastered-count">0</strong></div>
+          <div><span>连续学习</span><strong id="streak-count">0 天</strong></div>
+        </div>
+
+        <div class="study-layout">
+          <div class="session-column">
+            <div class="session-heading">
+              <div>
+                <span class="session-label" id="card-source">2021年6月第1套 · A</span>
+                <span class="session-position" id="card-position">1 / 450</span>
+              </div>
+              <div class="session-track"><span id="session-bar"></span></div>
+            </div>
+
+            <article class="flashcard" id="flashcard" tabindex="0" aria-live="polite">
+              <button class="sound-button" id="speak-word" title="朗读单词" aria-label="朗读单词">▷</button>
+              <div class="word-block">
+                <h2 id="card-word">alienating</h2>
+                <p id="card-hint">先回想含义，再显示答案</p>
+              </div>
+              <div class="answer-block" id="answer-block" hidden>
+                <span>常用义</span>
+                <p id="card-meaning">使疏远的；排斥的</p>
+                <div class="source-line"><span id="card-exam">2021年6月第1套</span><span id="card-letter">选项 A</span></div>
+              </div>
+              <button class="reveal-button" id="reveal-answer">显示释义</button>
+            </article>
+
+            <div class="rating-panel" id="rating-panel" hidden>
+              <button class="rating again" data-rating="again"><strong>不认识</strong><span>稍后再来</span></button>
+              <button class="rating hard" data-rating="hard"><strong>模糊</strong><span>明天复习</span></button>
+              <button class="rating good" data-rating="good"><strong>认识</strong><span>3 天后</span></button>
+              <button class="rating easy" data-rating="easy"><strong>很熟</strong><span>7 天后</span></button>
+            </div>
+          </div>
+
+          <aside class="session-panel">
+            <div class="panel-heading">
+              <h3>本轮计划</h3>
+              <button class="text-button" id="new-session">重新选词</button>
+            </div>
+            <label class="range-control">
+              <span><b>本轮词数</b><output id="session-size-output">20</output></span>
+              <input type="range" id="session-size" min="10" max="50" step="5" value="20">
+            </label>
+            <div class="session-breakdown">
+              <div><span class="status-dot new"></span><span>新词</span><strong id="session-new">0</strong></div>
+              <div><span class="status-dot due"></span><span>到期复习</span><strong id="session-due">0</strong></div>
+              <div><span class="status-dot learning"></span><span>学习中</span><strong id="session-learning">0</strong></div>
+            </div>
+            <div class="tip-block">
+              <span>本轮建议</span>
+              <p id="session-tip">先判断词性和词形，再回忆中文义。模糊的词不要急着标记为掌握。</p>
+            </div>
+          </aside>
+        </div>
+      </section>
+
+      <section class="view" id="quiz-view">
+        <div class="quiz-layout">
+          <div class="quiz-main">
+            <div class="quiz-meta"><span id="quiz-progress">第 1 / 10 题</span><span id="quiz-score">正确 0</span></div>
+            <div class="quiz-prompt">
+              <span>请根据中文写出英文</span>
+              <h2 id="quiz-meaning">使疏远的；排斥的</h2>
+              <p id="quiz-source">2021年6月第1套 · 选项 A</p>
+            </div>
+            <form id="quiz-form">
+              <input id="quiz-input" type="text" autocomplete="off" autocapitalize="none" spellcheck="false" placeholder="输入英文单词">
+              <button type="submit" class="primary-button">检查</button>
+            </form>
+            <div id="quiz-feedback" class="quiz-feedback" hidden></div>
+            <button id="next-question" class="secondary-button" hidden>下一题</button>
+          </div>
+          <aside class="quiz-side">
+            <h3>测验设置</h3>
+            <label><span>题目数量</span><select id="quiz-size"><option>10</option><option>20</option><option>30</option></select></label>
+            <label><span>题目来源</span><select id="quiz-scope"><option value="mixed">新词与错词</option><option value="wrong">仅错词</option><option value="all">全部词库</option></select></label>
+            <button id="restart-quiz" class="secondary-button">开始新测验</button>
+          </aside>
+        </div>
+      </section>
+
+      <section class="view" id="library-view">
+        <div class="library-toolbar">
+          <label class="search-box"><span>⌕</span><input id="search-input" type="search" placeholder="搜索英文或中文"></label>
+          <select id="library-exam-filter" aria-label="按考试筛选"></select>
+          <select id="status-filter" aria-label="按状态筛选">
+            <option value="all">全部状态</option>
+            <option value="new">未学习</option>
+            <option value="learning">学习中</option>
+            <option value="mastered">已掌握</option>
+            <option value="wrong">错词</option>
+          </select>
+        </div>
+        <div class="library-summary"><strong id="library-count">450</strong><span>个匹配词条</span></div>
+        <div class="word-table-wrap">
+          <table class="word-table">
+            <thead><tr><th>单词</th><th>中文常用义</th><th>真题来源</th><th>状态</th><th><span class="sr-only">操作</span></th></tr></thead>
+            <tbody id="word-table-body"></tbody>
+          </table>
+        </div>
+        <div class="pagination"><button id="prev-page" class="icon-button" aria-label="上一页">←</button><span id="page-label">1 / 1</span><button id="next-page" class="icon-button" aria-label="下一页">→</button></div>
+      </section>
+
+      <section class="view" id="progress-view">
+        <div class="progress-overview">
+          <div class="mastery-figure">
+            <div class="ring" id="mastery-ring"><span id="mastery-percent">0%</span></div>
+            <div><span>总体掌握度</span><h2 id="mastery-label">刚刚开始</h2><p>按“认识”和“很熟”的词汇计算。</p></div>
+          </div>
+          <div class="progress-numbers">
+            <div><strong id="progress-new">450</strong><span>未学习</span></div>
+            <div><strong id="progress-learning">0</strong><span>学习中</span></div>
+            <div><strong id="progress-mastered">0</strong><span>已掌握</span></div>
+            <div><strong id="progress-wrong">0</strong><span>错词</span></div>
+          </div>
+        </div>
+        <div class="exam-progress-section">
+          <div class="section-title"><h3>按真题查看</h3><span>每组共 15 个词</span></div>
+          <div id="exam-progress-list" class="exam-progress-list"></div>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <nav class="mobile-nav" aria-label="移动端导航">
+    <button class="active" data-view="study"><span>Aa</span>学习</button>
+    <button data-view="quiz"><span>?</span>测验</button>
+    <button data-view="library"><span>≡</span>词库</button>
+    <button data-view="progress"><span>↗</span>进度</button>
+  </nav>
+
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <script src="vocab-data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
