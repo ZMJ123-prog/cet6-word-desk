@@ -112,6 +112,7 @@
       $("#card-position").textContent = `${deck.length} / ${deck.length}`;
       $("#card-word").textContent = "完成";
       $("#card-ipa").textContent = "";
+      $("#card-pos").textContent = "";
       $("#card-hint").textContent = "你已经完成本轮复习，可以重新选词或开始测验。";
       $("#reveal-answer").hidden = true;
       $("#session-bar").style.width = "100%";
@@ -121,6 +122,7 @@
     $("#card-position").textContent = `${deckIndex + 1} / ${deck.length}`;
     $("#card-word").textContent = word.word;
     $("#card-ipa").textContent = word.ipa ? `/${word.ipa}/` : "";
+    $("#card-pos").textContent = word.pos || "";
     $("#card-hint").textContent = "先回想含义，再显示答案";
     $("#card-meaning").textContent = word.meaning;
     $("#card-exam").textContent = word.exam;
@@ -308,7 +310,7 @@
     $("#quiz-progress").textContent = `第 ${quiz.index + 1} / ${quiz.items.length} 题`;
     $("#quiz-score").textContent = `正确 ${quiz.correct}`;
     $("#quiz-meaning").textContent = word.meaning;
-    $("#quiz-source").textContent = `${word.exam} · 选项 ${word.letter}`;
+    $("#quiz-source").textContent = `${word.pos || ""} · ${word.exam} · 选项 ${word.letter}`;
     setTimeout(() => $("#quiz-input").focus(), 50);
   }
 
@@ -374,9 +376,9 @@
     libraryPage = Math.min(libraryPage, totalPages);
     const rows = words.slice((libraryPage - 1) * pageSize, libraryPage * pageSize).map((word) => {
       const status = wordStatus(word);
-      return `<tr><td>${word.word}</td><td>${word.meaning}</td><td>${word.exam} · ${word.letter}</td><td><span class="status-pill ${status}">${statusLabel(status)}</span></td><td><button class="table-sound" data-speak="${word.word}" title="朗读" aria-label="朗读 ${word.word}">▷</button></td></tr>`;
+      return `<tr><td>${word.word}</td><td>${word.pos || "-"}</td><td>${word.meaning}</td><td>${word.exam} · ${word.letter}</td><td><span class="status-pill ${status}">${statusLabel(status)}</span></td><td><button class="table-sound" data-speak="${word.word}" title="朗读" aria-label="朗读 ${word.word}">▷</button></td></tr>`;
     }).join("");
-    $("#word-table-body").innerHTML = rows || `<tr><td colspan="5">没有符合条件的词汇</td></tr>`;
+    $("#word-table-body").innerHTML = rows || `<tr><td colspan="6">没有符合条件的词汇</td></tr>`;
     $("#library-count").textContent = words.length;
     $("#page-label").textContent = `${libraryPage} / ${totalPages}`;
     $("#prev-page").disabled = libraryPage <= 1;

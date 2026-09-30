@@ -8,7 +8,8 @@ window.CET6_WORDS = [
     "letter": "A",
     "word": "alienating",
     "meaning": "使疏远的；排斥的",
-    "ipa": "ˈeɪliəˌneɪtɪŋ"
+    "ipa": "ˈeɪliəˌneɪtɪŋ",
+    "pos": "v. / adj."
   },
   {
     "id": 2,
@@ -19,7 +20,8 @@ window.CET6_WORDS = [
     "letter": "B",
     "word": "appreciation",
     "meaning": "理解；欣赏；感激",
-    "ipa": "əˌpriʃiˈeɪʃən"
+    "ipa": "əˌpriʃiˈeɪʃən",
+    "pos": "n."
   },
   {
     "id": 3,
@@ -30,7 +32,8 @@ window.CET6_WORDS = [
     "letter": "C",
     "word": "bias",
     "meaning": "偏见；偏向",
-    "ipa": "baɪəs"
+    "ipa": "baɪəs",
+    "pos": "n. / v. / adj."
   },
   {
     "id": 4,
@@ -41,7 +44,8 @@ window.CET6_WORDS = [
     "letter": "D",
     "word": "fraud",
     "meaning": "欺诈；骗子",
-    "ipa": "frɔd"
+    "ipa": "frɔd",
+    "pos": "n."
   },
   {
     "id": 5,
@@ -52,7 +56,8 @@ window.CET6_WORDS = [
     "letter": "E",
     "word": "housed",
     "meaning": "安置；容纳",
-    "ipa": "haʊzd"
+    "ipa": "haʊzd",
+    "pos": "v. / adj."
   },
   {
     "id": 6,
@@ -63,7 +68,8 @@ window.CET6_WORDS = [
     "letter": "F",
     "word": "investigated",
     "meaning": "调查；研究",
-    "ipa": "ˌɪnˈvɛstəˌgeɪtɪd"
+    "ipa": "ˌɪnˈvɛstəˌgeɪtɪd",
+    "pos": "v. / adj."
   },
   {
     "id": 7,
@@ -74,7 +80,8 @@ window.CET6_WORDS = [
     "letter": "G",
     "word": "overwhelming",
     "meaning": "压倒性的；巨大的",
-    "ipa": "ˌoʊvərˈwɛlmɪŋ"
+    "ipa": "ˌoʊvərˈwɛlmɪŋ",
+    "pos": "v. / adj."
   },
   {
     "id": 8,
@@ -85,7 +92,8 @@ window.CET6_WORDS = [
     "letter": "H",
     "word": "portraying",
     "meaning": "描绘；表现",
-    "ipa": "pɔrˈtreɪɪŋ"
+    "ipa": "pɔrˈtreɪɪŋ",
+    "pos": "n. / v. / adj."
   },
   {
     "id": 9,
@@ -96,7 +104,8 @@ window.CET6_WORDS = [
     "letter": "I",
     "word": "representation",
     "meaning": "代表；描绘；表现",
-    "ipa": "ˌrɛprəzɛnˈteɪʃən"
+    "ipa": "ˌrɛprəzɛnˈteɪʃən",
+    "pos": "n."
   },
   {
     "id": 10,
@@ -107,7 +116,8 @@ window.CET6_WORDS = [
     "letter": "J",
     "word": "safeguarded",
     "meaning": "保护；保障",
-    "ipa": "ˈseɪfˌgɑrdɪd"
+    "ipa": "ˈseɪfˌgɑrdɪd",
+    "pos": "v. / adj."
   },
   {
     "id": 11,
@@ -118,7 +128,8 @@ window.CET6_WORDS = [
     "letter": "K",
     "word": "secondary",
     "meaning": "次要的；中等的",
-    "ipa": "ˈsɛkənˌdɛri"
+    "ipa": "ˈsɛkənˌdɛri",
+    "pos": "n. / adj."
   },
   {
     "id": 12,
@@ -129,7 +140,8 @@ window.CET6_WORDS = [
     "letter": "L",
     "word": "superiority",
     "meaning": "优越；优势",
-    "ipa": "ˌsupɪriˈɔrɪti"
+    "ipa": "ˌsupɪriˈɔrɪti",
+    "pos": "n."
   },
   {
     "id": 13,
@@ -140,7 +152,8 @@ window.CET6_WORDS = [
     "letter": "M",
     "word": "temperament",
     "meaning": "性情；气质",
-    "ipa": "ˈtɛmpərmənt"
+    "ipa": "ˈtɛmpərmənt",
+    "pos": "n."
   },
   {
     "id": 14,
@@ -151,7 +164,8 @@ window.CET6_WORDS = [
     "letter": "N",
     "word": "tentative",
     "meaning": "试探性的；暂定的",
-    "ipa": "ˈtɛntətɪv"
+    "ipa": "ˈtɛntətɪv",
+    "pos": "adj."
   },
   {
     "id": 15,
@@ -162,7 +176,8 @@ window.CET6_WORDS = [
     "letter": "O",
     "word": "threshold",
     "meaning": "门槛；界限",
-    "ipa": "θˈrɛˌʃoʊld"
+    "ipa": "θˈrɛˌʃoʊld",
+    "pos": "n."
   },
   {
     "id": 16,
@@ -173,7 +188,8 @@ window.CET6_WORDS = [
     "letter": "A",
     "word": "abundance",
     "meaning": "大量；充足",
-    "ipa": "əˈbəndəns"
+    "ipa": "əˈbəndəns",
+    "pos": "n."
   },
   {
     "id": 17,
@@ -184,7 +200,8 @@ window.CET6_WORDS = [
     "letter": "B",
     "word": "astonishment",
     "meaning": "惊讶",
-    "ipa": "əˈstɑnɪʃmənt"
+    "ipa": "əˈstɑnɪʃmənt",
+    "pos": "n."
   },
   {
     "id": 18,
@@ -195,7 +212,8 @@ window.CET6_WORDS = [
     "letter": "C",
     "word": "entailed",
     "meaning": "需要；必然导致",
-    "ipa": "ɪnˈteɪld"
+    "ipa": "ɪnˈteɪld",
+    "pos": "v. / adj."
   },
   {
     "id": 19,
@@ -206,7 +224,8 @@ window.CET6_WORDS = [
     "letter": "D",
     "word": "envisaged",
     "meaning": "设想；预见",
-    "ipa": "ɛnˈvɪzɪʤd"
+    "ipa": "ɛnˈvɪzɪʤd",
+    "pos": "v. / adj."
   },
   {
     "id": 20,
@@ -217,7 +236,8 @@ window.CET6_WORDS = [
     "letter": "E",
     "word": "equation",
     "meaning": "方程式；平衡关系",
-    "ipa": "ɪkˈweɪʒən"
+    "ipa": "ɪkˈweɪʒən",
+    "pos": "n."
   },
   {
     "id": 21,
@@ -228,7 +248,8 @@ window.CET6_WORDS = [
     "letter": "F",
     "word": "expended",
     "meaning": "花费；消耗",
-    "ipa": "ɪkˈspɛndɪd"
+    "ipa": "ɪkˈspɛndɪd",
+    "pos": "v. / adj."
   },
   {
     "id": 22,
@@ -239,7 +260,8 @@ window.CET6_WORDS = [
     "letter": "G",
     "word": "feat",
     "meaning": "壮举；技艺",
-    "ipa": "fit"
+    "ipa": "fit",
+    "pos": "n."
   },
   {
     "id": 23,
@@ -250,7 +272,8 @@ window.CET6_WORDS = [
     "letter": "H",
     "word": "fiscally",
     "meaning": "在财政上",
-    "ipa": "ˈfɪskəli"
+    "ipa": "ˈfɪskəli",
+    "pos": "adv."
   },
   {
     "id": 24,
@@ -261,7 +284,8 @@ window.CET6_WORDS = [
     "letter": "I",
     "word": "impetus",
     "meaning": "推动力；动力",
-    "ipa": "ˈɪmpətəs"
+    "ipa": "ˈɪmpətəs",
+    "pos": "n."
   },
   {
     "id": 25,
@@ -272,7 +296,8 @@ window.CET6_WORDS = [
     "letter": "J",
     "word": "overhaul",
     "meaning": "彻底检修；全面改革",
-    "ipa": "ˈoʊvərˌhɔl"
+    "ipa": "ˈoʊvərˌhɔl",
+    "pos": "n. / v."
   },
   {
     "id": 26,
@@ -283,7 +308,8 @@ window.CET6_WORDS = [
     "letter": "K",
     "word": "permanently",
     "meaning": "永久地",
-    "ipa": "ˈpərmɑˌnɛnˌtli"
+    "ipa": "ˈpərmɑˌnɛnˌtli",
+    "pos": "adv."
   },
   {
     "id": 27,
@@ -294,7 +320,8 @@ window.CET6_WORDS = [
     "letter": "L",
     "word": "plight",
     "meaning": "困境",
-    "ipa": "plaɪt"
+    "ipa": "plaɪt",
+    "pos": "n. / v."
   },
   {
     "id": 28,
@@ -305,7 +332,8 @@ window.CET6_WORDS = [
     "letter": "M",
     "word": "prosper",
     "meaning": "繁荣；兴旺",
-    "ipa": "ˈprɑspər"
+    "ipa": "ˈprɑspər",
+    "pos": "v."
   },
   {
     "id": 29,
@@ -316,7 +344,8 @@ window.CET6_WORDS = [
     "letter": "N",
     "word": "shatter",
     "meaning": "粉碎；使破灭",
-    "ipa": "ˈʃætər"
+    "ipa": "ˈʃætər",
+    "pos": "v."
   },
   {
     "id": 30,
@@ -327,7 +356,8 @@ window.CET6_WORDS = [
     "letter": "O",
     "word": "ultimately",
     "meaning": "最终",
-    "ipa": "ˈəltəmətli"
+    "ipa": "ˈəltəmətli",
+    "pos": "adv."
   },
   {
     "id": 31,
@@ -338,7 +368,8 @@ window.CET6_WORDS = [
     "letter": "A",
     "word": "adversity",
     "meaning": "逆境；不幸",
-    "ipa": "ædˈvərsɪˌti"
+    "ipa": "ædˈvərsɪˌti",
+    "pos": "n."
   },
   {
     "id": 32,
@@ -349,7 +380,8 @@ window.CET6_WORDS = [
     "letter": "B",
     "word": "authentic",
     "meaning": "真实的；真正的",
-    "ipa": "əˈθɛnɪk"
+    "ipa": "əˈθɛnɪk",
+    "pos": "adj."
   },
   {
     "id": 33,
@@ -360,7 +392,8 @@ window.CET6_WORDS = [
     "letter": "C",
     "word": "convey",
     "meaning": "传达；输送",
-    "ipa": "kənˈveɪ"
+    "ipa": "kənˈveɪ",
+    "pos": "v."
   },
   {
     "id": 34,
@@ -371,7 +404,8 @@ window.CET6_WORDS = [
     "letter": "D",
     "word": "depictions",
     "meaning": "描绘；形象",
-    "ipa": "dɪˈpɪkʃənz"
+    "ipa": "dɪˈpɪkʃənz",
+    "pos": "n."
   },
   {
     "id": 35,
@@ -382,7 +416,8 @@ window.CET6_WORDS = [
     "letter": "E",
     "word": "diminished",
     "meaning": "减少的；被削弱的",
-    "ipa": "dɪˈmɪnɪʃt"
+    "ipa": "dɪˈmɪnɪʃt",
+    "pos": "v. / adj."
   },
   {
     "id": 36,
@@ -393,7 +428,8 @@ window.CET6_WORDS = [
     "letter": "F",
     "word": "drowned",
     "meaning": "淹没；压过声音",
-    "ipa": "draʊnd"
+    "ipa": "draʊnd",
+    "pos": "v. / adj."
   },
   {
     "id": 37,
@@ -404,7 +440,8 @@ window.CET6_WORDS = [
     "letter": "G",
     "word": "embark",
     "meaning": "开始从事；登船",
-    "ipa": "ɪmˈbɑrk"
+    "ipa": "ɪmˈbɑrk",
+    "pos": "v."
   },
   {
     "id": 38,
@@ -415,7 +452,8 @@ window.CET6_WORDS = [
     "letter": "H",
     "word": "fragility",
     "meaning": "脆弱；易碎性",
-    "ipa": "frəˈʤɪləti"
+    "ipa": "frəˈʤɪləti",
+    "pos": "n."
   },
   {
     "id": 39,
@@ -426,7 +464,8 @@ window.CET6_WORDS = [
     "letter": "I",
     "word": "neglected",
     "meaning": "被忽视的；未受照顾的",
-    "ipa": "nɪˈglɛktɪd"
+    "ipa": "nɪˈglɛktɪd",
+    "pos": "v. / adj."
   },
   {
     "id": 40,
@@ -437,7 +476,8 @@ window.CET6_WORDS = [
     "letter": "J",
     "word": "obscurity",
     "meaning": "默默无闻；模糊",
-    "ipa": "əbˈskjʊrəti"
+    "ipa": "əbˈskjʊrəti",
+    "pos": "n."
   },
   {
     "id": 41,
@@ -448,7 +488,8 @@ window.CET6_WORDS = [
     "letter": "K",
     "word": "outlines",
     "meaning": "概述；轮廓",
-    "ipa": "ˈaʊˌtlaɪnz"
+    "ipa": "ˈaʊˌtlaɪnz",
+    "pos": "n. / v."
   },
   {
     "id": 42,
@@ -459,7 +500,8 @@ window.CET6_WORDS = [
     "letter": "L",
     "word": "prevalent",
     "meaning": "流行的；普遍的",
-    "ipa": "ˈprɛvələnt"
+    "ipa": "ˈprɛvələnt",
+    "pos": "adj."
   },
   {
     "id": 43,
@@ -470,7 +512,8 @@ window.CET6_WORDS = [
     "letter": "M",
     "word": "purchasable",
     "meaning": "可购买的",
-    "ipa": "ˈpɝtʃəsəbəl"
+    "ipa": "ˈpɝtʃəsəbəl",
+    "pos": "adj."
   },
   {
     "id": 44,
@@ -481,7 +524,8 @@ window.CET6_WORDS = [
     "letter": "N",
     "word": "submit",
     "meaning": "提交；屈服",
-    "ipa": "səbˈmɪt"
+    "ipa": "səbˈmɪt",
+    "pos": "v."
   },
   {
     "id": 45,
@@ -492,7 +536,8 @@ window.CET6_WORDS = [
     "letter": "O",
     "word": "suppress",
     "meaning": "抑制；压制",
-    "ipa": "səˈprɛs"
+    "ipa": "səˈprɛs",
+    "pos": "v."
   },
   {
     "id": 46,
@@ -503,7 +548,8 @@ window.CET6_WORDS = [
     "letter": "A",
     "word": "affect",
     "meaning": "影响",
-    "ipa": "əˈfɛkt"
+    "ipa": "əˈfɛkt",
+    "pos": "n. / v."
   },
   {
     "id": 47,
@@ -514,7 +560,8 @@ window.CET6_WORDS = [
     "letter": "B",
     "word": "beyond",
     "meaning": "超过；超出",
-    "ipa": "bɪɔnd"
+    "ipa": "bɪɔnd",
+    "pos": "adv."
   },
   {
     "id": 48,
@@ -525,7 +572,8 @@ window.CET6_WORDS = [
     "letter": "C",
     "word": "conceded",
     "meaning": "承认了；让步了",
-    "ipa": "kənˈsidɪd"
+    "ipa": "kənˈsidɪd",
+    "pos": "v. / adj."
   },
   {
     "id": 49,
@@ -536,7 +584,8 @@ window.CET6_WORDS = [
     "letter": "D",
     "word": "correlation",
     "meaning": "相关性；关联",
-    "ipa": "ˌkɔrəˈleɪʃən"
+    "ipa": "ˌkɔrəˈleɪʃən",
+    "pos": "n."
   },
   {
     "id": 50,
@@ -547,7 +596,8 @@ window.CET6_WORDS = [
     "letter": "E",
     "word": "foster",
     "meaning": "促进；培养",
-    "ipa": "ˈfɑstər"
+    "ipa": "ˈfɑstər",
+    "pos": "n. / v. / adj."
   },
   {
     "id": 51,
@@ -558,7 +608,8 @@ window.CET6_WORDS = [
     "letter": "F",
     "word": "henceforth",
     "meaning": "从此以后",
-    "ipa": "ˈhɛnsˈfɔrθ"
+    "ipa": "ˈhɛnsˈfɔrθ",
+    "pos": "adv."
   },
   {
     "id": 52,
@@ -569,7 +620,8 @@ window.CET6_WORDS = [
     "letter": "G",
     "word": "lofty",
     "meaning": "崇高的；高耸的",
-    "ipa": "ˈlɔfti"
+    "ipa": "ˈlɔfti",
+    "pos": "adj."
   },
   {
     "id": 53,
@@ -580,7 +632,8 @@ window.CET6_WORDS = [
     "letter": "H",
     "word": "noteworthy",
     "meaning": "值得注意的",
-    "ipa": "ˈnoʊtˌwərði"
+    "ipa": "ˈnoʊtˌwərði",
+    "pos": "adj."
   },
   {
     "id": 54,
@@ -591,7 +644,8 @@ window.CET6_WORDS = [
     "letter": "I",
     "word": "plausibly",
     "meaning": "言之成理地；似乎可能地",
-    "ipa": "ˈplɔzəbli"
+    "ipa": "ˈplɔzəbli",
+    "pos": "adv."
   },
   {
     "id": 55,
@@ -602,7 +656,8 @@ window.CET6_WORDS = [
     "letter": "J",
     "word": "premature",
     "meaning": "过早的；不成熟的",
-    "ipa": "ˌpriməˈʧʊr"
+    "ipa": "ˌpriməˈʧʊr",
+    "pos": "adj."
   },
   {
     "id": 56,
@@ -613,7 +668,8 @@ window.CET6_WORDS = [
     "letter": "K",
     "word": "reconciled",
     "meaning": "使和解；使协调",
-    "ipa": "ˈrɛkənˌsaɪld"
+    "ipa": "ˈrɛkənˌsaɪld",
+    "pos": "v. / adj."
   },
   {
     "id": 57,
@@ -624,7 +680,8 @@ window.CET6_WORDS = [
     "letter": "L",
     "word": "span",
     "meaning": "持续时间；跨度",
-    "ipa": "spæn"
+    "ipa": "spæn",
+    "pos": "n. / v."
   },
   {
     "id": 58,
@@ -635,7 +692,8 @@ window.CET6_WORDS = [
     "letter": "M",
     "word": "specifically",
     "meaning": "具体地；特别是",
-    "ipa": "spəˈsɪfɪkli"
+    "ipa": "spəˈsɪfɪkli",
+    "pos": "adv."
   },
   {
     "id": 59,
@@ -646,7 +704,8 @@ window.CET6_WORDS = [
     "letter": "N",
     "word": "spiral",
     "meaning": "螺旋；急剧恶化",
-    "ipa": "ˈspaɪrəl"
+    "ipa": "ˈspaɪrəl",
+    "pos": "n. / v. / adj."
   },
   {
     "id": 60,
@@ -657,7 +716,8 @@ window.CET6_WORDS = [
     "letter": "O",
     "word": "trait",
     "meaning": "特征；品质",
-    "ipa": "treɪt"
+    "ipa": "treɪt",
+    "pos": "n."
   },
   {
     "id": 61,
@@ -668,7 +728,8 @@ window.CET6_WORDS = [
     "letter": "A",
     "word": "accessories",
     "meaning": "配饰；附件",
-    "ipa": "ækˈsɛsəriz"
+    "ipa": "ækˈsɛsəriz",
+    "pos": "n. / adj."
   },
   {
     "id": 62,
@@ -679,7 +740,8 @@ window.CET6_WORDS = [
     "letter": "B",
     "word": "align",
     "meaning": "使一致；对齐",
-    "ipa": "əˈlaɪn"
+    "ipa": "əˈlaɪn",
+    "pos": "v."
   },
   {
     "id": 63,
@@ -690,7 +752,8 @@ window.CET6_WORDS = [
     "letter": "C",
     "word": "concurrently",
     "meaning": "同时地",
-    "ipa": "kənˈkərəntli"
+    "ipa": "kənˈkərəntli",
+    "pos": "adv."
   },
   {
     "id": 64,
@@ -701,7 +764,8 @@ window.CET6_WORDS = [
     "letter": "D",
     "word": "current",
     "meaning": "当前的；潮流",
-    "ipa": "ˈkɑrənt"
+    "ipa": "ˈkɑrənt",
+    "pos": "n. / adj."
   },
   {
     "id": 65,
@@ -712,7 +776,8 @@ window.CET6_WORDS = [
     "letter": "E",
     "word": "engaging",
     "meaning": "吸引人的；参与的",
-    "ipa": "ɪnˈgeɪʤɪŋ"
+    "ipa": "ɪnˈgeɪʤɪŋ",
+    "pos": "v. / adj."
   },
   {
     "id": 66,
@@ -723,7 +788,8 @@ window.CET6_WORDS = [
     "letter": "F",
     "word": "fond",
     "meaning": "喜爱的",
-    "ipa": "fɑnd"
+    "ipa": "fɑnd",
+    "pos": "adj."
   },
   {
     "id": 67,
@@ -734,7 +800,8 @@ window.CET6_WORDS = [
     "letter": "G",
     "word": "frame",
     "meaning": "框架；构建表述",
-    "ipa": "freɪm"
+    "ipa": "freɪm",
+    "pos": "n. / v."
   },
   {
     "id": 68,
@@ -745,7 +812,8 @@ window.CET6_WORDS = [
     "letter": "H",
     "word": "locations",
     "meaning": "地点；位置",
-    "ipa": "loʊˈkeɪʃənz"
+    "ipa": "loʊˈkeɪʃənz",
+    "pos": "n."
   },
   {
     "id": 69,
@@ -756,7 +824,8 @@ window.CET6_WORDS = [
     "letter": "I",
     "word": "perceive",
     "meaning": "感知；认为",
-    "ipa": "pərˈsiv"
+    "ipa": "pərˈsiv",
+    "pos": "v."
   },
   {
     "id": 70,
@@ -767,7 +836,8 @@ window.CET6_WORDS = [
     "letter": "J",
     "word": "positively",
     "meaning": "积极地；肯定地",
-    "ipa": "ˈpɑzətɪvli"
+    "ipa": "ˈpɑzətɪvli",
+    "pos": "adv."
   },
   {
     "id": 71,
@@ -778,7 +848,8 @@ window.CET6_WORDS = [
     "letter": "K",
     "word": "profile",
     "meaning": "概况；轮廓；形象",
-    "ipa": "ˈproʊˌfaɪl"
+    "ipa": "ˈproʊˌfaɪl",
+    "pos": "n. / v."
   },
   {
     "id": 72,
@@ -789,7 +860,8 @@ window.CET6_WORDS = [
     "letter": "L",
     "word": "prospering",
     "meaning": "繁荣的；兴旺的",
-    "ipa": "ˈprɑspərɪŋ"
+    "ipa": "ˈprɑspərɪŋ",
+    "pos": "v. / adj."
   },
   {
     "id": 73,
@@ -800,7 +872,8 @@ window.CET6_WORDS = [
     "letter": "M",
     "word": "reluctant",
     "meaning": "不情愿的；勉强的",
-    "ipa": "rɪˈləktənt"
+    "ipa": "rɪˈləktənt",
+    "pos": "adj."
   },
   {
     "id": 74,
@@ -811,7 +884,8 @@ window.CET6_WORDS = [
     "letter": "N",
     "word": "showcase",
     "meaning": "展示；展示平台",
-    "ipa": "ˈʃoʊˌkeɪs"
+    "ipa": "ˈʃoʊˌkeɪs",
+    "pos": "n."
   },
   {
     "id": 75,
@@ -822,7 +896,8 @@ window.CET6_WORDS = [
     "letter": "O",
     "word": "wardrobe",
     "meaning": "衣橱；全部衣物",
-    "ipa": "ˈwɔrˌdroʊb"
+    "ipa": "ˈwɔrˌdroʊb",
+    "pos": "n."
   },
   {
     "id": 76,
@@ -833,7 +908,8 @@ window.CET6_WORDS = [
     "letter": "A",
     "word": "aesthetically",
     "meaning": "在审美上",
-    "ipa": "ɛsˈθɛtɪkli"
+    "ipa": "ɛsˈθɛtɪkli",
+    "pos": "adv."
   },
   {
     "id": 77,
@@ -844,7 +920,8 @@ window.CET6_WORDS = [
     "letter": "B",
     "word": "constructed",
     "meaning": "建造的；构建的",
-    "ipa": "kənˈstrəktɪd"
+    "ipa": "kənˈstrəktɪd",
+    "pos": "v. / adj."
   },
   {
     "id": 78,
@@ -855,7 +932,8 @@ window.CET6_WORDS = [
     "letter": "C",
     "word": "designates",
     "meaning": "指定；表示",
-    "ipa": "ˈdɛzɪgˌneɪts"
+    "ipa": "ˈdɛzɪgˌneɪts",
+    "pos": "v. / adj."
   },
   {
     "id": 79,
@@ -866,7 +944,8 @@ window.CET6_WORDS = [
     "letter": "D",
     "word": "extract",
     "meaning": "提取；摘录",
-    "ipa": "ˈɛkˌstrækt"
+    "ipa": "ˈɛkˌstrækt",
+    "pos": "n. / v."
   },
   {
     "id": 80,
@@ -877,7 +956,8 @@ window.CET6_WORDS = [
     "letter": "E",
     "word": "flocked",
     "meaning": "成群涌向",
-    "ipa": "flɑkt"
+    "ipa": "flɑkt",
+    "pos": "v. / adj."
   },
   {
     "id": 81,
@@ -888,7 +968,8 @@ window.CET6_WORDS = [
     "letter": "F",
     "word": "incorporates",
     "meaning": "包含；纳入",
-    "ipa": "ˌɪnˈkɔrpərˌeɪts"
+    "ipa": "ˌɪnˈkɔrpərˌeɪts",
+    "pos": "v. / adj."
   },
   {
     "id": 82,
@@ -899,7 +980,8 @@ window.CET6_WORDS = [
     "letter": "G",
     "word": "legitimate",
     "meaning": "合法的；合理的",
-    "ipa": "ləˈʤɪtəmət"
+    "ipa": "ləˈʤɪtəmət",
+    "pos": "v. / adj."
   },
   {
     "id": 83,
@@ -910,7 +992,8 @@ window.CET6_WORDS = [
     "letter": "H",
     "word": "natural",
     "meaning": "自然的；天然的",
-    "ipa": "ˈnæʧərəl"
+    "ipa": "ˈnæʧərəl",
+    "pos": "n. / adj."
   },
   {
     "id": 84,
@@ -921,7 +1004,8 @@ window.CET6_WORDS = [
     "letter": "I",
     "word": "offspring",
     "meaning": "后代；子女",
-    "ipa": "ˈɔfˌsprɪŋ"
+    "ipa": "ˈɔfˌsprɪŋ",
+    "pos": "n. / v. / adj."
   },
   {
     "id": 85,
@@ -932,7 +1016,8 @@ window.CET6_WORDS = [
     "letter": "J",
     "word": "previous",
     "meaning": "先前的",
-    "ipa": "ˈpriviəs"
+    "ipa": "ˈpriviəs",
+    "pos": "adj."
   },
   {
     "id": 86,
@@ -943,7 +1028,8 @@ window.CET6_WORDS = [
     "letter": "K",
     "word": "principally",
     "meaning": "主要地",
-    "ipa": "ˈprɪnsɪpli"
+    "ipa": "ˈprɪnsɪpli",
+    "pos": "adv."
   },
   {
     "id": 87,
@@ -954,7 +1040,8 @@ window.CET6_WORDS = [
     "letter": "L",
     "word": "remedy",
     "meaning": "补救；治疗方法",
-    "ipa": "ˈrɛmədi"
+    "ipa": "ˈrɛmədi",
+    "pos": "n. / v."
   },
   {
     "id": 88,
@@ -965,7 +1052,8 @@ window.CET6_WORDS = [
     "letter": "M",
     "word": "rhetorically",
     "meaning": "在修辞上；反问地",
-    "ipa": "rəˈtɔrɪkli"
+    "ipa": "rəˈtɔrɪkli",
+    "pos": "adv."
   },
   {
     "id": 89,
@@ -976,7 +1064,8 @@ window.CET6_WORDS = [
     "letter": "N",
     "word": "sneaked",
     "meaning": "潜入；偷偷地做",
-    "ipa": "snikt"
+    "ipa": "snikt",
+    "pos": "v. / adj."
   },
   {
     "id": 90,
@@ -987,7 +1076,8 @@ window.CET6_WORDS = [
     "letter": "O",
     "word": "versatile",
     "meaning": "多功能的；多才多艺的",
-    "ipa": "ˈvərsətəl"
+    "ipa": "ˈvərsətəl",
+    "pos": "adj."
   },
   {
     "id": 91,
@@ -998,7 +1088,8 @@ window.CET6_WORDS = [
     "letter": "A",
     "word": "adversely",
     "meaning": "不利地；负面地",
-    "ipa": "ædˈvərsli"
+    "ipa": "ædˈvərsli",
+    "pos": "adv."
   },
   {
     "id": 92,
@@ -1009,7 +1100,8 @@ window.CET6_WORDS = [
     "letter": "B",
     "word": "amiably",
     "meaning": "友善地；和蔼地",
-    "ipa": "ˈeɪmiəbli"
+    "ipa": "ˈeɪmiəbli",
+    "pos": "adv."
   },
   {
     "id": 93,
@@ -1020,7 +1112,8 @@ window.CET6_WORDS = [
     "letter": "C",
     "word": "boost",
     "meaning": "促进；提高",
-    "ipa": "bust"
+    "ipa": "bust",
+    "pos": "n. / v."
   },
   {
     "id": 94,
@@ -1031,7 +1124,8 @@ window.CET6_WORDS = [
     "letter": "D",
     "word": "cognitive",
     "meaning": "认知的",
-    "ipa": "ˈkɑgnɪtɪv"
+    "ipa": "ˈkɑgnɪtɪv",
+    "pos": "adj."
   },
   {
     "id": 95,
@@ -1042,7 +1136,8 @@ window.CET6_WORDS = [
     "letter": "E",
     "word": "compassion",
     "meaning": "同情；怜悯",
-    "ipa": "kəmˈpæʃən"
+    "ipa": "kəmˈpæʃən",
+    "pos": "n."
   },
   {
     "id": 96,
@@ -1053,7 +1148,8 @@ window.CET6_WORDS = [
     "letter": "F",
     "word": "connected",
     "meaning": "有联系的；连接的",
-    "ipa": "kəˈnɛktɪd"
+    "ipa": "kəˈnɛktɪd",
+    "pos": "v. / adj."
   },
   {
     "id": 97,
@@ -1064,7 +1160,8 @@ window.CET6_WORDS = [
     "letter": "G",
     "word": "correlation",
     "meaning": "相关性；关联",
-    "ipa": "ˌkɔrəˈleɪʃən"
+    "ipa": "ˌkɔrəˈleɪʃən",
+    "pos": "n."
   },
   {
     "id": 98,
@@ -1075,7 +1172,8 @@ window.CET6_WORDS = [
     "letter": "H",
     "word": "fascinated",
     "meaning": "着迷的；被深深吸引的",
-    "ipa": "ˈfæsəˌneɪtɪd"
+    "ipa": "ˈfæsəˌneɪtɪd",
+    "pos": "v. / adj."
   },
   {
     "id": 99,
@@ -1086,7 +1184,8 @@ window.CET6_WORDS = [
     "letter": "I",
     "word": "indignantly",
     "meaning": "愤慨地",
-    "ipa": "ˌɪnˈdɪgnənˌtli"
+    "ipa": "ˌɪnˈdɪgnənˌtli",
+    "pos": "adv."
   },
   {
     "id": 100,
@@ -1097,7 +1196,8 @@ window.CET6_WORDS = [
     "letter": "J",
     "word": "insulation",
     "meaning": "隔绝；绝缘；保温",
-    "ipa": "ˌɪnsəˈleɪʃən"
+    "ipa": "ˌɪnsəˈleɪʃən",
+    "pos": "n."
   },
   {
     "id": 101,
@@ -1108,7 +1208,8 @@ window.CET6_WORDS = [
     "letter": "K",
     "word": "lavish",
     "meaning": "奢华的；慷慨给予",
-    "ipa": "ˈlævɪʃ"
+    "ipa": "ˈlævɪʃ",
+    "pos": "v. / adj."
   },
   {
     "id": 102,
@@ -1119,7 +1220,8 @@ window.CET6_WORDS = [
     "letter": "L",
     "word": "prone",
     "meaning": "易于…的；有…倾向的",
-    "ipa": "proʊn"
+    "ipa": "proʊn",
+    "pos": "adj."
   },
   {
     "id": 103,
@@ -1130,7 +1232,8 @@ window.CET6_WORDS = [
     "letter": "M",
     "word": "recurrent",
     "meaning": "反复发生的；复发的",
-    "ipa": "rɪˈkərənt"
+    "ipa": "rɪˈkərənt",
+    "pos": "adj."
   },
   {
     "id": 104,
@@ -1141,7 +1244,8 @@ window.CET6_WORDS = [
     "letter": "N",
     "word": "signify",
     "meaning": "表示；意味着",
-    "ipa": "ˈsɪgnəˌfaɪ"
+    "ipa": "ˈsɪgnəˌfaɪ",
+    "pos": "v."
   },
   {
     "id": 105,
@@ -1152,7 +1256,8 @@ window.CET6_WORDS = [
     "letter": "O",
     "word": "surpass",
     "meaning": "超过；胜过",
-    "ipa": "sərˈpæs"
+    "ipa": "sərˈpæs",
+    "pos": "v."
   },
   {
     "id": 106,
@@ -1163,7 +1268,8 @@ window.CET6_WORDS = [
     "letter": "A",
     "word": "vulnerable",
     "meaning": "易受伤害的；脆弱的",
-    "ipa": "ˈvəlnərəbəl"
+    "ipa": "ˈvəlnərəbəl",
+    "pos": "adj."
   },
   {
     "id": 107,
@@ -1174,7 +1280,8 @@ window.CET6_WORDS = [
     "letter": "B",
     "word": "unprecedented",
     "meaning": "前所未有的",
-    "ipa": "ənˈprɛsɪˌdɛntɪd"
+    "ipa": "ənˈprɛsɪˌdɛntɪd",
+    "pos": "v. / adj."
   },
   {
     "id": 108,
@@ -1185,7 +1292,8 @@ window.CET6_WORDS = [
     "letter": "C",
     "word": "tracts",
     "meaning": "大片土地；管道",
-    "ipa": "trækts"
+    "ipa": "trækts",
+    "pos": "n."
   },
   {
     "id": 109,
@@ -1196,7 +1304,8 @@ window.CET6_WORDS = [
     "letter": "D",
     "word": "specimen",
     "meaning": "标本；样品",
-    "ipa": "ˈspɛsəmən"
+    "ipa": "ˈspɛsəmən",
+    "pos": "n."
   },
   {
     "id": 110,
@@ -1207,7 +1316,8 @@ window.CET6_WORDS = [
     "letter": "E",
     "word": "robust",
     "meaning": "强健的；稳健的",
-    "ipa": "roʊˈbəst"
+    "ipa": "roʊˈbəst",
+    "pos": "adj."
   },
   {
     "id": 111,
@@ -1218,7 +1328,8 @@ window.CET6_WORDS = [
     "letter": "F",
     "word": "refuge",
     "meaning": "避难所；庇护",
-    "ipa": "ˈrɛfjuʤ"
+    "ipa": "ˈrɛfjuʤ",
+    "pos": "n."
   },
   {
     "id": 112,
@@ -1229,7 +1340,8 @@ window.CET6_WORDS = [
     "letter": "G",
     "word": "plazas",
     "meaning": "广场",
-    "ipa": "ˈplɑzəz"
+    "ipa": "ˈplɑzəz",
+    "pos": "n."
   },
   {
     "id": 113,
@@ -1240,7 +1352,8 @@ window.CET6_WORDS = [
     "letter": "H",
     "word": "infinite",
     "meaning": "无限的",
-    "ipa": "ˈɪnfənət"
+    "ipa": "ˈɪnfənət",
+    "pos": "n. / adj."
   },
   {
     "id": 114,
@@ -1251,7 +1364,8 @@ window.CET6_WORDS = [
     "letter": "I",
     "word": "hatched",
     "meaning": "孵化；策划",
-    "ipa": "hæʧt"
+    "ipa": "hæʧt",
+    "pos": "v. / adj."
   },
   {
     "id": 115,
@@ -1262,7 +1376,8 @@ window.CET6_WORDS = [
     "letter": "J",
     "word": "expired",
     "meaning": "到期的；死亡的",
-    "ipa": "ɪkˈspaɪrd"
+    "ipa": "ɪkˈspaɪrd",
+    "pos": "v. / adj."
   },
   {
     "id": 116,
@@ -1273,7 +1388,8 @@ window.CET6_WORDS = [
     "letter": "K",
     "word": "excerpts",
     "meaning": "摘录；节选",
-    "ipa": "ˈɛksərpts"
+    "ipa": "ˈɛksərpts",
+    "pos": "n. / v."
   },
   {
     "id": 117,
@@ -1284,7 +1400,8 @@ window.CET6_WORDS = [
     "letter": "L",
     "word": "estimates",
     "meaning": "估计；估算值",
-    "ipa": "ˈɛstəˌmeɪts"
+    "ipa": "ˈɛstəˌmeɪts",
+    "pos": "n. / v."
   },
   {
     "id": 118,
@@ -1295,7 +1412,8 @@ window.CET6_WORDS = [
     "letter": "M",
     "word": "edible",
     "meaning": "可食用的",
-    "ipa": "ˈɛdəbəl"
+    "ipa": "ˈɛdəbəl",
+    "pos": "n. / adj."
   },
   {
     "id": 119,
@@ -1306,7 +1424,8 @@ window.CET6_WORDS = [
     "letter": "N",
     "word": "depleted",
     "meaning": "被耗尽的；大幅减少的",
-    "ipa": "dɪˈplitɪd"
+    "ipa": "dɪˈplitɪd",
+    "pos": "v. / adj."
   },
   {
     "id": 120,
@@ -1317,7 +1436,8 @@ window.CET6_WORDS = [
     "letter": "O",
     "word": "delicacy",
     "meaning": "美味；精致；微妙",
-    "ipa": "ˈdɛlɪkəsi"
+    "ipa": "ˈdɛlɪkəsi",
+    "pos": "n."
   },
   {
     "id": 121,
@@ -1328,7 +1448,8 @@ window.CET6_WORDS = [
     "letter": "A",
     "word": "access",
     "meaning": "通道；获取机会",
-    "ipa": "ˈækˌsɛs"
+    "ipa": "ˈækˌsɛs",
+    "pos": "n. / v."
   },
   {
     "id": 122,
@@ -1339,7 +1460,8 @@ window.CET6_WORDS = [
     "letter": "B",
     "word": "apparent",
     "meaning": "明显的；表面的",
-    "ipa": "əˈpɛrənt"
+    "ipa": "əˈpɛrənt",
+    "pos": "adj."
   },
   {
     "id": 123,
@@ -1350,7 +1472,8 @@ window.CET6_WORDS = [
     "letter": "C",
     "word": "barely",
     "meaning": "几乎不；勉强",
-    "ipa": "ˈbɛrli"
+    "ipa": "ˈbɛrli",
+    "pos": "adv."
   },
   {
     "id": 124,
@@ -1361,7 +1484,8 @@ window.CET6_WORDS = [
     "letter": "D",
     "word": "dedication",
     "meaning": "奉献；投入",
-    "ipa": "ˌdɛdəˈkeɪʃən"
+    "ipa": "ˌdɛdəˈkeɪʃən",
+    "pos": "n."
   },
   {
     "id": 125,
@@ -1372,7 +1496,8 @@ window.CET6_WORDS = [
     "letter": "E",
     "word": "escorted",
     "meaning": "护送；陪同",
-    "ipa": "ɛˈskɔrtɪd"
+    "ipa": "ɛˈskɔrtɪd",
+    "pos": "v. / adj."
   },
   {
     "id": 126,
@@ -1383,7 +1508,8 @@ window.CET6_WORDS = [
     "letter": "F",
     "word": "froze",
     "meaning": "冻结；僵住",
-    "ipa": "froʊz"
+    "ipa": "froʊz",
+    "pos": "v."
   },
   {
     "id": 127,
@@ -1394,7 +1520,8 @@ window.CET6_WORDS = [
     "letter": "G",
     "word": "incredible",
     "meaning": "难以置信的；极好的",
-    "ipa": "ˌɪnˈkrɛdəbəl"
+    "ipa": "ˌɪnˈkrɛdəbəl",
+    "pos": "adj."
   },
   {
     "id": 128,
@@ -1405,7 +1532,8 @@ window.CET6_WORDS = [
     "letter": "H",
     "word": "indignant",
     "meaning": "愤怒的；义愤的",
-    "ipa": "ˌɪnˈdɪgnənt"
+    "ipa": "ˌɪnˈdɪgnənt",
+    "pos": "adj."
   },
   {
     "id": 129,
@@ -1416,7 +1544,8 @@ window.CET6_WORDS = [
     "letter": "I",
     "word": "network",
     "meaning": "网络；建立人脉",
-    "ipa": "ˈnɛtˌwərk"
+    "ipa": "ˈnɛtˌwərk",
+    "pos": "n. / v."
   },
   {
     "id": 130,
@@ -1427,7 +1556,8 @@ window.CET6_WORDS = [
     "letter": "J",
     "word": "overriding",
     "meaning": "首要的；压倒一切的",
-    "ipa": "ˈoʊvərˌraɪdɪŋ"
+    "ipa": "ˈoʊvərˌraɪdɪŋ",
+    "pos": "v. / adj."
   },
   {
     "id": 131,
@@ -1438,7 +1568,8 @@ window.CET6_WORDS = [
     "letter": "K",
     "word": "peacefully",
     "meaning": "平静地；和平地",
-    "ipa": "ˈpisfəli"
+    "ipa": "ˈpisfəli",
+    "pos": "adv."
   },
   {
     "id": 132,
@@ -1449,7 +1580,8 @@ window.CET6_WORDS = [
     "letter": "L",
     "word": "presumably",
     "meaning": "大概；推测起来",
-    "ipa": "prɪˈzuməbli"
+    "ipa": "prɪˈzuməbli",
+    "pos": "adv."
   },
   {
     "id": 133,
@@ -1460,7 +1592,8 @@ window.CET6_WORDS = [
     "letter": "M",
     "word": "stifled",
     "meaning": "抑制的；令人窒息的",
-    "ipa": "ˈstaɪfəld"
+    "ipa": "ˈstaɪfəld",
+    "pos": "v. / adj."
   },
   {
     "id": 134,
@@ -1471,7 +1604,8 @@ window.CET6_WORDS = [
     "letter": "N",
     "word": "struck",
     "meaning": "击打；突然想到；给…印象",
-    "ipa": "strək"
+    "ipa": "strək",
+    "pos": "adj."
   },
   {
     "id": 135,
@@ -1482,7 +1616,8 @@ window.CET6_WORDS = [
     "letter": "O",
     "word": "terrifying",
     "meaning": "令人恐惧的",
-    "ipa": "ˈtɛrəˌfaɪɪŋ"
+    "ipa": "ˈtɛrəˌfaɪɪŋ",
+    "pos": "v. / adj."
   },
   {
     "id": 136,
@@ -1493,7 +1628,8 @@ window.CET6_WORDS = [
     "letter": "A",
     "word": "aesthetic",
     "meaning": "审美的；美感",
-    "ipa": "ɛsˈθɛtɪk"
+    "ipa": "ɛsˈθɛtɪk",
+    "pos": "n. / adj."
   },
   {
     "id": 137,
@@ -1504,7 +1640,8 @@ window.CET6_WORDS = [
     "letter": "B",
     "word": "appropriate",
     "meaning": "合适的；恰当的",
-    "ipa": "əˈproʊpriˌeɪt"
+    "ipa": "əˈproʊpriˌeɪt",
+    "pos": "v. / adj."
   },
   {
     "id": 138,
@@ -1515,7 +1652,8 @@ window.CET6_WORDS = [
     "letter": "C",
     "word": "clusters",
     "meaning": "群；簇",
-    "ipa": "ˈkləstərz"
+    "ipa": "ˈkləstərz",
+    "pos": "n. / v."
   },
   {
     "id": 139,
@@ -1526,7 +1664,8 @@ window.CET6_WORDS = [
     "letter": "D",
     "word": "competitive",
     "meaning": "有竞争力的；竞争的",
-    "ipa": "kəmˈpɛtɪtɪv"
+    "ipa": "kəmˈpɛtɪtɪv",
+    "pos": "adj."
   },
   {
     "id": 140,
@@ -1537,7 +1676,8 @@ window.CET6_WORDS = [
     "letter": "E",
     "word": "exploiting",
     "meaning": "利用；开发；剥削",
-    "ipa": "ˈɛkˌsplɔɪtɪŋ"
+    "ipa": "ˈɛkˌsplɔɪtɪŋ",
+    "pos": "v. / adj."
   },
   {
     "id": 141,
@@ -1548,7 +1688,8 @@ window.CET6_WORDS = [
     "letter": "F",
     "word": "fiscal",
     "meaning": "财政的",
-    "ipa": "ˈfɪskəl"
+    "ipa": "ˈfɪskəl",
+    "pos": "adj."
   },
   {
     "id": 142,
@@ -1559,7 +1700,8 @@ window.CET6_WORDS = [
     "letter": "G",
     "word": "instances",
     "meaning": "例子；情况",
-    "ipa": "ˈɪnstənsɪz"
+    "ipa": "ˈɪnstənsɪz",
+    "pos": "n. / v."
   },
   {
     "id": 143,
@@ -1570,7 +1712,8 @@ window.CET6_WORDS = [
     "letter": "H",
     "word": "rehabilitated",
     "meaning": "康复的；修复的",
-    "ipa": "ˌriəˈbɪləˌteɪtɪd"
+    "ipa": "ˌriəˈbɪləˌteɪtɪd",
+    "pos": "v. / adj."
   },
   {
     "id": 144,
@@ -1581,7 +1724,8 @@ window.CET6_WORDS = [
     "letter": "I",
     "word": "reproduced",
     "meaning": "复制；繁殖；再现",
-    "ipa": "ˌriprəˈdust"
+    "ipa": "ˌriprəˈdust",
+    "pos": "v. / adj."
   },
   {
     "id": 145,
@@ -1592,7 +1736,8 @@ window.CET6_WORDS = [
     "letter": "J",
     "word": "revenues",
     "meaning": "收入；税收",
-    "ipa": "ˈrɛvəˌnuz"
+    "ipa": "ˈrɛvəˌnuz",
+    "pos": "n."
   },
   {
     "id": 146,
@@ -1603,7 +1748,8 @@ window.CET6_WORDS = [
     "letter": "K",
     "word": "safeguarding",
     "meaning": "保护；保障",
-    "ipa": "ˈseɪfˌgɑrdɪŋ"
+    "ipa": "ˈseɪfˌgɑrdɪŋ",
+    "pos": "v. / adj."
   },
   {
     "id": 147,
@@ -1614,7 +1760,8 @@ window.CET6_WORDS = [
     "letter": "L",
     "word": "ship",
     "meaning": "运送；船",
-    "ipa": "ʃɪp"
+    "ipa": "ʃɪp",
+    "pos": "n. / v."
   },
   {
     "id": 148,
@@ -1625,7 +1772,8 @@ window.CET6_WORDS = [
     "letter": "M",
     "word": "strategic",
     "meaning": "战略的",
-    "ipa": "strəˈtiʤɪk"
+    "ipa": "strəˈtiʤɪk",
+    "pos": "adj."
   },
   {
     "id": 149,
@@ -1636,7 +1784,8 @@ window.CET6_WORDS = [
     "letter": "N",
     "word": "transcend",
     "meaning": "超越",
-    "ipa": "trænˈsɛnd"
+    "ipa": "trænˈsɛnd",
+    "pos": "v."
   },
   {
     "id": 150,
@@ -1647,7 +1796,8 @@ window.CET6_WORDS = [
     "letter": "O",
     "word": "undergoing",
     "meaning": "正在经历",
-    "ipa": "ˌəndərˈgoʊɪŋ"
+    "ipa": "ˌəndərˈgoʊɪŋ",
+    "pos": "v. / adj."
   },
   {
     "id": 151,
@@ -1658,7 +1808,8 @@ window.CET6_WORDS = [
     "letter": "A",
     "word": "abandoned",
     "meaning": "被遗弃的；放弃的",
-    "ipa": "əˈbændənd"
+    "ipa": "əˈbændənd",
+    "pos": "v. / adj."
   },
   {
     "id": 152,
@@ -1669,7 +1820,8 @@ window.CET6_WORDS = [
     "letter": "B",
     "word": "access",
     "meaning": "通道；获取机会",
-    "ipa": "ˈækˌsɛs"
+    "ipa": "ˈækˌsɛs",
+    "pos": "n. / v."
   },
   {
     "id": 153,
@@ -1680,7 +1832,8 @@ window.CET6_WORDS = [
     "letter": "C",
     "word": "consumption",
     "meaning": "消费；消耗",
-    "ipa": "kənˈsəmʃən"
+    "ipa": "kənˈsəmʃən",
+    "pos": "n."
   },
   {
     "id": 154,
@@ -1691,7 +1844,8 @@ window.CET6_WORDS = [
     "letter": "D",
     "word": "contrive",
     "meaning": "设法做到；设计",
-    "ipa": "kənˈtraɪv"
+    "ipa": "kənˈtraɪv",
+    "pos": "v."
   },
   {
     "id": 155,
@@ -1702,7 +1856,8 @@ window.CET6_WORDS = [
     "letter": "E",
     "word": "duplications",
     "meaning": "重复；复制品",
-    "ipa": "ˌduplɪˈkeɪʃənz"
+    "ipa": "ˌduplɪˈkeɪʃənz",
+    "pos": "n."
   },
   {
     "id": 156,
@@ -1713,7 +1868,8 @@ window.CET6_WORDS = [
     "letter": "F",
     "word": "investments",
     "meaning": "投资",
-    "ipa": "ˌɪnˈvɛstmənts"
+    "ipa": "ˌɪnˈvɛstmənts",
+    "pos": "n."
   },
   {
     "id": 157,
@@ -1724,7 +1880,8 @@ window.CET6_WORDS = [
     "letter": "G",
     "word": "mobilized",
     "meaning": "动员；调动",
-    "ipa": "ˈmoʊbəˌlaɪzd"
+    "ipa": "ˈmoʊbəˌlaɪzd",
+    "pos": "v. / adj."
   },
   {
     "id": 158,
@@ -1735,7 +1892,8 @@ window.CET6_WORDS = [
     "letter": "H",
     "word": "negligent",
     "meaning": "疏忽的；玩忽职守的",
-    "ipa": "ˈnɛglɪʤənt"
+    "ipa": "ˈnɛglɪʤənt",
+    "pos": "adj."
   },
   {
     "id": 159,
@@ -1746,7 +1904,8 @@ window.CET6_WORDS = [
     "letter": "I",
     "word": "neutral",
     "meaning": "中立的；中性的",
-    "ipa": "ˈnutrəl"
+    "ipa": "ˈnutrəl",
+    "pos": "n. / adj."
   },
   {
     "id": 160,
@@ -1757,7 +1916,8 @@ window.CET6_WORDS = [
     "letter": "J",
     "word": "reductions",
     "meaning": "减少；降低",
-    "ipa": "rɪˈdəkʃənz"
+    "ipa": "rɪˈdəkʃənz",
+    "pos": "n."
   },
   {
     "id": 161,
@@ -1768,7 +1928,8 @@ window.CET6_WORDS = [
     "letter": "K",
     "word": "released",
     "meaning": "释放；发布",
-    "ipa": "riˈlist"
+    "ipa": "riˈlist",
+    "pos": "v. / adj."
   },
   {
     "id": 162,
@@ -1779,7 +1940,8 @@ window.CET6_WORDS = [
     "letter": "L",
     "word": "replacement",
     "meaning": "替代；替代品",
-    "ipa": "rɪˈpleɪsmənt"
+    "ipa": "rɪˈpleɪsmənt",
+    "pos": "n."
   },
   {
     "id": 163,
@@ -1790,7 +1952,8 @@ window.CET6_WORDS = [
     "letter": "M",
     "word": "slash",
     "meaning": "大幅削减；破伤",
-    "ipa": "slæʃ"
+    "ipa": "slæʃ",
+    "pos": "n. / v."
   },
   {
     "id": 164,
@@ -1801,7 +1964,8 @@ window.CET6_WORDS = [
     "letter": "N",
     "word": "surplus",
     "meaning": "剩余；过剩",
-    "ipa": "ˈsərpləs"
+    "ipa": "ˈsərpləs",
+    "pos": "n. / adj."
   },
   {
     "id": 165,
@@ -1812,7 +1976,8 @@ window.CET6_WORDS = [
     "letter": "O",
     "word": "void",
     "meaning": "空缺；无效的",
-    "ipa": "vɔɪd"
+    "ipa": "vɔɪd",
+    "pos": "n. / v. / adj."
   },
   {
     "id": 166,
@@ -1823,7 +1988,8 @@ window.CET6_WORDS = [
     "letter": "A",
     "word": "advocate",
     "meaning": "提倡；支持者",
-    "ipa": "ˈædvəˌkeɪt"
+    "ipa": "ˈædvəˌkeɪt",
+    "pos": "n. / v."
   },
   {
     "id": 167,
@@ -1834,7 +2000,8 @@ window.CET6_WORDS = [
     "letter": "B",
     "word": "arise",
     "meaning": "出现；产生",
-    "ipa": "əraɪz"
+    "ipa": "əraɪz",
+    "pos": "v."
   },
   {
     "id": 168,
@@ -1845,7 +2012,8 @@ window.CET6_WORDS = [
     "letter": "C",
     "word": "emphasized",
     "meaning": "强调；着重",
-    "ipa": "ˈɛmfəˌsaɪzd"
+    "ipa": "ˈɛmfəˌsaɪzd",
+    "pos": "v. / adj."
   },
   {
     "id": 169,
@@ -1856,7 +2024,8 @@ window.CET6_WORDS = [
     "letter": "D",
     "word": "encounter",
     "meaning": "遇到；遭遇",
-    "ipa": "ɪnˈkaʊnər"
+    "ipa": "ɪnˈkaʊnər",
+    "pos": "n. / v."
   },
   {
     "id": 170,
@@ -1867,7 +2036,8 @@ window.CET6_WORDS = [
     "letter": "E",
     "word": "essential",
     "meaning": "必要的；核心要素",
-    "ipa": "ɛˈsɛnʃəl"
+    "ipa": "ɛˈsɛnʃəl",
+    "pos": "n. / adj."
   },
   {
     "id": 171,
@@ -1878,7 +2048,8 @@ window.CET6_WORDS = [
     "letter": "F",
     "word": "evaporation",
     "meaning": "蒸发",
-    "ipa": "ɪˌvæpərˈeɪʃən"
+    "ipa": "ɪˌvæpərˈeɪʃən",
+    "pos": "n."
   },
   {
     "id": 172,
@@ -1889,7 +2060,8 @@ window.CET6_WORDS = [
     "letter": "G",
     "word": "extinction",
     "meaning": "灭绝；消亡",
-    "ipa": "ɪkˈstɪŋʃən"
+    "ipa": "ɪkˈstɪŋʃən",
+    "pos": "n."
   },
   {
     "id": 173,
@@ -1900,7 +2072,8 @@ window.CET6_WORDS = [
     "letter": "H",
     "word": "obscure",
     "meaning": "鲜为人知的；使模糊",
-    "ipa": "əbˈskjʊr"
+    "ipa": "əbˈskjʊr",
+    "pos": "v. / adj."
   },
   {
     "id": 174,
@@ -1911,7 +2084,8 @@ window.CET6_WORDS = [
     "letter": "I",
     "word": "particular",
     "meaning": "特定的；特别的",
-    "ipa": "ˌpɑˈtɪkjələr"
+    "ipa": "ˌpɑˈtɪkjələr",
+    "pos": "n. / adj."
   },
   {
     "id": 175,
@@ -1922,7 +2096,8 @@ window.CET6_WORDS = [
     "letter": "J",
     "word": "posed",
     "meaning": "造成；提出；摆姿势",
-    "ipa": "poʊzd"
+    "ipa": "poʊzd",
+    "pos": "v. / adj."
   },
   {
     "id": 176,
@@ -1933,7 +2108,8 @@ window.CET6_WORDS = [
     "letter": "K",
     "word": "scenario",
     "meaning": "情形；设想",
-    "ipa": "sɪˈnɛrioʊ"
+    "ipa": "sɪˈnɛrioʊ",
+    "pos": "n."
   },
   {
     "id": 177,
@@ -1944,7 +2120,8 @@ window.CET6_WORDS = [
     "letter": "L",
     "word": "severely",
     "meaning": "严重地；严厉地",
-    "ipa": "səˈvɪrli"
+    "ipa": "səˈvɪrli",
+    "pos": "adv."
   },
   {
     "id": 178,
@@ -1955,7 +2132,8 @@ window.CET6_WORDS = [
     "letter": "M",
     "word": "shrewdly",
     "meaning": "精明地；敏锐地",
-    "ipa": "ʃˈrudli"
+    "ipa": "ʃˈrudli",
+    "pos": "adv."
   },
   {
     "id": 179,
@@ -1966,7 +2144,8 @@ window.CET6_WORDS = [
     "letter": "N",
     "word": "species",
     "meaning": "物种；种类",
-    "ipa": "ˈspiʃiz"
+    "ipa": "ˈspiʃiz",
+    "pos": "n."
   },
   {
     "id": 180,
@@ -1977,7 +2156,8 @@ window.CET6_WORDS = [
     "letter": "O",
     "word": "variety",
     "meaning": "多样性；种类",
-    "ipa": "vərˈaɪəti"
+    "ipa": "vərˈaɪəti",
+    "pos": "n."
   },
   {
     "id": 181,
@@ -1988,7 +2168,8 @@ window.CET6_WORDS = [
     "letter": "A",
     "word": "affirmed",
     "meaning": "肯定；证实",
-    "ipa": "əˈfərmd"
+    "ipa": "əˈfərmd",
+    "pos": "n. / v. / adj."
   },
   {
     "id": 182,
@@ -1999,7 +2180,8 @@ window.CET6_WORDS = [
     "letter": "B",
     "word": "approximately",
     "meaning": "大约",
-    "ipa": "əˈprɑksəmətli"
+    "ipa": "əˈprɑksəmətli",
+    "pos": "adv."
   },
   {
     "id": 183,
@@ -2010,7 +2192,8 @@ window.CET6_WORDS = [
     "letter": "C",
     "word": "completely",
     "meaning": "完全地",
-    "ipa": "kəmˈplitli"
+    "ipa": "kəmˈplitli",
+    "pos": "adv."
   },
   {
     "id": 184,
@@ -2021,7 +2204,8 @@ window.CET6_WORDS = [
     "letter": "D",
     "word": "differentiate",
     "meaning": "区分；使不同",
-    "ipa": "ˌdɪfərˈɛnʧiˌeɪt"
+    "ipa": "ˌdɪfərˈɛnʧiˌeɪt",
+    "pos": "v."
   },
   {
     "id": 185,
@@ -2032,7 +2216,8 @@ window.CET6_WORDS = [
     "letter": "E",
     "word": "distinct",
     "meaning": "明显不同的；清晰的",
-    "ipa": "dɪˈstɪŋkt"
+    "ipa": "dɪˈstɪŋkt",
+    "pos": "adj."
   },
   {
     "id": 186,
@@ -2043,7 +2228,8 @@ window.CET6_WORDS = [
     "letter": "F",
     "word": "domain",
     "meaning": "领域",
-    "ipa": "doʊˈmeɪn"
+    "ipa": "doʊˈmeɪn",
+    "pos": "n."
   },
   {
     "id": 187,
@@ -2054,7 +2240,8 @@ window.CET6_WORDS = [
     "letter": "G",
     "word": "formidable",
     "meaning": "强大的；令人生畏的",
-    "ipa": "ˌfɔrˈmɪdəbəl"
+    "ipa": "ˌfɔrˈmɪdəbəl",
+    "pos": "adj."
   },
   {
     "id": 188,
@@ -2065,7 +2252,8 @@ window.CET6_WORDS = [
     "letter": "H",
     "word": "outperformed",
     "meaning": "表现胜过",
-    "ipa": "ˈaʊtpərˌfɔrmd"
+    "ipa": "ˈaʊtpərˌfɔrmd",
+    "pos": "v. / adj."
   },
   {
     "id": 189,
@@ -2076,7 +2264,8 @@ window.CET6_WORDS = [
     "letter": "I",
     "word": "overstated",
     "meaning": "夸大的；言过其实的",
-    "ipa": "ˈoʊvərˌsteɪtɪd"
+    "ipa": "ˈoʊvərˌsteɪtɪd",
+    "pos": "v. / adj."
   },
   {
     "id": 190,
@@ -2087,7 +2276,8 @@ window.CET6_WORDS = [
     "letter": "J",
     "word": "pledge",
     "meaning": "保证；誓言",
-    "ipa": "plɛʤ"
+    "ipa": "plɛʤ",
+    "pos": "n. / v."
   },
   {
     "id": 191,
@@ -2098,7 +2288,8 @@ window.CET6_WORDS = [
     "letter": "K",
     "word": "previously",
     "meaning": "先前；以前",
-    "ipa": "ˈpriviəsli"
+    "ipa": "ˈpriviəsli",
+    "pos": "adv."
   },
   {
     "id": 192,
@@ -2109,7 +2300,8 @@ window.CET6_WORDS = [
     "letter": "L",
     "word": "prospective",
     "meaning": "未来的；潜在的",
-    "ipa": "prəˈspɛktɪv"
+    "ipa": "prəˈspɛktɪv",
+    "pos": "adj."
   },
   {
     "id": 193,
@@ -2120,7 +2312,8 @@ window.CET6_WORDS = [
     "letter": "M",
     "word": "prove",
     "meaning": "证明；证实",
-    "ipa": "pruv"
+    "ipa": "pruv",
+    "pos": "v."
   },
   {
     "id": 194,
@@ -2131,7 +2324,8 @@ window.CET6_WORDS = [
     "letter": "N",
     "word": "surpass",
     "meaning": "超过；胜过",
-    "ipa": "sərˈpæs"
+    "ipa": "sərˈpæs",
+    "pos": "v."
   },
   {
     "id": 195,
@@ -2142,7 +2336,8 @@ window.CET6_WORDS = [
     "letter": "O",
     "word": "volume",
     "meaning": "量；容积；卷",
-    "ipa": "ˈvɑljum"
+    "ipa": "ˈvɑljum",
+    "pos": "n."
   },
   {
     "id": 196,
@@ -2153,7 +2348,8 @@ window.CET6_WORDS = [
     "letter": "A",
     "word": "attributes",
     "meaning": "属性；特征；归因于",
-    "ipa": "əˈtrɪˌbjuts"
+    "ipa": "əˈtrɪˌbjuts",
+    "pos": "n. / v."
   },
   {
     "id": 197,
@@ -2164,7 +2360,8 @@ window.CET6_WORDS = [
     "letter": "B",
     "word": "comprised",
     "meaning": "由…组成",
-    "ipa": "kəmˈpraɪzd"
+    "ipa": "kəmˈpraɪzd",
+    "pos": "v. / adj."
   },
   {
     "id": 198,
@@ -2175,7 +2372,8 @@ window.CET6_WORDS = [
     "letter": "C",
     "word": "conceded",
     "meaning": "承认了；让步了",
-    "ipa": "kənˈsidɪd"
+    "ipa": "kənˈsidɪd",
+    "pos": "v. / adj."
   },
   {
     "id": 199,
@@ -2186,7 +2384,8 @@ window.CET6_WORDS = [
     "letter": "D",
     "word": "conservation",
     "meaning": "保护；节约",
-    "ipa": "ˌkɑnsərˈveɪʃən"
+    "ipa": "ˌkɑnsərˈveɪʃən",
+    "pos": "n."
   },
   {
     "id": 200,
@@ -2197,7 +2396,8 @@ window.CET6_WORDS = [
     "letter": "E",
     "word": "diminishing",
     "meaning": "逐渐减少的",
-    "ipa": "dɪˈmɪnɪʃɪŋ"
+    "ipa": "dɪˈmɪnɪʃɪŋ",
+    "pos": "v. / adj."
   },
   {
     "id": 201,
@@ -2208,7 +2408,8 @@ window.CET6_WORDS = [
     "letter": "F",
     "word": "far",
     "meaning": "很；遥远地",
-    "ipa": "fɑr"
+    "ipa": "fɑr",
+    "pos": "n. / adj. / adv."
   },
   {
     "id": 202,
@@ -2219,7 +2420,8 @@ window.CET6_WORDS = [
     "letter": "G",
     "word": "inclined",
     "meaning": "倾向于…的",
-    "ipa": "ˌɪnˈklaɪnd"
+    "ipa": "ˌɪnˈklaɪnd",
+    "pos": "v. / adj."
   },
   {
     "id": 203,
@@ -2230,7 +2432,8 @@ window.CET6_WORDS = [
     "letter": "H",
     "word": "indulging",
     "meaning": "沉溺于；纵容",
-    "ipa": "ˌɪnˈdəlʤɪŋ"
+    "ipa": "ˌɪnˈdəlʤɪŋ",
+    "pos": "n. / v. / adj."
   },
   {
     "id": 204,
@@ -2241,7 +2444,8 @@ window.CET6_WORDS = [
     "letter": "I",
     "word": "innumerable",
     "meaning": "无数的",
-    "ipa": "ˌɪˈnumərəbəl"
+    "ipa": "ˌɪˈnumərəbəl",
+    "pos": "adj."
   },
   {
     "id": 205,
@@ -2252,7 +2456,8 @@ window.CET6_WORDS = [
     "letter": "J",
     "word": "mortality",
     "meaning": "死亡率；死亡",
-    "ipa": "mɔrˈtæləti"
+    "ipa": "mɔrˈtæləti",
+    "pos": "n."
   },
   {
     "id": 206,
@@ -2263,7 +2468,8 @@ window.CET6_WORDS = [
     "letter": "K",
     "word": "odds",
     "meaning": "可能性；几率；不利条件",
-    "ipa": "ɑdz"
+    "ipa": "ɑdz",
+    "pos": "n."
   },
   {
     "id": 207,
@@ -2274,7 +2480,8 @@ window.CET6_WORDS = [
     "letter": "L",
     "word": "plights",
     "meaning": "困境（复数）",
-    "ipa": "plaɪts"
+    "ipa": "plaɪts",
+    "pos": "n. / v."
   },
   {
     "id": 208,
@@ -2285,7 +2492,8 @@ window.CET6_WORDS = [
     "letter": "M",
     "word": "regulatory",
     "meaning": "监管的；规制的",
-    "ipa": "ˈrɛgjələˌtɔri"
+    "ipa": "ˈrɛgjələˌtɔri",
+    "pos": "adj."
   },
   {
     "id": 209,
@@ -2296,7 +2504,8 @@ window.CET6_WORDS = [
     "letter": "N",
     "word": "still",
     "meaning": "仍然；更加",
-    "ipa": "stɪl"
+    "ipa": "stɪl",
+    "pos": "n. / v. / adj. / adv."
   },
   {
     "id": 210,
@@ -2307,7 +2516,8 @@ window.CET6_WORDS = [
     "letter": "O",
     "word": "unmatchable",
     "meaning": "无可匹敌的",
-    "ipa": "ʌnˈmætʃəbəl"
+    "ipa": "ʌnˈmætʃəbəl",
+    "pos": "adj."
   },
   {
     "id": 211,
@@ -2318,7 +2528,8 @@ window.CET6_WORDS = [
     "letter": "A",
     "word": "activated",
     "meaning": "激活的；启动的",
-    "ipa": "ˈæktɪˌveɪtɪd"
+    "ipa": "ˈæktɪˌveɪtɪd",
+    "pos": "v. / adj."
   },
   {
     "id": 212,
@@ -2329,7 +2540,8 @@ window.CET6_WORDS = [
     "letter": "B",
     "word": "articulates",
     "meaning": "清楚表达",
-    "ipa": "ɑrˈtɪkjələts"
+    "ipa": "ɑrˈtɪkjələts",
+    "pos": "v. / adj."
   },
   {
     "id": 213,
@@ -2340,7 +2552,8 @@ window.CET6_WORDS = [
     "letter": "C",
     "word": "assessment",
     "meaning": "评估",
-    "ipa": "əˈsɛsmənt"
+    "ipa": "əˈsɛsmənt",
+    "pos": "n."
   },
   {
     "id": 214,
@@ -2351,7 +2564,8 @@ window.CET6_WORDS = [
     "letter": "D",
     "word": "consecutive",
     "meaning": "连续的",
-    "ipa": "kənˈsɛkjətɪv"
+    "ipa": "kənˈsɛkjətɪv",
+    "pos": "adj. / adv."
   },
   {
     "id": 215,
@@ -2362,7 +2576,8 @@ window.CET6_WORDS = [
     "letter": "E",
     "word": "cues",
     "meaning": "提示；线索",
-    "ipa": "kjuz"
+    "ipa": "kjuz",
+    "pos": "n."
   },
   {
     "id": 216,
@@ -2373,7 +2588,8 @@ window.CET6_WORDS = [
     "letter": "F",
     "word": "deny",
     "meaning": "否认；拒绝给予",
-    "ipa": "dɪˈnaɪ"
+    "ipa": "dɪˈnaɪ",
+    "pos": "v."
   },
   {
     "id": 217,
@@ -2384,7 +2600,8 @@ window.CET6_WORDS = [
     "letter": "G",
     "word": "discrepancy",
     "meaning": "差异；不一致",
-    "ipa": "dɪˈskrɛpənsi"
+    "ipa": "dɪˈskrɛpənsi",
+    "pos": "n."
   },
   {
     "id": 218,
@@ -2395,7 +2612,8 @@ window.CET6_WORDS = [
     "letter": "H",
     "word": "probably",
     "meaning": "可能；大概",
-    "ipa": "ˈprɑbəˌbli"
+    "ipa": "ˈprɑbəˌbli",
+    "pos": "adv."
   },
   {
     "id": 219,
@@ -2406,7 +2624,8 @@ window.CET6_WORDS = [
     "letter": "I",
     "word": "probes",
     "meaning": "探查；探针",
-    "ipa": "proʊbz"
+    "ipa": "proʊbz",
+    "pos": "n. / v."
   },
   {
     "id": 220,
@@ -2417,7 +2636,8 @@ window.CET6_WORDS = [
     "letter": "J",
     "word": "random",
     "meaning": "随机的；任意的",
-    "ipa": "ˈrændəm"
+    "ipa": "ˈrændəm",
+    "pos": "adj."
   },
   {
     "id": 221,
@@ -2428,7 +2648,8 @@ window.CET6_WORDS = [
     "letter": "K",
     "word": "recall",
     "meaning": "回忆；召回",
-    "ipa": "ˈriˌkɔl"
+    "ipa": "ˈriˌkɔl",
+    "pos": "n. / v."
   },
   {
     "id": 222,
@@ -2439,7 +2660,8 @@ window.CET6_WORDS = [
     "letter": "L",
     "word": "relatively",
     "meaning": "相对地",
-    "ipa": "ˈrɛlətɪvli"
+    "ipa": "ˈrɛlətɪvli",
+    "pos": "adv."
   },
   {
     "id": 223,
@@ -2450,7 +2672,8 @@ window.CET6_WORDS = [
     "letter": "M",
     "word": "saturated",
     "meaning": "饱和的；浸透的",
-    "ipa": "ˈsæʧərˌeɪtɪd"
+    "ipa": "ˈsæʧərˌeɪtɪd",
+    "pos": "v. / adj."
   },
   {
     "id": 224,
@@ -2461,7 +2684,8 @@ window.CET6_WORDS = [
     "letter": "N",
     "word": "symptoms",
     "meaning": "症状",
-    "ipa": "ˈsɪmptəmz"
+    "ipa": "ˈsɪmptəmz",
+    "pos": "n."
   },
   {
     "id": 225,
@@ -2472,7 +2696,8 @@ window.CET6_WORDS = [
     "letter": "O",
     "word": "terminate",
     "meaning": "终止；结束",
-    "ipa": "ˈtərməˌneɪt"
+    "ipa": "ˈtərməˌneɪt",
+    "pos": "v."
   },
   {
     "id": 226,
@@ -2483,7 +2708,8 @@ window.CET6_WORDS = [
     "letter": "A",
     "word": "apt",
     "meaning": "易于…的；恰当的",
-    "ipa": "æpt"
+    "ipa": "æpt",
+    "pos": "adj."
   },
   {
     "id": 227,
@@ -2494,7 +2720,8 @@ window.CET6_WORDS = [
     "letter": "B",
     "word": "burning",
     "meaning": "燃烧的；迫切的",
-    "ipa": "ˈbərnɪŋ"
+    "ipa": "ˈbərnɪŋ",
+    "pos": "n. / v. / adj."
   },
   {
     "id": 228,
@@ -2505,7 +2732,8 @@ window.CET6_WORDS = [
     "letter": "C",
     "word": "extremes",
     "meaning": "极端；极度状态",
-    "ipa": "ɪkˈstrimz"
+    "ipa": "ɪkˈstrimz",
+    "pos": "n. / adj."
   },
   {
     "id": 229,
@@ -2516,7 +2744,8 @@ window.CET6_WORDS = [
     "letter": "D",
     "word": "flat",
     "meaning": "平的；乏味的",
-    "ipa": "flæt"
+    "ipa": "flæt",
+    "pos": "n. / adj. / adv."
   },
   {
     "id": 230,
@@ -2527,7 +2756,8 @@ window.CET6_WORDS = [
     "letter": "E",
     "word": "fractions",
     "meaning": "小部分；分数",
-    "ipa": "ˈfrækʃənz"
+    "ipa": "ˈfrækʃənz",
+    "pos": "n. / v."
   },
   {
     "id": 231,
@@ -2538,7 +2768,8 @@ window.CET6_WORDS = [
     "letter": "F",
     "word": "overflowing",
     "meaning": "溢出的；充满的",
-    "ipa": "ˈoʊvərˌfloʊɪŋ"
+    "ipa": "ˈoʊvərˌfloʊɪŋ",
+    "pos": "v. / adj."
   },
   {
     "id": 232,
@@ -2549,7 +2780,8 @@ window.CET6_WORDS = [
     "letter": "G",
     "word": "parasites",
     "meaning": "寄生虫；寄生生物",
-    "ipa": "ˈpɛrəˌsaɪts"
+    "ipa": "ˈpɛrəˌsaɪts",
+    "pos": "n."
   },
   {
     "id": 233,
@@ -2560,7 +2792,8 @@ window.CET6_WORDS = [
     "letter": "H",
     "word": "probably",
     "meaning": "可能；大概",
-    "ipa": "ˈprɑbəˌbli"
+    "ipa": "ˈprɑbəˌbli",
+    "pos": "adv."
   },
   {
     "id": 234,
@@ -2571,7 +2804,8 @@ window.CET6_WORDS = [
     "letter": "I",
     "word": "sparingly",
     "meaning": "节俭地；少量地",
-    "ipa": "ˈspɛrɪŋli"
+    "ipa": "ˈspɛrɪŋli",
+    "pos": "adv."
   },
   {
     "id": 235,
@@ -2582,7 +2816,8 @@ window.CET6_WORDS = [
     "letter": "J",
     "word": "sprinkle",
     "meaning": "撒；洒；少量点缀",
-    "ipa": "ˈsprɪŋkəl"
+    "ipa": "ˈsprɪŋkəl",
+    "pos": "n. / v."
   },
   {
     "id": 236,
@@ -2593,7 +2828,8 @@ window.CET6_WORDS = [
     "letter": "K",
     "word": "steer",
     "meaning": "引导；驾驶",
-    "ipa": "stɪr"
+    "ipa": "stɪr",
+    "pos": "n. / v."
   },
   {
     "id": 237,
@@ -2604,7 +2840,8 @@ window.CET6_WORDS = [
     "letter": "L",
     "word": "stimulate",
     "meaning": "刺激；促进",
-    "ipa": "ˈstɪmjəˌleɪt"
+    "ipa": "ˈstɪmjəˌleɪt",
+    "pos": "v."
   },
   {
     "id": 238,
@@ -2615,7 +2852,8 @@ window.CET6_WORDS = [
     "letter": "M",
     "word": "sturdy",
     "meaning": "结实的；坚固的",
-    "ipa": "ˈstərdi"
+    "ipa": "ˈstərdi",
+    "pos": "adj."
   },
   {
     "id": 239,
@@ -2626,7 +2864,8 @@ window.CET6_WORDS = [
     "letter": "N",
     "word": "synonymous",
     "meaning": "同义的；等同于…的",
-    "ipa": "səˈnɑnəməs"
+    "ipa": "səˈnɑnəməs",
+    "pos": "adj."
   },
   {
     "id": 240,
@@ -2637,7 +2876,8 @@ window.CET6_WORDS = [
     "letter": "O",
     "word": "unique",
     "meaning": "独特的；唯一的",
-    "ipa": "juˈnik"
+    "ipa": "juˈnik",
+    "pos": "adj."
   },
   {
     "id": 241,
@@ -2648,7 +2888,8 @@ window.CET6_WORDS = [
     "letter": "A",
     "word": "activated",
     "meaning": "激活的；启动的",
-    "ipa": "ˈæktɪˌveɪtɪd"
+    "ipa": "ˈæktɪˌveɪtɪd",
+    "pos": "v. / adj."
   },
   {
     "id": 242,
@@ -2659,7 +2900,8 @@ window.CET6_WORDS = [
     "letter": "B",
     "word": "aggravated",
     "meaning": "加剧的；恶化的",
-    "ipa": "ˈægrəˌveɪtɪd"
+    "ipa": "ˈægrəˌveɪtɪd",
+    "pos": "v. / adj."
   },
   {
     "id": 243,
@@ -2670,7 +2912,8 @@ window.CET6_WORDS = [
     "letter": "C",
     "word": "ascertain",
     "meaning": "查明；确定",
-    "ipa": "ˌæsərˈteɪn"
+    "ipa": "ˌæsərˈteɪn",
+    "pos": "v."
   },
   {
     "id": 244,
@@ -2681,7 +2924,8 @@ window.CET6_WORDS = [
     "letter": "D",
     "word": "deliberate",
     "meaning": "故意的；深思熟虑的",
-    "ipa": "dɪˈlɪbərˌeɪt"
+    "ipa": "dɪˈlɪbərˌeɪt",
+    "pos": "v. / adj."
   },
   {
     "id": 245,
@@ -2692,7 +2936,8 @@ window.CET6_WORDS = [
     "letter": "E",
     "word": "differentiate",
     "meaning": "区分；使不同",
-    "ipa": "ˌdɪfərˈɛnʧiˌeɪt"
+    "ipa": "ˌdɪfərˈɛnʧiˌeɪt",
+    "pos": "v."
   },
   {
     "id": 246,
@@ -2703,7 +2948,8 @@ window.CET6_WORDS = [
     "letter": "F",
     "word": "discourse",
     "meaning": "论述；话语",
-    "ipa": "ˈdɪskɔrs"
+    "ipa": "ˈdɪskɔrs",
+    "pos": "n. / v."
   },
   {
     "id": 247,
@@ -2714,7 +2960,8 @@ window.CET6_WORDS = [
     "letter": "G",
     "word": "evokes",
     "meaning": "唤起；引发",
-    "ipa": "ɪˈvoʊks"
+    "ipa": "ɪˈvoʊks",
+    "pos": "v."
   },
   {
     "id": 248,
@@ -2725,7 +2972,8 @@ window.CET6_WORDS = [
     "letter": "H",
     "word": "inhibit",
     "meaning": "抑制；阻碍",
-    "ipa": "ˌɪnˈhɪbət"
+    "ipa": "ˌɪnˈhɪbət",
+    "pos": "v."
   },
   {
     "id": 249,
@@ -2736,7 +2984,8 @@ window.CET6_WORDS = [
     "letter": "I",
     "word": "manuscript",
     "meaning": "手稿；原稿",
-    "ipa": "ˈmænjəˌskrɪpt"
+    "ipa": "ˈmænjəˌskrɪpt",
+    "pos": "n."
   },
   {
     "id": 250,
@@ -2747,7 +2996,8 @@ window.CET6_WORDS = [
     "letter": "J",
     "word": "marvels",
     "meaning": "奇迹；惊叹",
-    "ipa": "ˈmɑrvəlz"
+    "ipa": "ˈmɑrvəlz",
+    "pos": "n. / v."
   },
   {
     "id": 251,
@@ -2758,7 +3008,8 @@ window.CET6_WORDS = [
     "letter": "K",
     "word": "remnants",
     "meaning": "遗迹；剩余物",
-    "ipa": "ˈrɛmnənts"
+    "ipa": "ˈrɛmnənts",
+    "pos": "n."
   },
   {
     "id": 252,
@@ -2769,7 +3020,8 @@ window.CET6_WORDS = [
     "letter": "L",
     "word": "scenarios",
     "meaning": "情形；设想（复数）",
-    "ipa": "sɪˈnɛrioʊz"
+    "ipa": "sɪˈnɛrioʊz",
+    "pos": "n."
   },
   {
     "id": 253,
@@ -2780,7 +3032,8 @@ window.CET6_WORDS = [
     "letter": "M",
     "word": "speculative",
     "meaning": "推测的；投机的",
-    "ipa": "ˈspɛkjələtɪv"
+    "ipa": "ˈspɛkjələtɪv",
+    "pos": "adj."
   },
   {
     "id": 254,
@@ -2791,7 +3044,8 @@ window.CET6_WORDS = [
     "letter": "N",
     "word": "unanimous",
     "meaning": "一致同意的",
-    "ipa": "juˈnænəməs"
+    "ipa": "juˈnænəməs",
+    "pos": "adj."
   },
   {
     "id": 255,
@@ -2802,7 +3056,8 @@ window.CET6_WORDS = [
     "letter": "O",
     "word": "uncertainty",
     "meaning": "不确定性",
-    "ipa": "ənˈsərtənti"
+    "ipa": "ənˈsərtənti",
+    "pos": "n."
   },
   {
     "id": 256,
@@ -2813,7 +3068,8 @@ window.CET6_WORDS = [
     "letter": "A",
     "word": "correlation",
     "meaning": "相关性；关联",
-    "ipa": "ˌkɔrəˈleɪʃən"
+    "ipa": "ˌkɔrəˈleɪʃən",
+    "pos": "n."
   },
   {
     "id": 257,
@@ -2824,7 +3080,8 @@ window.CET6_WORDS = [
     "letter": "B",
     "word": "dense",
     "meaning": "稠密的；密集的",
-    "ipa": "dɛns"
+    "ipa": "dɛns",
+    "pos": "adj."
   },
   {
     "id": 258,
@@ -2835,7 +3092,8 @@ window.CET6_WORDS = [
     "letter": "C",
     "word": "deter",
     "meaning": "阻止；威慑",
-    "ipa": "dɪˈtər"
+    "ipa": "dɪˈtər",
+    "pos": "v."
   },
   {
     "id": 259,
@@ -2846,7 +3104,8 @@ window.CET6_WORDS = [
     "letter": "D",
     "word": "equity",
     "meaning": "公平；股本",
-    "ipa": "ˈɛkwəti"
+    "ipa": "ˈɛkwəti",
+    "pos": "n."
   },
   {
     "id": 260,
@@ -2857,7 +3116,8 @@ window.CET6_WORDS = [
     "letter": "E",
     "word": "foster",
     "meaning": "促进；培养",
-    "ipa": "ˈfɑstər"
+    "ipa": "ˈfɑstər",
+    "pos": "n. / v. / adj."
   },
   {
     "id": 261,
@@ -2868,7 +3128,8 @@ window.CET6_WORDS = [
     "letter": "F",
     "word": "imperative",
     "meaning": "必要的；迫切的",
-    "ipa": "ˌɪmˈpɛrətɪv"
+    "ipa": "ˌɪmˈpɛrətɪv",
+    "pos": "n. / adj."
   },
   {
     "id": 262,
@@ -2879,7 +3140,8 @@ window.CET6_WORDS = [
     "letter": "G",
     "word": "impose",
     "meaning": "强加；征收",
-    "ipa": "ˌɪmˈpoʊz"
+    "ipa": "ˌɪmˈpoʊz",
+    "pos": "v."
   },
   {
     "id": 263,
@@ -2890,7 +3152,8 @@ window.CET6_WORDS = [
     "letter": "H",
     "word": "irrespective",
     "meaning": "不考虑的；不管",
-    "ipa": "ˌɪrəˈspɛktɪv"
+    "ipa": "ˌɪrəˈspɛktɪv",
+    "pos": "adv."
   },
   {
     "id": 264,
@@ -2901,7 +3164,8 @@ window.CET6_WORDS = [
     "letter": "I",
     "word": "longevity",
     "meaning": "长寿；持久",
-    "ipa": "lɔnˈʤɛvəti"
+    "ipa": "lɔnˈʤɛvəti",
+    "pos": "n."
   },
   {
     "id": 265,
@@ -2912,7 +3176,8 @@ window.CET6_WORDS = [
     "letter": "J",
     "word": "navigate",
     "meaning": "导航；设法应对",
-    "ipa": "ˈnævəˌgeɪt"
+    "ipa": "ˈnævəˌgeɪt",
+    "pos": "v."
   },
   {
     "id": 266,
@@ -2923,7 +3188,8 @@ window.CET6_WORDS = [
     "letter": "K",
     "word": "recreational",
     "meaning": "娱乐的；休闲的",
-    "ipa": "ˌrɛkriˈeɪʃənəl"
+    "ipa": "ˌrɛkriˈeɪʃənəl",
+    "pos": "adj."
   },
   {
     "id": 267,
@@ -2934,7 +3200,8 @@ window.CET6_WORDS = [
     "letter": "L",
     "word": "rotten",
     "meaning": "腐烂的；糟糕的",
-    "ipa": "ˈrɑtən"
+    "ipa": "ˈrɑtən",
+    "pos": "adj."
   },
   {
     "id": 268,
@@ -2945,7 +3212,8 @@ window.CET6_WORDS = [
     "letter": "M",
     "word": "sprawl",
     "meaning": "无序扩张；蔓延",
-    "ipa": "sprɔl"
+    "ipa": "sprɔl",
+    "pos": "n. / v."
   },
   {
     "id": 269,
@@ -2956,7 +3224,8 @@ window.CET6_WORDS = [
     "letter": "N",
     "word": "vibrate",
     "meaning": "振动；颤动",
-    "ipa": "ˈvaɪbreɪt"
+    "ipa": "ˈvaɪbreɪt",
+    "pos": "v."
   },
   {
     "id": 270,
@@ -2967,7 +3236,8 @@ window.CET6_WORDS = [
     "letter": "O",
     "word": "vicinity",
     "meaning": "附近；周边地区",
-    "ipa": "vɪˈsɪnɪti"
+    "ipa": "vɪˈsɪnɪti",
+    "pos": "n."
   },
   {
     "id": 271,
@@ -2978,7 +3248,8 @@ window.CET6_WORDS = [
     "letter": "A",
     "word": "alleviate",
     "meaning": "减轻；缓解",
-    "ipa": "əˈliviˌeɪt"
+    "ipa": "əˈliviˌeɪt",
+    "pos": "v."
   },
   {
     "id": 272,
@@ -2989,7 +3260,8 @@ window.CET6_WORDS = [
     "letter": "B",
     "word": "clarity",
     "meaning": "清晰；明确",
-    "ipa": "ˈklɛrɪti"
+    "ipa": "ˈklɛrɪti",
+    "pos": "n."
   },
   {
     "id": 273,
@@ -3000,7 +3272,8 @@ window.CET6_WORDS = [
     "letter": "C",
     "word": "cognitive",
     "meaning": "认知的",
-    "ipa": "ˈkɑgnɪtɪv"
+    "ipa": "ˈkɑgnɪtɪv",
+    "pos": "adj."
   },
   {
     "id": 274,
@@ -3011,7 +3284,8 @@ window.CET6_WORDS = [
     "letter": "D",
     "word": "composers",
     "meaning": "作曲家",
-    "ipa": "kəmˈpoʊzərz"
+    "ipa": "kəmˈpoʊzərz",
+    "pos": "n."
   },
   {
     "id": 275,
@@ -3022,7 +3296,8 @@ window.CET6_WORDS = [
     "letter": "E",
     "word": "hurt",
     "meaning": "伤害；受伤",
-    "ipa": "hərt"
+    "ipa": "hərt",
+    "pos": "n. / v. / adj."
   },
   {
     "id": 276,
@@ -3033,7 +3308,8 @@ window.CET6_WORDS = [
     "letter": "F",
     "word": "inhibiting",
     "meaning": "抑制的；阻碍的",
-    "ipa": "ˌɪnˈhɪbətɪŋ"
+    "ipa": "ˌɪnˈhɪbətɪŋ",
+    "pos": "v. / adj."
   },
   {
     "id": 277,
@@ -3044,7 +3320,8 @@ window.CET6_WORDS = [
     "letter": "G",
     "word": "interrogation",
     "meaning": "审问；询问",
-    "ipa": "ˌɪnˌtɛrəˈgeɪʃən"
+    "ipa": "ˌɪnˌtɛrəˈgeɪʃən",
+    "pos": "n."
   },
   {
     "id": 278,
@@ -3055,7 +3332,8 @@ window.CET6_WORDS = [
     "letter": "H",
     "word": "intrinsically",
     "meaning": "本质上；内在地",
-    "ipa": "ˌɪnˈtrɪnsɪkəli"
+    "ipa": "ˌɪnˈtrɪnsɪkəli",
+    "pos": "adv."
   },
   {
     "id": 279,
@@ -3066,7 +3344,8 @@ window.CET6_WORDS = [
     "letter": "I",
     "word": "loose",
     "meaning": "松的；宽松的",
-    "ipa": "lus"
+    "ipa": "lus",
+    "pos": "v. / adj. / adv."
   },
   {
     "id": 280,
@@ -3077,7 +3356,8 @@ window.CET6_WORDS = [
     "letter": "J",
     "word": "majestic",
     "meaning": "雄伟的；庄严的",
-    "ipa": "məˈʤɛstɪk"
+    "ipa": "məˈʤɛstɪk",
+    "pos": "adj."
   },
   {
     "id": 281,
@@ -3088,7 +3368,8 @@ window.CET6_WORDS = [
     "letter": "K",
     "word": "mandatory",
     "meaning": "强制的；必须的",
-    "ipa": "ˈmændəˌtɔri"
+    "ipa": "ˈmændəˌtɔri",
+    "pos": "n. / adj."
   },
   {
     "id": 282,
@@ -3099,7 +3380,8 @@ window.CET6_WORDS = [
     "letter": "L",
     "word": "recover",
     "meaning": "恢复；康复",
-    "ipa": "rɪˈkəvər"
+    "ipa": "rɪˈkəvər",
+    "pos": "v."
   },
   {
     "id": 283,
@@ -3110,7 +3392,8 @@ window.CET6_WORDS = [
     "letter": "M",
     "word": "significantly",
     "meaning": "显著地；重要地",
-    "ipa": "sɪgˈnɪfɪkəntli"
+    "ipa": "sɪgˈnɪfɪkəntli",
+    "pos": "adv."
   },
   {
     "id": 284,
@@ -3121,7 +3404,8 @@ window.CET6_WORDS = [
     "letter": "N",
     "word": "soothing",
     "meaning": "舒缓的；安抚的",
-    "ipa": "ˈsuðɪŋ"
+    "ipa": "ˈsuðɪŋ",
+    "pos": "v. / adj."
   },
   {
     "id": 285,
@@ -3132,7 +3416,8 @@ window.CET6_WORDS = [
     "letter": "O",
     "word": "wards",
     "meaning": "病房；病区",
-    "ipa": "wɔrdz"
+    "ipa": "wɔrdz",
+    "pos": "n. / v."
   },
   {
     "id": 286,
@@ -3143,7 +3428,8 @@ window.CET6_WORDS = [
     "letter": "A",
     "word": "adore",
     "meaning": "热爱；爱慕",
-    "ipa": "əˈdɔr"
+    "ipa": "əˈdɔr",
+    "pos": "v."
   },
   {
     "id": 287,
@@ -3154,7 +3440,8 @@ window.CET6_WORDS = [
     "letter": "B",
     "word": "appraise",
     "meaning": "评估；估价",
-    "ipa": "əˈpreɪz"
+    "ipa": "əˈpreɪz",
+    "pos": "v."
   },
   {
     "id": 288,
@@ -3165,7 +3452,8 @@ window.CET6_WORDS = [
     "letter": "C",
     "word": "assaults",
     "meaning": "攻击；袭击",
-    "ipa": "əˈsɔlts"
+    "ipa": "əˈsɔlts",
+    "pos": "n. / v."
   },
   {
     "id": 289,
@@ -3176,7 +3464,8 @@ window.CET6_WORDS = [
     "letter": "D",
     "word": "chemistry",
     "meaning": "化学；默契",
-    "ipa": "ˈkɛmɪstri"
+    "ipa": "ˈkɛmɪstri",
+    "pos": "n."
   },
   {
     "id": 290,
@@ -3187,7 +3476,8 @@ window.CET6_WORDS = [
     "letter": "E",
     "word": "coincidence",
     "meaning": "巧合；同时发生",
-    "ipa": "koʊˈɪnsɪdəns"
+    "ipa": "koʊˈɪnsɪdəns",
+    "pos": "n."
   },
   {
     "id": 291,
@@ -3198,7 +3488,8 @@ window.CET6_WORDS = [
     "letter": "F",
     "word": "cracks",
     "meaning": "裂缝；破裂",
-    "ipa": "kræks"
+    "ipa": "kræks",
+    "pos": "n. / v. / adj."
   },
   {
     "id": 292,
@@ -3209,7 +3500,8 @@ window.CET6_WORDS = [
     "letter": "G",
     "word": "deported",
     "meaning": "被驱逐出境的",
-    "ipa": "dɪˈpɔrtəd"
+    "ipa": "dɪˈpɔrtəd",
+    "pos": "v. / adj."
   },
   {
     "id": 293,
@@ -3220,7 +3512,8 @@ window.CET6_WORDS = [
     "letter": "H",
     "word": "dismisses",
     "meaning": "不理会；解雇；否定",
-    "ipa": "dɪsˈmɪsɪz"
+    "ipa": "dɪsˈmɪsɪz",
+    "pos": "v."
   },
   {
     "id": 294,
@@ -3231,7 +3524,8 @@ window.CET6_WORDS = [
     "letter": "I",
     "word": "illegally",
     "meaning": "非法地",
-    "ipa": "ˌɪˈligəli"
+    "ipa": "ˌɪˈligəli",
+    "pos": "adv."
   },
   {
     "id": 295,
@@ -3242,7 +3536,8 @@ window.CET6_WORDS = [
     "letter": "J",
     "word": "lost",
     "meaning": "丢失的；迷失的",
-    "ipa": "lɔst"
+    "ipa": "lɔst",
+    "pos": "n. / adj."
   },
   {
     "id": 296,
@@ -3253,7 +3548,8 @@ window.CET6_WORDS = [
     "letter": "K",
     "word": "perpetually",
     "meaning": "持续地；永不停止地",
-    "ipa": "pərˈpɛʧuəli"
+    "ipa": "pərˈpɛʧuəli",
+    "pos": "adv."
   },
   {
     "id": 297,
@@ -3264,7 +3560,8 @@ window.CET6_WORDS = [
     "letter": "L",
     "word": "prescribed",
     "meaning": "规定的；开处方的",
-    "ipa": "priˈskraɪbd"
+    "ipa": "priˈskraɪbd",
+    "pos": "v. / adj."
   },
   {
     "id": 298,
@@ -3275,7 +3572,8 @@ window.CET6_WORDS = [
     "letter": "M",
     "word": "shrewd",
     "meaning": "精明的；敏锐的",
-    "ipa": "ʃrud"
+    "ipa": "ʃrud",
+    "pos": "adj."
   },
   {
     "id": 299,
@@ -3286,7 +3584,8 @@ window.CET6_WORDS = [
     "letter": "N",
     "word": "skeptical",
     "meaning": "怀疑的",
-    "ipa": "ˈskɛptɪkəl"
+    "ipa": "ˈskɛptɪkəl",
+    "pos": "adj."
   },
   {
     "id": 300,
@@ -3297,7 +3596,8 @@ window.CET6_WORDS = [
     "letter": "O",
     "word": "strives",
     "meaning": "努力；奋斗",
-    "ipa": "straɪvz"
+    "ipa": "straɪvz",
+    "pos": "v."
   },
   {
     "id": 301,
@@ -3308,7 +3608,8 @@ window.CET6_WORDS = [
     "letter": "A",
     "word": "bounces",
     "meaning": "弹起；反射",
-    "ipa": "ˈbaʊnsɪz"
+    "ipa": "ˈbaʊnsɪz",
+    "pos": "n. / v."
   },
   {
     "id": 302,
@@ -3319,7 +3620,8 @@ window.CET6_WORDS = [
     "letter": "B",
     "word": "completely",
     "meaning": "完全地",
-    "ipa": "kəmˈplitli"
+    "ipa": "kəmˈplitli",
+    "pos": "adv."
   },
   {
     "id": 303,
@@ -3330,7 +3632,8 @@ window.CET6_WORDS = [
     "letter": "C",
     "word": "dispersion",
     "meaning": "扩散；分散",
-    "ipa": "dɪˈspərʒən"
+    "ipa": "dɪˈspərʒən",
+    "pos": "n."
   },
   {
     "id": 304,
@@ -3341,7 +3644,8 @@ window.CET6_WORDS = [
     "letter": "D",
     "word": "eccentric",
     "meaning": "古怪的；偏心的",
-    "ipa": "ˌɛkˈsɛntrɪk"
+    "ipa": "ˌɛkˈsɛntrɪk",
+    "pos": "n. / adj."
   },
   {
     "id": 305,
@@ -3352,7 +3656,8 @@ window.CET6_WORDS = [
     "letter": "E",
     "word": "hanging",
     "meaning": "悬挂的；悬而未决的",
-    "ipa": "ˈhæŋɪŋ"
+    "ipa": "ˈhæŋɪŋ",
+    "pos": "n. / v. / adj."
   },
   {
     "id": 306,
@@ -3363,7 +3668,8 @@ window.CET6_WORDS = [
     "letter": "F",
     "word": "optical",
     "meaning": "光学的；视觉的",
-    "ipa": "ˈɑptɪkəl"
+    "ipa": "ˈɑptɪkəl",
+    "pos": "adj."
   },
   {
     "id": 307,
@@ -3374,7 +3680,8 @@ window.CET6_WORDS = [
     "letter": "G",
     "word": "originates",
     "meaning": "起源于；产生",
-    "ipa": "ərˈɪʤəˌneɪts"
+    "ipa": "ərˈɪʤəˌneɪts",
+    "pos": "v."
   },
   {
     "id": 308,
@@ -3385,7 +3692,8 @@ window.CET6_WORDS = [
     "letter": "H",
     "word": "perceive",
     "meaning": "感知；认为",
-    "ipa": "pərˈsiv"
+    "ipa": "pərˈsiv",
+    "pos": "v."
   },
   {
     "id": 309,
@@ -3396,7 +3704,8 @@ window.CET6_WORDS = [
     "letter": "I",
     "word": "permeates",
     "meaning": "渗透；弥漫",
-    "ipa": "ˈpərmiˌeɪts"
+    "ipa": "ˈpərmiˌeɪts",
+    "pos": "v."
   },
   {
     "id": 310,
@@ -3407,7 +3716,8 @@ window.CET6_WORDS = [
     "letter": "J",
     "word": "ponder",
     "meaning": "仔细考虑",
-    "ipa": "ˈpɑndər"
+    "ipa": "ˈpɑndər",
+    "pos": "v."
   },
   {
     "id": 311,
@@ -3418,7 +3728,8 @@ window.CET6_WORDS = [
     "letter": "K",
     "word": "preceding",
     "meaning": "在前的；先前的",
-    "ipa": "priˈsidɪŋ"
+    "ipa": "priˈsidɪŋ",
+    "pos": "v. / adj."
   },
   {
     "id": 312,
@@ -3429,7 +3740,8 @@ window.CET6_WORDS = [
     "letter": "L",
     "word": "recklessly",
     "meaning": "鲁莽地；不顾后果地",
-    "ipa": "ˈrɛkləsli"
+    "ipa": "ˈrɛkləsli",
+    "pos": "adv."
   },
   {
     "id": 313,
@@ -3440,7 +3752,8 @@ window.CET6_WORDS = [
     "letter": "M",
     "word": "relation",
     "meaning": "关系；联系",
-    "ipa": "riˈleɪʃən"
+    "ipa": "riˈleɪʃən",
+    "pos": "n."
   },
   {
     "id": 314,
@@ -3451,7 +3764,8 @@ window.CET6_WORDS = [
     "letter": "N",
     "word": "spectrum",
     "meaning": "范围；光谱",
-    "ipa": "ˈspɛktrəm"
+    "ipa": "ˈspɛktrəm",
+    "pos": "n."
   },
   {
     "id": 315,
@@ -3462,7 +3776,8 @@ window.CET6_WORDS = [
     "letter": "O",
     "word": "stands",
     "meaning": "站立；代表；处于",
-    "ipa": "stændz"
+    "ipa": "stændz",
+    "pos": "n. / v."
   },
   {
     "id": 316,
@@ -3473,7 +3788,8 @@ window.CET6_WORDS = [
     "letter": "A",
     "word": "appeal",
     "meaning": "吸引力；呼吁",
-    "ipa": "əˈpil"
+    "ipa": "əˈpil",
+    "pos": "n. / v."
   },
   {
     "id": 317,
@@ -3484,7 +3800,8 @@ window.CET6_WORDS = [
     "letter": "B",
     "word": "extravagantly",
     "meaning": "奢侈地；挥霍地",
-    "ipa": "ˌɛkˈstrævəgəntli"
+    "ipa": "ˌɛkˈstrævəgəntli",
+    "pos": "adv."
   },
   {
     "id": 318,
@@ -3495,7 +3812,8 @@ window.CET6_WORDS = [
     "letter": "C",
     "word": "intrinsically",
     "meaning": "本质上；内在地",
-    "ipa": "ˌɪnˈtrɪnsɪkəli"
+    "ipa": "ˌɪnˈtrɪnsɪkəli",
+    "pos": "adv."
   },
   {
     "id": 319,
@@ -3506,7 +3824,8 @@ window.CET6_WORDS = [
     "letter": "D",
     "word": "irony",
     "meaning": "反讽；出人意料的结果",
-    "ipa": "ˈaɪrəni"
+    "ipa": "ˈaɪrəni",
+    "pos": "n."
   },
   {
     "id": 320,
@@ -3517,7 +3836,8 @@ window.CET6_WORDS = [
     "letter": "E",
     "word": "layman",
     "meaning": "外行；非专业人士",
-    "ipa": "ˈleɪmən"
+    "ipa": "ˈleɪmən",
+    "pos": "n."
   },
   {
     "id": 321,
@@ -3528,7 +3848,8 @@ window.CET6_WORDS = [
     "letter": "F",
     "word": "literally",
     "meaning": "按字面地；确实",
-    "ipa": "ˈlɪtərəli"
+    "ipa": "ˈlɪtərəli",
+    "pos": "adv."
   },
   {
     "id": 322,
@@ -3539,7 +3860,8 @@ window.CET6_WORDS = [
     "letter": "G",
     "word": "majestic",
     "meaning": "雄伟的；庄严的",
-    "ipa": "məˈʤɛstɪk"
+    "ipa": "məˈʤɛstɪk",
+    "pos": "adj."
   },
   {
     "id": 323,
@@ -3550,7 +3872,8 @@ window.CET6_WORDS = [
     "letter": "H",
     "word": "malicious",
     "meaning": "恶意的",
-    "ipa": "məˈlɪʃəs"
+    "ipa": "məˈlɪʃəs",
+    "pos": "adj."
   },
   {
     "id": 324,
@@ -3561,7 +3884,8 @@ window.CET6_WORDS = [
     "letter": "I",
     "word": "meadow",
     "meaning": "草地；牧场",
-    "ipa": "ˈmɛˌdoʊ"
+    "ipa": "ˈmɛˌdoʊ",
+    "pos": "n."
   },
   {
     "id": 325,
@@ -3572,7 +3896,8 @@ window.CET6_WORDS = [
     "letter": "J",
     "word": "mingle",
     "meaning": "混合；交往",
-    "ipa": "ˈmɪŋgəl"
+    "ipa": "ˈmɪŋgəl",
+    "pos": "v."
   },
   {
     "id": 326,
@@ -3583,7 +3908,8 @@ window.CET6_WORDS = [
     "letter": "K",
     "word": "predator",
     "meaning": "捕食者；掠夺者",
-    "ipa": "ˈprɛdətər"
+    "ipa": "ˈprɛdətər",
+    "pos": "n."
   },
   {
     "id": 327,
@@ -3594,7 +3920,8 @@ window.CET6_WORDS = [
     "letter": "L",
     "word": "rage",
     "meaning": "狂怒；盛行",
-    "ipa": "reɪʤ"
+    "ipa": "reɪʤ",
+    "pos": "n. / v."
   },
   {
     "id": 328,
@@ -3605,7 +3932,8 @@ window.CET6_WORDS = [
     "letter": "M",
     "word": "scrape",
     "meaning": "刮；擦伤；勉强通过",
-    "ipa": "skreɪp"
+    "ipa": "skreɪp",
+    "pos": "n. / v."
   },
   {
     "id": 329,
@@ -3616,7 +3944,8 @@ window.CET6_WORDS = [
     "letter": "N",
     "word": "shrewd",
     "meaning": "精明的；敏锐的",
-    "ipa": "ʃrud"
+    "ipa": "ʃrud",
+    "pos": "adj."
   },
   {
     "id": 330,
@@ -3627,7 +3956,8 @@ window.CET6_WORDS = [
     "letter": "O",
     "word": "thrifty",
     "meaning": "节俭的",
-    "ipa": "θˈrɪfti"
+    "ipa": "θˈrɪfti",
+    "pos": "adj."
   },
   {
     "id": 331,
@@ -3638,7 +3968,8 @@ window.CET6_WORDS = [
     "letter": "A",
     "word": "affectionate",
     "meaning": "充满爱意的",
-    "ipa": "əˈfɛkʃənət"
+    "ipa": "əˈfɛkʃənət",
+    "pos": "adj."
   },
   {
     "id": 332,
@@ -3649,7 +3980,8 @@ window.CET6_WORDS = [
     "letter": "B",
     "word": "approximately",
     "meaning": "大约",
-    "ipa": "əˈprɑksəmətli"
+    "ipa": "əˈprɑksəmətli",
+    "pos": "adv."
   },
   {
     "id": 333,
@@ -3660,7 +3992,8 @@ window.CET6_WORDS = [
     "letter": "C",
     "word": "elapses",
     "meaning": "（时间）流逝",
-    "ipa": "ɪˈlæpsɪz"
+    "ipa": "ɪˈlæpsɪz",
+    "pos": "v."
   },
   {
     "id": 334,
@@ -3671,7 +4004,8 @@ window.CET6_WORDS = [
     "letter": "D",
     "word": "erode",
     "meaning": "侵蚀；逐渐削弱",
-    "ipa": "ˈiroʊd"
+    "ipa": "ˈiroʊd",
+    "pos": "v."
   },
   {
     "id": 335,
@@ -3682,7 +4016,8 @@ window.CET6_WORDS = [
     "letter": "E",
     "word": "flattered",
     "meaning": "感到荣幸的；被奉承的",
-    "ipa": "ˈflætərd"
+    "ipa": "ˈflætərd",
+    "pos": "v. / adj."
   },
   {
     "id": 336,
@@ -3693,7 +4028,8 @@ window.CET6_WORDS = [
     "letter": "F",
     "word": "flips",
     "meaning": "翻转；突然转变",
-    "ipa": "flɪps"
+    "ipa": "flɪps",
+    "pos": "n. / v. / adj."
   },
   {
     "id": 337,
@@ -3704,7 +4040,8 @@ window.CET6_WORDS = [
     "letter": "G",
     "word": "halt",
     "meaning": "停止；中止",
-    "ipa": "hɔlt"
+    "ipa": "hɔlt",
+    "pos": "n. / v. / adj."
   },
   {
     "id": 338,
@@ -3715,7 +4052,8 @@ window.CET6_WORDS = [
     "letter": "H",
     "word": "overburdened",
     "meaning": "负担过重的",
-    "ipa": "ˈoʊvərˈbərdənd"
+    "ipa": "ˈoʊvərˈbərdənd",
+    "pos": "v. / adj."
   },
   {
     "id": 339,
@@ -3726,7 +4064,8 @@ window.CET6_WORDS = [
     "letter": "I",
     "word": "predominates",
     "meaning": "占主导地位",
-    "ipa": "prɪˈdɑməˌneɪts"
+    "ipa": "prɪˈdɑməˌneɪts",
+    "pos": "v. / adj."
   },
   {
     "id": 340,
@@ -3737,7 +4076,8 @@ window.CET6_WORDS = [
     "letter": "J",
     "word": "propagate",
     "meaning": "传播；繁殖",
-    "ipa": "ˈprɑpəˌgeɪt"
+    "ipa": "ˈprɑpəˌgeɪt",
+    "pos": "v."
   },
   {
     "id": 341,
@@ -3748,7 +4088,8 @@ window.CET6_WORDS = [
     "letter": "K",
     "word": "scenario",
     "meaning": "情形；设想",
-    "ipa": "sɪˈnɛrioʊ"
+    "ipa": "sɪˈnɛrioʊ",
+    "pos": "n."
   },
   {
     "id": 342,
@@ -3759,7 +4100,8 @@ window.CET6_WORDS = [
     "letter": "L",
     "word": "shadow",
     "meaning": "阴影；紧跟",
-    "ipa": "ˈʃæˌdoʊ"
+    "ipa": "ˈʃæˌdoʊ",
+    "pos": "n. / v."
   },
   {
     "id": 343,
@@ -3770,7 +4112,8 @@ window.CET6_WORDS = [
     "letter": "M",
     "word": "tentatively",
     "meaning": "试探性地；暂定地",
-    "ipa": "ˈtɛntətɪvli"
+    "ipa": "ˈtɛntətɪvli",
+    "pos": "adv."
   },
   {
     "id": 344,
@@ -3781,7 +4124,8 @@ window.CET6_WORDS = [
     "letter": "N",
     "word": "typically",
     "meaning": "通常；典型地",
-    "ipa": "ˈtɪpɪkəli"
+    "ipa": "ˈtɪpɪkəli",
+    "pos": "adv."
   },
   {
     "id": 345,
@@ -3792,7 +4136,8 @@ window.CET6_WORDS = [
     "letter": "O",
     "word": "vigorous",
     "meaning": "充满活力的；强有力的",
-    "ipa": "ˈvɪgərəs"
+    "ipa": "ˈvɪgərəs",
+    "pos": "adj."
   },
   {
     "id": 346,
@@ -3803,7 +4148,8 @@ window.CET6_WORDS = [
     "letter": "A",
     "word": "applaud",
     "meaning": "称赞；鼓掌",
-    "ipa": "əˈplɔd"
+    "ipa": "əˈplɔd",
+    "pos": "v."
   },
   {
     "id": 347,
@@ -3814,7 +4160,8 @@ window.CET6_WORDS = [
     "letter": "B",
     "word": "casualty",
     "meaning": "伤亡者；受害者",
-    "ipa": "ˈkæʒəwəlti"
+    "ipa": "ˈkæʒəwəlti",
+    "pos": "n."
   },
   {
     "id": 348,
@@ -3825,7 +4172,8 @@ window.CET6_WORDS = [
     "letter": "C",
     "word": "exclude",
     "meaning": "排除；不包括",
-    "ipa": "ɪkˈsklud"
+    "ipa": "ɪkˈsklud",
+    "pos": "v."
   },
   {
     "id": 349,
@@ -3836,7 +4184,8 @@ window.CET6_WORDS = [
     "letter": "D",
     "word": "extent",
     "meaning": "程度；范围",
-    "ipa": "ɪkˈstɛnt"
+    "ipa": "ɪkˈstɛnt",
+    "pos": "n."
   },
   {
     "id": 350,
@@ -3847,7 +4196,8 @@ window.CET6_WORDS = [
     "letter": "E",
     "word": "group",
     "meaning": "群体；将…分组",
-    "ipa": "grup"
+    "ipa": "grup",
+    "pos": "n. / v."
   },
   {
     "id": 351,
@@ -3858,7 +4208,8 @@ window.CET6_WORDS = [
     "letter": "F",
     "word": "hierarchical",
     "meaning": "等级制的；分层的",
-    "ipa": "ˌhaɪˈrɑrkəkəl"
+    "ipa": "ˌhaɪˈrɑrkəkəl",
+    "pos": "adj."
   },
   {
     "id": 352,
@@ -3869,7 +4220,8 @@ window.CET6_WORDS = [
     "letter": "G",
     "word": "immediate",
     "meaning": "立即的；直接的",
-    "ipa": "ˌɪˈmiˌdiət"
+    "ipa": "ˌɪˈmiˌdiət",
+    "pos": "adj."
   },
   {
     "id": 353,
@@ -3880,7 +4232,8 @@ window.CET6_WORDS = [
     "letter": "H",
     "word": "incredibly",
     "meaning": "难以置信地；非常",
-    "ipa": "ˌɪnˈkrɛdəbli"
+    "ipa": "ˌɪnˈkrɛdəbli",
+    "pos": "adv."
   },
   {
     "id": 354,
@@ -3891,7 +4244,8 @@ window.CET6_WORDS = [
     "letter": "I",
     "word": "moderate",
     "meaning": "适度的；缓和",
-    "ipa": "ˈmɑdərˌeɪt"
+    "ipa": "ˈmɑdərˌeɪt",
+    "pos": "n. / v. / adj."
   },
   {
     "id": 355,
@@ -3902,7 +4256,8 @@ window.CET6_WORDS = [
     "letter": "J",
     "word": "mortality",
     "meaning": "死亡率；死亡",
-    "ipa": "mɔrˈtæləti"
+    "ipa": "mɔrˈtæləti",
+    "pos": "n."
   },
   {
     "id": 356,
@@ -3913,7 +4268,8 @@ window.CET6_WORDS = [
     "letter": "K",
     "word": "overt",
     "meaning": "公开的；明显的",
-    "ipa": "ˈoʊvərt"
+    "ipa": "ˈoʊvərt",
+    "pos": "adj."
   },
   {
     "id": 357,
@@ -3924,7 +4280,8 @@ window.CET6_WORDS = [
     "letter": "L",
     "word": "praiseworthy",
     "meaning": "值得称赞的",
-    "ipa": "ˈpreɪzˌwərði"
+    "ipa": "ˈpreɪzˌwərði",
+    "pos": "adj."
   },
   {
     "id": 358,
@@ -3935,7 +4292,8 @@ window.CET6_WORDS = [
     "letter": "M",
     "word": "probe",
     "meaning": "探查；探究",
-    "ipa": "proʊb"
+    "ipa": "proʊb",
+    "pos": "n. / v."
   },
   {
     "id": 359,
@@ -3946,7 +4304,8 @@ window.CET6_WORDS = [
     "letter": "N",
     "word": "sceptically",
     "meaning": "怀疑地",
-    "ipa": "ˈskɛptɪkəli"
+    "ipa": "ˈskɛptɪkəli",
+    "pos": "adv."
   },
   {
     "id": 360,
@@ -3957,7 +4316,8 @@ window.CET6_WORDS = [
     "letter": "O",
     "word": "unequal",
     "meaning": "不平等的；不相等的",
-    "ipa": "əˈnikwəl"
+    "ipa": "əˈnikwəl",
+    "pos": "adj."
   },
   {
     "id": 361,
@@ -3968,7 +4328,8 @@ window.CET6_WORDS = [
     "letter": "A",
     "word": "aesthetic",
     "meaning": "审美的；美感",
-    "ipa": "ɛsˈθɛtɪk"
+    "ipa": "ɛsˈθɛtɪk",
+    "pos": "n. / adj."
   },
   {
     "id": 362,
@@ -3979,7 +4340,8 @@ window.CET6_WORDS = [
     "letter": "B",
     "word": "chronic",
     "meaning": "慢性的；长期的",
-    "ipa": "ˈkrɑnɪk"
+    "ipa": "ˈkrɑnɪk",
+    "pos": "adj."
   },
   {
     "id": 363,
@@ -3990,7 +4352,8 @@ window.CET6_WORDS = [
     "letter": "C",
     "word": "contaminated",
     "meaning": "被污染的",
-    "ipa": "kənˈtæməˌneɪtɪd"
+    "ipa": "kənˈtæməˌneɪtɪd",
+    "pos": "v. / adj."
   },
   {
     "id": 364,
@@ -4001,7 +4364,8 @@ window.CET6_WORDS = [
     "letter": "D",
     "word": "conventionally",
     "meaning": "按照惯例；传统上",
-    "ipa": "kənˈvɛnʃənəli"
+    "ipa": "kənˈvɛnʃənəli",
+    "pos": "adv."
   },
   {
     "id": 365,
@@ -4012,7 +4376,8 @@ window.CET6_WORDS = [
     "letter": "E",
     "word": "emissions",
     "meaning": "排放物；排放",
-    "ipa": "ɪˈmɪʃənz"
+    "ipa": "ɪˈmɪʃənz",
+    "pos": "n."
   },
   {
     "id": 366,
@@ -4023,7 +4388,8 @@ window.CET6_WORDS = [
     "letter": "F",
     "word": "environment",
     "meaning": "环境",
-    "ipa": "ɪnˈvaɪrənmənt"
+    "ipa": "ɪnˈvaɪrənmənt",
+    "pos": "n."
   },
   {
     "id": 367,
@@ -4034,7 +4400,8 @@ window.CET6_WORDS = [
     "letter": "G",
     "word": "hampering",
     "meaning": "妨碍；阻碍",
-    "ipa": "ˈhæmpərɪŋ"
+    "ipa": "ˈhæmpərɪŋ",
+    "pos": "v. / adj."
   },
   {
     "id": 368,
@@ -4045,7 +4412,8 @@ window.CET6_WORDS = [
     "letter": "H",
     "word": "incidentally",
     "meaning": "顺便地；偶然地",
-    "ipa": "ˌɪnsɪˈdɛntəli"
+    "ipa": "ˌɪnsɪˈdɛntəli",
+    "pos": "adv."
   },
   {
     "id": 369,
@@ -4056,7 +4424,8 @@ window.CET6_WORDS = [
     "letter": "I",
     "word": "infringement",
     "meaning": "侵犯；违反",
-    "ipa": "ˌɪnˈfrɪnʤmənt"
+    "ipa": "ˌɪnˈfrɪnʤmənt",
+    "pos": "n."
   },
   {
     "id": 370,
@@ -4067,7 +4436,8 @@ window.CET6_WORDS = [
     "letter": "J",
     "word": "intrigued",
     "meaning": "很感兴趣的；好奇的",
-    "ipa": "ˌɪnˈtrigd"
+    "ipa": "ˌɪnˈtrigd",
+    "pos": "v. / adj."
   },
   {
     "id": 371,
@@ -4078,7 +4448,8 @@ window.CET6_WORDS = [
     "letter": "K",
     "word": "juvenile",
     "meaning": "青少年的；幼年的",
-    "ipa": "ˈʤuvəˌnaɪl"
+    "ipa": "ˈʤuvəˌnaɪl",
+    "pos": "n. / adj."
   },
   {
     "id": 372,
@@ -4089,7 +4460,8 @@ window.CET6_WORDS = [
     "letter": "L",
     "word": "outlet",
     "meaning": "出口；渠道；销售点",
-    "ipa": "ˈaʊˌtlɛt"
+    "ipa": "ˈaʊˌtlɛt",
+    "pos": "n."
   },
   {
     "id": 373,
@@ -4100,7 +4472,8 @@ window.CET6_WORDS = [
     "letter": "M",
     "word": "rotating",
     "meaning": "旋转的；轮换的",
-    "ipa": "ˈroʊˌteɪtɪŋ"
+    "ipa": "ˈroʊˌteɪtɪŋ",
+    "pos": "v. / adj."
   },
   {
     "id": 374,
@@ -4111,7 +4484,8 @@ window.CET6_WORDS = [
     "letter": "N",
     "word": "vibrations",
     "meaning": "振动；波动",
-    "ipa": "vaɪˈbreɪʃənz"
+    "ipa": "vaɪˈbreɪʃənz",
+    "pos": "n."
   },
   {
     "id": 375,
@@ -4122,7 +4496,8 @@ window.CET6_WORDS = [
     "letter": "O",
     "word": "weeding",
     "meaning": "除草；剔除",
-    "ipa": "ˈwidɪŋ"
+    "ipa": "ˈwidɪŋ",
+    "pos": "v. / adj."
   },
   {
     "id": 376,
@@ -4133,7 +4508,8 @@ window.CET6_WORDS = [
     "letter": "A",
     "word": "adaptations",
     "meaning": "适应；改编",
-    "ipa": "ˌædəpˈteɪʃənz"
+    "ipa": "ˌædəpˈteɪʃənz",
+    "pos": "n."
   },
   {
     "id": 377,
@@ -4144,7 +4520,8 @@ window.CET6_WORDS = [
     "letter": "B",
     "word": "blasted",
     "meaning": "爆破的；受强烈冲击的",
-    "ipa": "ˈblæstɪd"
+    "ipa": "ˈblæstɪd",
+    "pos": "v. / adj."
   },
   {
     "id": 378,
@@ -4155,7 +4532,8 @@ window.CET6_WORDS = [
     "letter": "C",
     "word": "catastrophic",
     "meaning": "灾难性的",
-    "ipa": "ˌkætəˈstrɑfɪk"
+    "ipa": "ˌkætəˈstrɑfɪk",
+    "pos": "adj."
   },
   {
     "id": 379,
@@ -4166,7 +4544,8 @@ window.CET6_WORDS = [
     "letter": "D",
     "word": "evolved",
     "meaning": "演化的；逐步发展的",
-    "ipa": "ɪˈvɑlvd"
+    "ipa": "ɪˈvɑlvd",
+    "pos": "v. / adj."
   },
   {
     "id": 380,
@@ -4177,7 +4556,8 @@ window.CET6_WORDS = [
     "letter": "E",
     "word": "feat",
     "meaning": "壮举；技艺",
-    "ipa": "fit"
+    "ipa": "fit",
+    "pos": "n."
   },
   {
     "id": 381,
@@ -4188,7 +4568,8 @@ window.CET6_WORDS = [
     "letter": "F",
     "word": "interior",
     "meaning": "内部；内陆的",
-    "ipa": "ˌɪnˈtɪriər"
+    "ipa": "ˌɪnˈtɪriər",
+    "pos": "n. / adj."
   },
   {
     "id": 382,
@@ -4199,7 +4580,8 @@ window.CET6_WORDS = [
     "letter": "G",
     "word": "probing",
     "meaning": "深入探究的；探查",
-    "ipa": "ˈproʊbɪŋ"
+    "ipa": "ˈproʊbɪŋ",
+    "pos": "v. / adj."
   },
   {
     "id": 383,
@@ -4210,7 +4592,8 @@ window.CET6_WORDS = [
     "letter": "H",
     "word": "recurrence",
     "meaning": "再次发生；复发",
-    "ipa": "rɪˈkərəns"
+    "ipa": "rɪˈkərəns",
+    "pos": "n."
   },
   {
     "id": 384,
@@ -4221,7 +4604,8 @@ window.CET6_WORDS = [
     "letter": "I",
     "word": "rigors",
     "meaning": "严酷；艰苦",
-    "ipa": "ˈrɪgərz"
+    "ipa": "ˈrɪgərz",
+    "pos": "n."
   },
   {
     "id": 385,
@@ -4232,7 +4616,8 @@ window.CET6_WORDS = [
     "letter": "J",
     "word": "seemingly",
     "meaning": "看似；表面上",
-    "ipa": "ˈsimɪŋli"
+    "ipa": "ˈsimɪŋli",
+    "pos": "adv."
   },
   {
     "id": 386,
@@ -4243,7 +4628,8 @@ window.CET6_WORDS = [
     "letter": "K",
     "word": "survive",
     "meaning": "生存；幸存",
-    "ipa": "sərˈvaɪv"
+    "ipa": "sərˈvaɪv",
+    "pos": "v."
   },
   {
     "id": 387,
@@ -4254,7 +4640,8 @@ window.CET6_WORDS = [
     "letter": "L",
     "word": "tempt",
     "meaning": "诱惑；吸引",
-    "ipa": "tɛmpt"
+    "ipa": "tɛmpt",
+    "pos": "v."
   },
   {
     "id": 388,
@@ -4265,7 +4652,8 @@ window.CET6_WORDS = [
     "letter": "M",
     "word": "thrill",
     "meaning": "兴奋；使激动",
-    "ipa": "θrɪl"
+    "ipa": "θrɪl",
+    "pos": "n. / v."
   },
   {
     "id": 389,
@@ -4276,7 +4664,8 @@ window.CET6_WORDS = [
     "letter": "N",
     "word": "unanimously",
     "meaning": "一致地",
-    "ipa": "juˈnænəməsli"
+    "ipa": "juˈnænəməsli",
+    "pos": "adv."
   },
   {
     "id": 390,
@@ -4287,7 +4676,8 @@ window.CET6_WORDS = [
     "letter": "O",
     "word": "unfolding",
     "meaning": "正在展开的；显露",
-    "ipa": "ənˈfoʊldɪŋ"
+    "ipa": "ənˈfoʊldɪŋ",
+    "pos": "n. / v. / adj."
   },
   {
     "id": 391,
@@ -4298,7 +4688,8 @@ window.CET6_WORDS = [
     "letter": "A",
     "word": "bolsters",
     "meaning": "增强；支持",
-    "ipa": "ˈboʊlstərz"
+    "ipa": "ˈboʊlstərz",
+    "pos": "n. / v."
   },
   {
     "id": 392,
@@ -4309,7 +4700,8 @@ window.CET6_WORDS = [
     "letter": "B",
     "word": "consequences",
     "meaning": "后果",
-    "ipa": "ˈkɑnsəkˌwɛnsəz"
+    "ipa": "ˈkɑnsəkˌwɛnsəz",
+    "pos": "n."
   },
   {
     "id": 393,
@@ -4320,7 +4712,8 @@ window.CET6_WORDS = [
     "letter": "C",
     "word": "credentials",
     "meaning": "资历；资格证明",
-    "ipa": "krəˈdɛnʃəlz"
+    "ipa": "krəˈdɛnʃəlz",
+    "pos": "n."
   },
   {
     "id": 394,
@@ -4331,7 +4724,8 @@ window.CET6_WORDS = [
     "letter": "D",
     "word": "dramatically",
     "meaning": "显著地；剧烈地",
-    "ipa": "drəˈmætɪkəli"
+    "ipa": "drəˈmætɪkəli",
+    "pos": "adv."
   },
   {
     "id": 395,
@@ -4342,7 +4736,8 @@ window.CET6_WORDS = [
     "letter": "E",
     "word": "enact",
     "meaning": "制定（法律）；实施",
-    "ipa": "ɪˈnækt"
+    "ipa": "ɪˈnækt",
+    "pos": "v."
   },
   {
     "id": 396,
@@ -4353,7 +4748,8 @@ window.CET6_WORDS = [
     "letter": "F",
     "word": "equity",
     "meaning": "公平；股本",
-    "ipa": "ˈɛkwəti"
+    "ipa": "ˈɛkwəti",
+    "pos": "n."
   },
   {
     "id": 397,
@@ -4364,7 +4760,8 @@ window.CET6_WORDS = [
     "letter": "G",
     "word": "especially",
     "meaning": "尤其",
-    "ipa": "əˈspɛʃəli"
+    "ipa": "əˈspɛʃəli",
+    "pos": "adv."
   },
   {
     "id": 398,
@@ -4375,7 +4772,8 @@ window.CET6_WORDS = [
     "letter": "H",
     "word": "evasively",
     "meaning": "含糊其辞地；逃避地",
-    "ipa": "ɪˈveɪsɪvli"
+    "ipa": "ɪˈveɪsɪvli",
+    "pos": "adv."
   },
   {
     "id": 399,
@@ -4386,7 +4784,8 @@ window.CET6_WORDS = [
     "letter": "I",
     "word": "formidable",
     "meaning": "强大的；令人生畏的",
-    "ipa": "ˌfɔrˈmɪdəbəl"
+    "ipa": "ˌfɔrˈmɪdəbəl",
+    "pos": "adj."
   },
   {
     "id": 400,
@@ -4397,7 +4796,8 @@ window.CET6_WORDS = [
     "letter": "J",
     "word": "impetus",
     "meaning": "推动力；动力",
-    "ipa": "ˈɪmpətəs"
+    "ipa": "ˈɪmpətəs",
+    "pos": "n."
   },
   {
     "id": 401,
@@ -4408,7 +4808,8 @@ window.CET6_WORDS = [
     "letter": "K",
     "word": "lavish",
     "meaning": "奢华的；慷慨给予",
-    "ipa": "ˈlævɪʃ"
+    "ipa": "ˈlævɪʃ",
+    "pos": "v. / adj."
   },
   {
     "id": 402,
@@ -4419,7 +4820,8 @@ window.CET6_WORDS = [
     "letter": "L",
     "word": "prioritize",
     "meaning": "优先处理",
-    "ipa": "praɪˈɔrəˌtaɪz"
+    "ipa": "praɪˈɔrəˌtaɪz",
+    "pos": "v."
   },
   {
     "id": 403,
@@ -4430,7 +4832,8 @@ window.CET6_WORDS = [
     "letter": "M",
     "word": "suffices",
     "meaning": "足够；满足需要",
-    "ipa": "səˈfaɪsɪz"
+    "ipa": "səˈfaɪsɪz",
+    "pos": "v."
   },
   {
     "id": 404,
@@ -4441,7 +4844,8 @@ window.CET6_WORDS = [
     "letter": "N",
     "word": "sustained",
     "meaning": "持续的；维持的",
-    "ipa": "səˈsteɪnd"
+    "ipa": "səˈsteɪnd",
+    "pos": "v. / adj."
   },
   {
     "id": 405,
@@ -4452,7 +4856,8 @@ window.CET6_WORDS = [
     "letter": "O",
     "word": "tenured",
     "meaning": "获得终身职位的",
-    "ipa": "ˈtɛnjərd"
+    "ipa": "ˈtɛnjərd",
+    "pos": "v. / adj."
   },
   {
     "id": 406,
@@ -4463,7 +4868,8 @@ window.CET6_WORDS = [
     "letter": "A",
     "word": "adolescents",
     "meaning": "青少年",
-    "ipa": "ˌædəˈlɛsənts"
+    "ipa": "ˌædəˈlɛsənts",
+    "pos": "n. / adj."
   },
   {
     "id": 407,
@@ -4474,7 +4880,8 @@ window.CET6_WORDS = [
     "letter": "B",
     "word": "arbitrarily",
     "meaning": "任意地；武断地",
-    "ipa": "ˈɑrbɪˌtrɛrəli"
+    "ipa": "ˈɑrbɪˌtrɛrəli",
+    "pos": "adv."
   },
   {
     "id": 408,
@@ -4485,7 +4892,8 @@ window.CET6_WORDS = [
     "letter": "C",
     "word": "chronic",
     "meaning": "慢性的；长期的",
-    "ipa": "ˈkrɑnɪk"
+    "ipa": "ˈkrɑnɪk",
+    "pos": "adj."
   },
   {
     "id": 409,
@@ -4496,7 +4904,8 @@ window.CET6_WORDS = [
     "letter": "D",
     "word": "cognitive",
     "meaning": "认知的",
-    "ipa": "ˈkɑgnɪtɪv"
+    "ipa": "ˈkɑgnɪtɪv",
+    "pos": "adj."
   },
   {
     "id": 410,
@@ -4507,7 +4916,8 @@ window.CET6_WORDS = [
     "letter": "E",
     "word": "concede",
     "meaning": "承认；让步",
-    "ipa": "kənˈsid"
+    "ipa": "kənˈsid",
+    "pos": "v."
   },
   {
     "id": 411,
@@ -4518,7 +4928,8 @@ window.CET6_WORDS = [
     "letter": "F",
     "word": "disregard",
     "meaning": "忽视；不顾",
-    "ipa": "ˌdɪsrɪˈgɑrd"
+    "ipa": "ˌdɪsrɪˈgɑrd",
+    "pos": "n. / v."
   },
   {
     "id": 412,
@@ -4529,7 +4940,8 @@ window.CET6_WORDS = [
     "letter": "G",
     "word": "drop",
     "meaning": "下降；放弃",
-    "ipa": "drɔp"
+    "ipa": "drɔp",
+    "pos": "n. / v."
   },
   {
     "id": 413,
@@ -4540,7 +4952,8 @@ window.CET6_WORDS = [
     "letter": "H",
     "word": "ever",
     "meaning": "曾经；始终",
-    "ipa": "ˈɛvər"
+    "ipa": "ˈɛvər",
+    "pos": "adv."
   },
   {
     "id": 414,
@@ -4551,7 +4964,8 @@ window.CET6_WORDS = [
     "letter": "I",
     "word": "maneuver",
     "meaning": "操纵；机动；策略",
-    "ipa": "məˈnuvər"
+    "ipa": "məˈnuvər",
+    "pos": "n. / v."
   },
   {
     "id": 415,
@@ -4562,7 +4976,8 @@ window.CET6_WORDS = [
     "letter": "J",
     "word": "mortality",
     "meaning": "死亡率；死亡",
-    "ipa": "mɔrˈtæləti"
+    "ipa": "mɔrˈtæləti",
+    "pos": "n."
   },
   {
     "id": 416,
@@ -4573,7 +4988,8 @@ window.CET6_WORDS = [
     "letter": "K",
     "word": "particularly",
     "meaning": "尤其；特别",
-    "ipa": "ˌpɑrˈtɪkjələrli"
+    "ipa": "ˌpɑrˈtɪkjələrli",
+    "pos": "adv."
   },
   {
     "id": 417,
@@ -4584,7 +5000,8 @@ window.CET6_WORDS = [
     "letter": "L",
     "word": "patterns",
     "meaning": "模式；规律",
-    "ipa": "ˈpætərnz"
+    "ipa": "ˈpætərnz",
+    "pos": "n. / v."
   },
   {
     "id": 418,
@@ -4595,7 +5012,8 @@ window.CET6_WORDS = [
     "letter": "M",
     "word": "refute",
     "meaning": "反驳；驳斥",
-    "ipa": "rɪfˈjut"
+    "ipa": "rɪfˈjut",
+    "pos": "v."
   },
   {
     "id": 419,
@@ -4606,7 +5024,8 @@ window.CET6_WORDS = [
     "letter": "N",
     "word": "stereotype",
     "meaning": "刻板印象；使模式化",
-    "ipa": "ˈstɛrioʊˌtaɪp"
+    "ipa": "ˈstɛrioʊˌtaɪp",
+    "pos": "n. / v."
   },
   {
     "id": 420,
@@ -4617,7 +5036,8 @@ window.CET6_WORDS = [
     "letter": "O",
     "word": "vocal",
     "meaning": "直言不讳的；声音的",
-    "ipa": "ˈvoʊkəl"
+    "ipa": "ˈvoʊkəl",
+    "pos": "n. / adj."
   },
   {
     "id": 421,
@@ -4628,7 +5048,8 @@ window.CET6_WORDS = [
     "letter": "A",
     "word": "accompanying",
     "meaning": "伴随的",
-    "ipa": "əˈkəmpəniɪŋ"
+    "ipa": "əˈkəmpəniɪŋ",
+    "pos": "v. / adj."
   },
   {
     "id": 422,
@@ -4639,7 +5060,8 @@ window.CET6_WORDS = [
     "letter": "B",
     "word": "cognitive",
     "meaning": "认知的",
-    "ipa": "ˈkɑgnɪtɪv"
+    "ipa": "ˈkɑgnɪtɪv",
+    "pos": "adj."
   },
   {
     "id": 423,
@@ -4650,7 +5072,8 @@ window.CET6_WORDS = [
     "letter": "C",
     "word": "domains",
     "meaning": "领域",
-    "ipa": "doʊˈmeɪnz"
+    "ipa": "doʊˈmeɪnz",
+    "pos": "n."
   },
   {
     "id": 424,
@@ -4661,7 +5084,8 @@ window.CET6_WORDS = [
     "letter": "D",
     "word": "entertaining",
     "meaning": "有趣的；娱乐性的",
-    "ipa": "ˌɛnərˈteɪnɪŋ"
+    "ipa": "ˌɛnərˈteɪnɪŋ",
+    "pos": "v. / adj."
   },
   {
     "id": 425,
@@ -4672,7 +5096,8 @@ window.CET6_WORDS = [
     "letter": "E",
     "word": "evoking",
     "meaning": "唤起的；引发的",
-    "ipa": "ɪˈvoʊkɪŋ"
+    "ipa": "ɪˈvoʊkɪŋ",
+    "pos": "v. / adj."
   },
   {
     "id": 426,
@@ -4683,7 +5108,8 @@ window.CET6_WORDS = [
     "letter": "F",
     "word": "hybrid",
     "meaning": "混合的；混合体",
-    "ipa": "ˈhaɪbrɪd"
+    "ipa": "ˈhaɪbrɪd",
+    "pos": "n. / adj."
   },
   {
     "id": 427,
@@ -4694,7 +5120,8 @@ window.CET6_WORDS = [
     "letter": "G",
     "word": "impetus",
     "meaning": "推动力；动力",
-    "ipa": "ˈɪmpətəs"
+    "ipa": "ˈɪmpətəs",
+    "pos": "n."
   },
   {
     "id": 428,
@@ -4705,7 +5132,8 @@ window.CET6_WORDS = [
     "letter": "H",
     "word": "intuitive",
     "meaning": "直觉的；易懂的",
-    "ipa": "ˌɪnˈtuətɪv"
+    "ipa": "ˌɪnˈtuətɪv",
+    "pos": "adj."
   },
   {
     "id": 429,
@@ -4716,7 +5144,8 @@ window.CET6_WORDS = [
     "letter": "I",
     "word": "once",
     "meaning": "曾经；一旦",
-    "ipa": "wəns"
+    "ipa": "wəns",
+    "pos": "adv."
   },
   {
     "id": 430,
@@ -4727,7 +5156,8 @@ window.CET6_WORDS = [
     "letter": "J",
     "word": "oversee",
     "meaning": "监督；监管",
-    "ipa": "ˈoʊvərˌsi"
+    "ipa": "ˈoʊvərˌsi",
+    "pos": "v."
   },
   {
     "id": 431,
@@ -4738,7 +5168,8 @@ window.CET6_WORDS = [
     "letter": "K",
     "word": "redundant",
     "meaning": "多余的；被裁员的",
-    "ipa": "rɪˈdəndənt"
+    "ipa": "rɪˈdəndənt",
+    "pos": "adj."
   },
   {
     "id": 432,
@@ -4749,7 +5180,8 @@ window.CET6_WORDS = [
     "letter": "L",
     "word": "stances",
     "meaning": "立场；姿态",
-    "ipa": "ˈstænsɪz"
+    "ipa": "ˈstænsɪz",
+    "pos": "n."
   },
   {
     "id": 433,
@@ -4760,7 +5192,8 @@ window.CET6_WORDS = [
     "letter": "M",
     "word": "surpass",
     "meaning": "超过；胜过",
-    "ipa": "sərˈpæs"
+    "ipa": "sərˈpæs",
+    "pos": "v."
   },
   {
     "id": 434,
@@ -4771,7 +5204,8 @@ window.CET6_WORDS = [
     "letter": "N",
     "word": "tentatively",
     "meaning": "试探性地；暂定地",
-    "ipa": "ˈtɛntətɪvli"
+    "ipa": "ˈtɛntətɪvli",
+    "pos": "adv."
   },
   {
     "id": 435,
@@ -4782,7 +5216,8 @@ window.CET6_WORDS = [
     "letter": "O",
     "word": "vanish",
     "meaning": "消失",
-    "ipa": "ˈvænɪʃ"
+    "ipa": "ˈvænɪʃ",
+    "pos": "v."
   },
   {
     "id": 436,
@@ -4793,7 +5228,8 @@ window.CET6_WORDS = [
     "letter": "A",
     "word": "affix",
     "meaning": "粘上；附加",
-    "ipa": "ˈæfɪks"
+    "ipa": "ˈæfɪks",
+    "pos": "n. / v."
   },
   {
     "id": 437,
@@ -4804,7 +5240,8 @@ window.CET6_WORDS = [
     "letter": "B",
     "word": "correlate",
     "meaning": "相关；使相互联系",
-    "ipa": "ˈkɔrəˌleɪt"
+    "ipa": "ˈkɔrəˌleɪt",
+    "pos": "n. / v. / adj."
   },
   {
     "id": 438,
@@ -4815,7 +5252,8 @@ window.CET6_WORDS = [
     "letter": "C",
     "word": "deviate",
     "meaning": "偏离；背离",
-    "ipa": "ˈdiviˌeɪt"
+    "ipa": "ˈdiviˌeɪt",
+    "pos": "n. / v. / adj."
   },
   {
     "id": 439,
@@ -4826,7 +5264,8 @@ window.CET6_WORDS = [
     "letter": "D",
     "word": "domains",
     "meaning": "领域",
-    "ipa": "doʊˈmeɪnz"
+    "ipa": "doʊˈmeɪnz",
+    "pos": "n."
   },
   {
     "id": 440,
@@ -4837,7 +5276,8 @@ window.CET6_WORDS = [
     "letter": "E",
     "word": "influential",
     "meaning": "有影响力的",
-    "ipa": "ˌɪnfluˈɛnʃəl"
+    "ipa": "ˌɪnfluˈɛnʃəl",
+    "pos": "adj."
   },
   {
     "id": 441,
@@ -4848,7 +5288,8 @@ window.CET6_WORDS = [
     "letter": "F",
     "word": "inherently",
     "meaning": "内在地；本质上",
-    "ipa": "ˌɪnˈhɛrəntli"
+    "ipa": "ˌɪnˈhɛrəntli",
+    "pos": "adv."
   },
   {
     "id": 442,
@@ -4859,7 +5300,8 @@ window.CET6_WORDS = [
     "letter": "G",
     "word": "laymen",
     "meaning": "外行；非专业人士（复数）",
-    "ipa": "ˈleɪmən"
+    "ipa": "ˈleɪmən",
+    "pos": "n."
   },
   {
     "id": 443,
@@ -4870,7 +5312,8 @@ window.CET6_WORDS = [
     "letter": "H",
     "word": "multiple",
     "meaning": "多个的；多重的",
-    "ipa": "ˈməltəpəl"
+    "ipa": "ˈməltəpəl",
+    "pos": "n. / adj."
   },
   {
     "id": 444,
@@ -4881,7 +5324,8 @@ window.CET6_WORDS = [
     "letter": "I",
     "word": "properties",
     "meaning": "特性；财产",
-    "ipa": "ˈprɑpərtiz"
+    "ipa": "ˈprɑpərtiz",
+    "pos": "n."
   },
   {
     "id": 445,
@@ -4892,7 +5336,8 @@ window.CET6_WORDS = [
     "letter": "J",
     "word": "reality",
     "meaning": "现实",
-    "ipa": "ˌriˈæləˌti"
+    "ipa": "ˌriˈæləˌti",
+    "pos": "n."
   },
   {
     "id": 446,
@@ -4903,7 +5348,8 @@ window.CET6_WORDS = [
     "letter": "K",
     "word": "reciprocally",
     "meaning": "相互地；互惠地",
-    "ipa": "rɪˈsɪprəkəli"
+    "ipa": "rɪˈsɪprəkəli",
+    "pos": "adv."
   },
   {
     "id": 447,
@@ -4914,7 +5360,8 @@ window.CET6_WORDS = [
     "letter": "L",
     "word": "specimen",
     "meaning": "标本；样品",
-    "ipa": "ˈspɛsəmən"
+    "ipa": "ˈspɛsəmən",
+    "pos": "n."
   },
   {
     "id": 448,
@@ -4925,7 +5372,8 @@ window.CET6_WORDS = [
     "letter": "M",
     "word": "spectrum",
     "meaning": "范围；光谱",
-    "ipa": "ˈspɛktrəm"
+    "ipa": "ˈspɛktrəm",
+    "pos": "n."
   },
   {
     "id": 449,
@@ -4936,7 +5384,8 @@ window.CET6_WORDS = [
     "letter": "N",
     "word": "synonym",
     "meaning": "同义词",
-    "ipa": "ˈsɪnəˌnɪm"
+    "ipa": "ˈsɪnəˌnɪm",
+    "pos": "n."
   },
   {
     "id": 450,
@@ -4947,6 +5396,7 @@ window.CET6_WORDS = [
     "letter": "O",
     "word": "unanimous",
     "meaning": "一致同意的",
-    "ipa": "juˈnænəməs"
+    "ipa": "juˈnænəməs",
+    "pos": "adj."
   }
 ];

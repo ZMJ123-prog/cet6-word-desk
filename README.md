@@ -5,6 +5,7 @@ A local-first vocabulary study desk built from CET6 Section A word banks from 20
 ## Features
 
 - 450 vocabulary records with Chinese meanings
+- American IPA and parts of speech for every vocabulary record
 - Flashcard review with four familiarity ratings
 - English pronunciation using the browser speech API
 - Spelling quizzes and a wrong-word list
